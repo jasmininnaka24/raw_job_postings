@@ -1,3502 +1,3502 @@
 [
   {
-    "company_id": 78,
-    "name": "???",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 124,
+    "cmpnyName ": "ADAMS PLC",
+    "Indus_Try": "AI / ML",
+    "Size__": "200-500",
+    "founded_YR": 2000
   },
   {
-    "company_id": 32,
-    "name": "Ferrell, Murphy and Hill",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": 2016
+    "Comp.ID": 139,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "unknown",
+    "founded_YR": null
   },
   {
-    "company_id": 31,
-    "name": "???",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": 1991
+    "Comp.ID": 6,
+    "cmpnyName ": "soto, grant and young",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 109,
-    "name": "???",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": 1988
+    "Comp.ID": 128,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 93,
-    "name": "N/A",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 36,
+    "cmpnyName ": "???",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 15,
-    "name": "N/A",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 95,
+    "cmpnyName ": "harper-bond",
+    "Indus_Try": "data-driven",
+    "Size__": "",
+    "founded_YR": 1990
   },
   {
-    "company_id": 20,
-    "name": "OpenAI",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": 1981
+    "Comp.ID": 44,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 24,
-    "name": "open ai",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 81,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 98,
-    "name": "Stanton-Cruz",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": 1994
+    "Comp.ID": 80,
+    "cmpnyName ": "???",
+    "Indus_Try": "Finance",
+    "Size__": "unknown",
+    "founded_YR": 2018
   },
   {
-    "company_id": 51,
-    "name": "???",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 92,
+    "cmpnyName ": "MARTINEZ-LYNN",
+    "Indus_Try": "Tech",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 51,
-    "name": "Hansen Ltd",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 69,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 116,
-    "name": "brown ltd",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 35,
+    "cmpnyName ": "???",
+    "Indus_Try": "Education",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 58,
-    "name": "OpenAI",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 22,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "E-commerce",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 50,
-    "name": "???",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 150,
+    "cmpnyName ": "RODRIGUEZ-BARTON",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": 1999
   },
   {
-    "company_id": 73,
-    "name": "N/A",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 19,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 71,
-    "name": "RICHARD LLC",
-    "industry": "?",
-    "size": "",
-    "founded_year": 2012
+    "Comp.ID": 72,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 79,
-    "name": "open ai",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 92,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 52,
-    "name": "???",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 131,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 116,
-    "name": "Bean, Fisher and Castro",
-    "industry": "?",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 105,
+    "cmpnyName ": "COOPER, SERRANO AND RICHARDS",
+    "Indus_Try": "Finance",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 20,
-    "name": "price and sons",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 150,
+    "cmpnyName ": "TODD, WHITE AND JOHNSON",
+    "Indus_Try": "data-driven",
+    "Size__": "50-200",
+    "founded_YR": 1980
   },
   {
-    "company_id": 84,
-    "name": "GARCIA-GARCIA",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": 1996
+    "Comp.ID": 70,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Healthcare",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 38,
-    "name": "open ai",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 133,
+    "cmpnyName ": "MENDOZA, HARMON AND LONG",
+    "Indus_Try": "AI / ML",
+    "Size__": "50-200",
+    "founded_YR": 2011
   },
   {
-    "company_id": 41,
-    "name": "Pearson-Sanders",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": 2015
+    "Comp.ID": 101,
+    "cmpnyName ": "Jones-Marquez",
+    "Indus_Try": "Education",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 35,
-    "name": "Open-ai",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 23,
+    "cmpnyName ": "???",
+    "Indus_Try": "###",
+    "Size__": "unknown",
+    "founded_YR": null
   },
   {
-    "company_id": 57,
-    "name": "BALDWIN INC",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 23,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "N/A",
+    "Size__": "500-1000",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 71,
-    "name": "Alvarez-Munoz",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 37,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Finance",
+    "Size__": "unknown",
+    "founded_YR": null
   },
   {
-    "company_id": 101,
-    "name": "Open-ai",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 138,
+    "cmpnyName ": "???",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 21,
-    "name": "Collins-Henderson",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": 2015
+    "Comp.ID": 39,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 104,
-    "name": "WATSON-SMITH",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 95,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 26,
-    "name": "Open-ai",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 3,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 23,
-    "name": "N/A",
-    "industry": "Education",
-    "size": "",
-    "founded_year": 1987
+    "Comp.ID": 35,
+    "cmpnyName ": "???",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 38,
-    "name": "open ai",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": 1995
+    "Comp.ID": 54,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 44,
-    "name": "mcknight group",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 106,
+    "cmpnyName ": "???",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 6,
-    "name": "WATTS INC",
-    "industry": "?",
-    "size": "??",
-    "founded_year": 2015
+    "Comp.ID": 100,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 15,
-    "name": "salazar-pierce",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 82,
+    "cmpnyName ": "Rodriguez PLC",
+    "Indus_Try": "data-driven",
+    "Size__": "500-1000",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 85,
-    "name": "Open-ai",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": 1991
+    "Comp.ID": 145,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 46,
-    "name": "N/A",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 48,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": 2006
   },
   {
-    "company_id": 23,
-    "name": "open ai",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 144,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "50-200",
+    "founded_YR": null
   },
   {
-    "company_id": 47,
-    "name": "DAVIS-LAWSON",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 111,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 92,
-    "name": "???",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 127,
+    "cmpnyName ": "Smith, Sanchez and Stanton",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 46,
-    "name": "Zimmerman, Weaver and Edwards",
-    "industry": "Education",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 26,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 90,
-    "name": "HERNANDEZ-MARTIN",
-    "industry": "N/A",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 93,
+    "cmpnyName ": "???",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 26,
-    "name": "???",
-    "industry": "Tech",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 120,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 76,
-    "name": "???",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": 1995
+    "Comp.ID": 12,
+    "cmpnyName ": "Dodson-Clark",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": 1995
   },
   {
-    "company_id": 116,
-    "name": "Rose-Moss",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 120,
+    "cmpnyName ": "???",
+    "Indus_Try": "E-commerce",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 42,
-    "name": "HENRY PLC",
-    "industry": "Healthcare",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 116,
+    "cmpnyName ": "LEONARD-JOHNSON",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 20,
-    "name": "bailey plc",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 36,
+    "cmpnyName ": "Vasquez, Shaw and Martin",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": 2011
   },
   {
-    "company_id": 102,
-    "name": "N/A",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 121,
+    "cmpnyName ": "Scott, James and Garcia",
+    "Indus_Try": "Finance",
+    "Size__": "50-200",
+    "founded_YR": 1992
   },
   {
-    "company_id": 45,
-    "name": "Simmons-Myers",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 87,
+    "cmpnyName ": "Browning-Butler",
+    "Indus_Try": "data-driven",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 88,
-    "name": "Barrett Inc",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 17,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 60,
-    "name": "BATES-ALEXANDER",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 6,
+    "cmpnyName ": "BECKER-BURTON",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": 1996
   },
   {
-    "company_id": 96,
-    "name": "lewis-sanchez",
-    "industry": "N/A",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 147,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Finance",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 97,
-    "name": "Snyder, Duffy and Jacobs",
-    "industry": "Education",
-    "size": "",
-    "founded_year": 1984
+    "Comp.ID": 91,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Finance",
+    "Size__": "50-200",
+    "founded_YR": 2008
   },
   {
-    "company_id": 118,
-    "name": "Open-ai",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 18,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "data-driven",
+    "Size__": "",
+    "founded_YR": 2021
   },
   {
-    "company_id": 60,
-    "name": "mason, morales and richmond",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 145,
+    "cmpnyName ": "MARTINEZ, CLARK AND WILSON",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": 1987
   },
   {
-    "company_id": 69,
-    "name": "erickson-smith",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 46,
+    "cmpnyName ": "calderon group",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 45,
-    "name": "hawkins llc",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": 1980
+    "Comp.ID": 149,
+    "cmpnyName ": "Webb, Hansen and Johnson",
+    "Indus_Try": "Education",
+    "Size__": "",
+    "founded_YR": 1980
   },
   {
-    "company_id": 59,
-    "name": "MARTIN, SMITH AND MEYER",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": 2003
+    "Comp.ID": 94,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 79,
-    "name": "SMITH INC",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": 2017
+    "Comp.ID": 60,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Education",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 49,
-    "name": "???",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": 1988
+    "Comp.ID": 52,
+    "cmpnyName ": "FOLEY INC",
+    "Indus_Try": "E-commerce",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 47,
-    "name": "OpenAI",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 75,
+    "cmpnyName ": "PALMER-RAY",
+    "Indus_Try": "Tech",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 8,
-    "name": "MCCOY GROUP",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": 2002
+    "Comp.ID": 93,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "unknown",
+    "founded_YR": 2021
   },
   {
-    "company_id": 116,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 116,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Education",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 30,
-    "name": "Wallace-Richardson",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 43,
+    "cmpnyName ": "FITZGERALD GROUP",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": null
   },
   {
-    "company_id": 12,
-    "name": "N/A",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 75,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 103,
-    "name": "perez-flynn",
-    "industry": "N/A",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 126,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": 2007
   },
   {
-    "company_id": 71,
-    "name": "open ai",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 78,
+    "cmpnyName ": "VELEZ, SOLOMON AND BARNES",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": null
   },
   {
-    "company_id": 23,
-    "name": "Carrillo-Morgan",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 60,
+    "cmpnyName ": "Miles and Sons",
+    "Indus_Try": "?",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 79,
-    "name": "???",
-    "industry": "E-commerce",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 36,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Education",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 114,
-    "name": "N/A",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 148,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 24,
-    "name": "???",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 33,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 15,
-    "name": "garrett, robles and mccullough",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 108,
+    "cmpnyName ": "warren-fritz",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": 2005
   },
   {
-    "company_id": 115,
-    "name": "Walker-Ingram",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": 1988
+    "Comp.ID": 98,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 24,
-    "name": "???",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 39,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": 2020
   },
   {
-    "company_id": 108,
-    "name": "johnson, gross and sims",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 127,
+    "cmpnyName ": "???",
+    "Indus_Try": "###",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 117,
-    "name": "Singh, Carter and Schwartz",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": 2018
+    "Comp.ID": 109,
+    "cmpnyName ": "SCHNEIDER, YATES AND MIRANDA",
+    "Indus_Try": "Healthcare",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 52,
-    "name": "Open-ai",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 35,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "data-driven",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 23,
-    "name": "Hughes, Mays and Johnson",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": 1994
+    "Comp.ID": 84,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": 1982
   },
   {
-    "company_id": 63,
-    "name": "Open-ai",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": 1984
+    "Comp.ID": 56,
+    "cmpnyName ": "MAYO-PRATT",
+    "Indus_Try": "Tech",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 33,
-    "name": "brown-rasmussen",
-    "industry": "E-commerce",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 115,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 71,
-    "name": "N/A",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 137,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "data-driven",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 39,
-    "name": "ayala-daniel",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 45,
+    "cmpnyName ": "Leach-Contreras",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 43,
-    "name": "???",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": 1994
+    "Comp.ID": 18,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 104,
-    "name": "jones, phillips and kim",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 66,
+    "cmpnyName ": "NOLAN, CARNEY AND CRUZ",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 6,
-    "name": "Cameron-Perez",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 79,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 115,
-    "name": "N/A",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 50,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 75,
-    "name": "WATKINS-MCKENZIE",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 149,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 50,
-    "name": "???",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 82,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 13,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 146,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Finance",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 58,
-    "name": "N/A",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": 1991
+    "Comp.ID": 92,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "data-driven",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 60,
-    "name": "N/A",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": 2022
+    "Comp.ID": 6,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 118,
-    "name": "Open-ai",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 31,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Tech",
+    "Size__": "",
+    "founded_YR": 1994
   },
   {
-    "company_id": 19,
-    "name": "Jackson-Stanley",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 98,
+    "cmpnyName ": "Compton-Long",
+    "Indus_Try": "Tech",
+    "Size__": "??",
+    "founded_YR": 2015
   },
   {
-    "company_id": 36,
-    "name": "miller-carroll",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 46,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "E-commerce",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 54,
-    "name": "N/A",
-    "industry": "?",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 104,
+    "cmpnyName ": "Adams, Barker and Shaw",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 104,
-    "name": "???",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": 1985
+    "Comp.ID": 89,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "###",
+    "Size__": "500-1000",
+    "founded_YR": 2016
   },
   {
-    "company_id": 62,
-    "name": "N/A",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": 1989
+    "Comp.ID": 99,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 111,
-    "name": "open ai",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 56,
+    "cmpnyName ": "Hall, Smith and Moss",
+    "Indus_Try": "N/A",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 1,
-    "name": "OpenAI",
-    "industry": "Education",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 69,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "N/A",
+    "Size__": "",
+    "founded_YR": 2009
   },
   {
-    "company_id": 18,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 81,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Tech",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 65,
-    "name": "N/A",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 103,
+    "cmpnyName ": "fowler plc",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 12,
-    "name": "Johnson, Chapman and Wiggins",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 119,
+    "cmpnyName ": "???",
+    "Indus_Try": "E-commerce",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 53,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "??",
-    "founded_year": 2016
+    "Comp.ID": 87,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Tech",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 113,
-    "name": "open ai",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": 2011
+    "Comp.ID": 55,
+    "cmpnyName ": "Chapman, Robinson and Barrett",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 28,
-    "name": "Owens, Rojas and Williams",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 74,
+    "cmpnyName ": "york inc",
+    "Indus_Try": "data-driven",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 79,
-    "name": "Phillips-Mcpherson",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 59,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": 2010
   },
   {
-    "company_id": 25,
-    "name": "OpenAI",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 3,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 110,
-    "name": "SHAH AND SONS",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 70,
+    "cmpnyName ": "Jones Inc",
+    "Indus_Try": "AI / ML",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 82,
-    "name": "???",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 39,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Finance",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 32,
-    "name": "open ai",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 85,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": 1983
   },
   {
-    "company_id": 96,
-    "name": "burnett-thomas",
-    "industry": "###",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 29,
+    "cmpnyName ": "Walsh-Thompson",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 96,
-    "name": "open ai",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": 1991
+    "Comp.ID": 17,
+    "cmpnyName ": "jackson, mclean and joseph",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 49,
-    "name": "wise, medina and taylor",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 5,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Tech",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 93,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 124,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "?",
+    "Size__": "unknown",
+    "founded_YR": 2019
   },
   {
-    "company_id": 99,
-    "name": "ross-baker",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 125,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 28,
-    "name": "Foley and Sons",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 50,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 61,
-    "name": "carter, mccann and austin",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 80,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "N/A",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 120,
-    "name": "???",
-    "industry": "Tech",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 22,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Education",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 90,
-    "name": "Open-ai",
-    "industry": "Healthcare",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 23,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "data-driven",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 27,
-    "name": "hernandez inc",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 118,
+    "cmpnyName ": "mendoza-delgado",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": 1980
   },
   {
-    "company_id": 21,
-    "name": "N/A",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 38,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "data-driven",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 72,
-    "name": "OpenAI",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 95,
+    "cmpnyName ": "Mcmahon-Ramirez",
+    "Indus_Try": "data-driven",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 116,
-    "name": "Open-ai",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 133,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 120,
-    "name": "open ai",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 16,
+    "cmpnyName ": "GREEN-PHILLIPS",
+    "Indus_Try": "data-driven",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 3,
-    "name": "Davis Group",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 145,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 94,
-    "name": "SMITH-BUSH",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 6,
+    "cmpnyName ": "???",
+    "Indus_Try": "N/A",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 44,
-    "name": "BROWN-JACKSON",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 116,
+    "cmpnyName ": "BAUTISTA LTD",
+    "Indus_Try": "###",
+    "Size__": "200-500",
+    "founded_YR": 2022
   },
   {
-    "company_id": 59,
-    "name": "lam, ortiz and fuller",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 43,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 21,
-    "name": "Open-ai",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": 1987
+    "Comp.ID": 59,
+    "cmpnyName ": "ADAMS LTD",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 60,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 119,
+    "cmpnyName ": "Marshall Group",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 82,
-    "name": "N/A",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 23,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "500-1000",
+    "founded_YR": 1993
   },
   {
-    "company_id": 61,
-    "name": "OpenAI",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": 1998
+    "Comp.ID": 77,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 36,
-    "name": "open ai",
-    "industry": "###",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 29,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 108,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 69,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 49,
-    "name": "davis, riddle and rios",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": 2000
+    "Comp.ID": 72,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "E-commerce",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 38,
-    "name": "open ai",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": 2022
+    "Comp.ID": 117,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": null
   },
   {
-    "company_id": 85,
-    "name": "open ai",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": 2016
+    "Comp.ID": 111,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 6,
-    "name": "Turner Group",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 128,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "N/A",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 20,
-    "name": "N/A",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 96,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 38,
-    "name": "Open-ai",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 47,
+    "cmpnyName ": "MURPHY, WOODS AND SMITH",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 52,
-    "name": "Open-ai",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 59,
+    "cmpnyName ": "???",
+    "Indus_Try": "Healthcare",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 103,
-    "name": "N/A",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 107,
+    "cmpnyName ": "???",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 36,
-    "name": "garcia and sons",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 14,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 59,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 90,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 74,
-    "name": "steele inc",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 109,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 41,
-    "name": "DUNN GROUP",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 110,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Education",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 112,
-    "name": "jones and sons",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": 2018
+    "Comp.ID": 52,
+    "cmpnyName ": "???",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 70,
-    "name": "open ai",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 108,
+    "cmpnyName ": "MIDDLETON, ORTIZ AND COLON",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 112,
-    "name": "Open-ai",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": 1984
+    "Comp.ID": 132,
+    "cmpnyName ": "BARKER, YOUNG AND MARTIN",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": 2000
   },
   {
-    "company_id": 36,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 111,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": 1986
   },
   {
-    "company_id": 103,
-    "name": "Open-ai",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 19,
+    "cmpnyName ": "KELLY-HIGGINS",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 79,
-    "name": "cooper, tran and west",
-    "industry": "Education",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 126,
+    "cmpnyName ": "Gonzales, Williams and Johnson",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 111,
-    "name": "Griffin, Silva and Miller",
-    "industry": "Healthcare",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 100,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "data-driven",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 106,
-    "name": "ibarra-young",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 72,
+    "cmpnyName ": "???",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 25,
-    "name": "Open-ai",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 92,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Finance",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 48,
-    "name": "N/A",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": 1981
+    "Comp.ID": 23,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "data-driven",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 114,
-    "name": "Open-ai",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 62,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 80,
-    "name": "OpenAI",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 58,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 38,
-    "name": "deleon, adams and green",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 30,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 60,
-    "name": "OpenAI",
-    "industry": "Healthcare",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 136,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 43,
-    "name": "N/A",
-    "industry": "?",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 78,
+    "cmpnyName ": "???",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": null
   },
   {
-    "company_id": 70,
-    "name": "???",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 124,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 20,
-    "name": "???",
-    "industry": "E-commerce",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 135,
+    "cmpnyName ": "ALI, MILLER AND FLYNN",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 91,
-    "name": "OpenAI",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 74,
+    "cmpnyName ": "???",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 51,
-    "name": "OpenAI",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": 1983
+    "Comp.ID": 2,
+    "cmpnyName ": "???",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 32,
-    "name": "???",
-    "industry": "E-commerce",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 19,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 92,
-    "name": "open ai",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 108,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Tech",
+    "Size__": "??",
+    "founded_YR": 2009
   },
   {
-    "company_id": 86,
-    "name": "Open-ai",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 48,
+    "cmpnyName ": "???",
+    "Indus_Try": "Education",
+    "Size__": "200-500",
+    "founded_YR": 2015
   },
   {
-    "company_id": 106,
-    "name": "Hahn PLC",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 118,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 30,
-    "name": "???",
-    "industry": "Healthcare",
-    "size": "200-500",
-    "founded_year": 2017
+    "Comp.ID": 115,
+    "cmpnyName ": "boyd group",
+    "Indus_Try": "data-driven",
+    "Size__": "??",
+    "founded_YR": 2015
   },
   {
-    "company_id": 86,
-    "name": "N/A",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": 2009
+    "Comp.ID": 99,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 66,
-    "name": "JENKINS GROUP",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": 2008
+    "Comp.ID": 26,
+    "cmpnyName ": "???",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": 1991
   },
   {
-    "company_id": 60,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": 2018
+    "Comp.ID": 95,
+    "cmpnyName ": "key-moore",
+    "Indus_Try": "###",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 1,
-    "name": "Open-ai",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 90,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 117,
-    "name": "N/A",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 45,
+    "cmpnyName ": "Moore LLC",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": 2015
   },
   {
-    "company_id": 45,
-    "name": "HARMON, PEREZ AND INGRAM",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 95,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "###",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 81,
-    "name": "WELLS-DAVIS",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 5,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 66,
-    "name": "Welch, Perkins and Martin",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": 2018
+    "Comp.ID": 13,
+    "cmpnyName ": "barr, bell and burton",
+    "Indus_Try": "Finance",
+    "Size__": "500-1000",
+    "founded_YR": 2019
   },
   {
-    "company_id": 7,
-    "name": "N/A",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 87,
+    "cmpnyName ": "Jones-Owens",
+    "Indus_Try": "data-driven",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 21,
-    "name": "OpenAI",
-    "industry": "Tech",
-    "size": "500-1000",
-    "founded_year": 1980
+    "Comp.ID": 139,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "500-1000",
+    "founded_YR": 2012
   },
   {
-    "company_id": 87,
-    "name": "OpenAI",
-    "industry": "Tech",
-    "size": "500-1000",
-    "founded_year": 1986
+    "Comp.ID": 33,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "N/A",
+    "Size__": "unknown",
+    "founded_YR": 1998
   },
   {
-    "company_id": 26,
-    "name": "???",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 69,
+    "cmpnyName ": "???",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 5,
-    "name": "open ai",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 110,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Healthcare",
+    "Size__": "50-200",
+    "founded_YR": null
   },
   {
-    "company_id": 74,
-    "name": "HOLMES, JACKSON AND COOK",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 123,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": 1994
   },
   {
-    "company_id": 10,
-    "name": "OpenAI",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": 1999
+    "Comp.ID": 72,
+    "cmpnyName ": "simmons llc",
+    "Indus_Try": "Tech",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 93,
-    "name": "LEACH, SANDERS AND GARCIA",
-    "industry": "Education",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 23,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": 2020
   },
   {
-    "company_id": 93,
-    "name": "Palmer Group",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 100,
+    "cmpnyName ": "harvey, jackson and mills",
+    "Indus_Try": "Finance",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 2,
-    "name": "Palmer-Cook",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 141,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "N/A",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 68,
-    "name": "Open-ai",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 99,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 18,
-    "name": "OpenAI",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 57,
+    "cmpnyName ": "smith-wright",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 39,
-    "name": "HOPKINS LTD",
-    "industry": "?",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 140,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": 1984
   },
   {
-    "company_id": 102,
-    "name": "???",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 22,
+    "cmpnyName ": "barton, hodges and ward",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 30,
-    "name": "N/A",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 78,
+    "cmpnyName ": "Riddle-Swanson",
+    "Indus_Try": "###",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 20,
-    "name": "Wiley, Terry and Scott",
-    "industry": "Healthcare",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 144,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 102,
-    "name": "OpenAI",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 49,
+    "cmpnyName ": "hancock, robertson and murphy",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": 2012
   },
   {
-    "company_id": 114,
-    "name": "N/A",
-    "industry": "?",
-    "size": "",
-    "founded_year": 2004
+    "Comp.ID": 97,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 34,
-    "name": "RUSSELL GROUP",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 26,
+    "cmpnyName ": "FLETCHER-REYES",
+    "Indus_Try": "?",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 20,
-    "name": "open ai",
-    "industry": "E-commerce",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 95,
+    "cmpnyName ": "johnson-ramsey",
+    "Indus_Try": "###",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 72,
-    "name": "OpenAI",
-    "industry": "###",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 17,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "N/A",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 60,
-    "name": "OpenAI",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 144,
+    "cmpnyName ": "haney inc",
+    "Indus_Try": "E-commerce",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 79,
-    "name": "GUTIERREZ, PHAM AND ADAMS",
-    "industry": "Education",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 80,
+    "cmpnyName ": "ROJAS, WEBB AND DAVIS",
+    "Indus_Try": "Tech",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 67,
-    "name": "barnett-navarro",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": 1995
+    "Comp.ID": 2,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 51,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": 2005
+    "Comp.ID": 12,
+    "cmpnyName ": "Miller-Melton",
+    "Indus_Try": "E-commerce",
+    "Size__": "50-200",
+    "founded_YR": null
   },
   {
-    "company_id": 63,
-    "name": "open ai",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 56,
+    "cmpnyName ": "???",
+    "Indus_Try": "###",
+    "Size__": "unknown",
+    "founded_YR": null
   },
   {
-    "company_id": 59,
-    "name": "Open-ai",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": 1984
+    "Comp.ID": 22,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "unknown",
+    "founded_YR": null
   },
   {
-    "company_id": 86,
-    "name": "???",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 64,
+    "cmpnyName ": "CHAPMAN, DAVIS AND THOMAS",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 75,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 72,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "?",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 70,
-    "name": "Wilson, Evans and Blake",
-    "industry": "E-commerce",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 81,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 23,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": 1980
+    "Comp.ID": 82,
+    "cmpnyName ": "andrade-obrien",
+    "Indus_Try": "Tech",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 13,
-    "name": "Dalton Inc",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": 1993
+    "Comp.ID": 87,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 47,
-    "name": "Fuller and Sons",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 133,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": 2020
   },
   {
-    "company_id": 102,
-    "name": "OpenAI",
-    "industry": "?",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 58,
+    "cmpnyName ": "Rivera Inc",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 114,
-    "name": "OpenAI",
-    "industry": "N/A",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 81,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 106,
-    "name": "PIERCE, ALEXANDER AND MONTES",
-    "industry": "Healthcare",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 67,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 37,
-    "name": "Williams Ltd",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": 1981
+    "Comp.ID": 80,
+    "cmpnyName ": "Smith, Williams and Houston",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": 2018
   },
   {
-    "company_id": 68,
-    "name": "STONE LTD",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 129,
+    "cmpnyName ": "???",
+    "Indus_Try": "data-driven",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 9,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 17,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Tech",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 92,
-    "name": "OpenAI",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 76,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "N/A",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 86,
-    "name": "N/A",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": 1986
+    "Comp.ID": 145,
+    "cmpnyName ": "smith ltd",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": 2016
   },
   {
-    "company_id": 116,
-    "name": "Aguilar Group",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": 1983
+    "Comp.ID": 107,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "###",
+    "Size__": "unknown",
+    "founded_YR": 1984
   },
   {
-    "company_id": 73,
-    "name": "open ai",
-    "industry": "Education",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 48,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 119,
-    "name": "open ai",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 140,
+    "cmpnyName ": "thompson, khan and knight",
+    "Indus_Try": "Education",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 82,
-    "name": "N/A",
-    "industry": "Tech",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 26,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Tech",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 90,
-    "name": "N/A",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 135,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 36,
-    "name": "RUIZ LTD",
-    "industry": "?",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 40,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "?",
+    "Size__": "50-200",
+    "founded_YR": 1988
   },
   {
-    "company_id": 33,
-    "name": "OpenAI",
-    "industry": "Education",
-    "size": "",
-    "founded_year": 2012
+    "Comp.ID": 42,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 3,
-    "name": "OpenAI",
-    "industry": "Healthcare",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 21,
+    "cmpnyName ": "Collins-Kim",
+    "Indus_Try": "N/A",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 29,
-    "name": "Wade, Tucker and Marshall",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 1,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": 2017
   },
   {
-    "company_id": 56,
-    "name": "OpenAI",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 9,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": 1980
   },
   {
-    "company_id": 90,
-    "name": "Pratt, Harris and Smith",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 101,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 113,
-    "name": "N/A",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": 1988
+    "Comp.ID": 65,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Finance",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 96,
-    "name": "open ai",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 58,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 47,
-    "name": "walker group",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": 2021
+    "Comp.ID": 32,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Healthcare",
+    "Size__": "50-200",
+    "founded_YR": 2022
   },
   {
-    "company_id": 42,
-    "name": "moody-green",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 63,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Finance",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 29,
-    "name": "edwards llc",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 90,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 4,
-    "name": "N/A",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 95,
+    "cmpnyName ": "???",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 65,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": 2016
+    "Comp.ID": 136,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Education",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 13,
-    "name": "Open-ai",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 118,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 70,
-    "name": "Castro, Wolfe and Patel",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 131,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Finance",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 120,
-    "name": "OpenAI",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 106,
+    "cmpnyName ": "???",
+    "Indus_Try": "AI / ML",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 27,
-    "name": "N/A",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 135,
+    "cmpnyName ": "Martin-Cunningham",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 54,
-    "name": "perez-gibbs",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": 1999
+    "Comp.ID": 72,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "###",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 116,
-    "name": "???",
-    "industry": "Education",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 30,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Finance",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 77,
-    "name": "Martinez, Mullins and Harris",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": 2014
+    "Comp.ID": 128,
+    "cmpnyName ": "SAUNDERS AND SONS",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 86,
-    "name": "HALL INC",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": 2014
+    "Comp.ID": 104,
+    "cmpnyName ": "Fields, Chen and Cameron",
+    "Indus_Try": "Healthcare",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 80,
-    "name": "shelton-orozco",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": 1987
+    "Comp.ID": 44,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "###",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 69,
-    "name": "OpenAI",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": 1996
+    "Comp.ID": 140,
+    "cmpnyName ": "HARMON-HENDERSON",
+    "Indus_Try": "data-driven",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 14,
-    "name": "walsh, blanchard and reynolds",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": 2016
+    "Comp.ID": 22,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": 2014
   },
   {
-    "company_id": 54,
-    "name": "N/A",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 76,
+    "cmpnyName ": "CUNNINGHAM AND SONS",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 6,
-    "name": "OpenAI",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 9,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 120,
-    "name": "Olsen-Pace",
-    "industry": "###",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 75,
+    "cmpnyName ": "???",
+    "Indus_Try": "E-commerce",
+    "Size__": "500-1000",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 115,
-    "name": "Clayton, Lambert and Steele",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": 2005
+    "Comp.ID": 127,
+    "cmpnyName ": "Ruiz LLC",
+    "Indus_Try": "data-driven",
+    "Size__": "50-200",
+    "founded_YR": 1981
   },
   {
-    "company_id": 52,
-    "name": "Alexander Inc",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 81,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "data-driven",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 102,
-    "name": "???",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 68,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "?",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 23,
-    "name": "Pearson LLC",
-    "industry": "?",
-    "size": "??",
-    "founded_year": 2009
+    "Comp.ID": 87,
+    "cmpnyName ": "LUNA LTD",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 85,
-    "name": "CAMPBELL-COOK",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": 2009
+    "Comp.ID": 134,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "###",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 31,
-    "name": "???",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": 1983
+    "Comp.ID": 87,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Finance",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 64,
-    "name": "paul-williams",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 56,
+    "cmpnyName ": "PEARSON, PAYNE AND MEYER",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 49,
-    "name": "???",
-    "industry": "###",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 84,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 8,
-    "name": "SANTIAGO-SHEPARD",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 138,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Tech",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 43,
-    "name": "fitzgerald-gilbert",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 64,
+    "cmpnyName ": "HERNANDEZ-MORROW",
+    "Indus_Try": "Finance",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 21,
-    "name": "Gillespie-Byrd",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": 2017
+    "Comp.ID": 87,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 38,
-    "name": "N/A",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 98,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": 1990
   },
   {
-    "company_id": 42,
-    "name": "torres plc",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 138,
+    "cmpnyName ": "CHEN, PETERS AND PAGE",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 104,
-    "name": "TRUJILLO-HEATH",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": 2007
+    "Comp.ID": 50,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 114,
-    "name": "???",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 49,
+    "cmpnyName ": "???",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 32,
-    "name": "Open-ai",
-    "industry": "Education",
-    "size": "",
-    "founded_year": 1997
+    "Comp.ID": 106,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 17,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "??",
-    "founded_year": 1980
+    "Comp.ID": 10,
+    "cmpnyName ": "FOSTER, GREEN AND MARTINEZ",
+    "Indus_Try": "data-driven",
+    "Size__": "500-1000",
+    "founded_YR": 2000
   },
   {
-    "company_id": 75,
-    "name": "open ai",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": 2004
+    "Comp.ID": 100,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 34,
-    "name": "carter inc",
-    "industry": "N/A",
-    "size": "50-200",
-    "founded_year": 1984
+    "Comp.ID": 63,
+    "cmpnyName ": "goodwin-wright",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 53,
-    "name": "wang ltd",
-    "industry": "Education",
-    "size": "",
-    "founded_year": 2020
+    "Comp.ID": 24,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 10,
-    "name": "Turner, Smith and Phillips",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": 2015
+    "Comp.ID": 131,
+    "cmpnyName ": "reid, chavez and juarez",
+    "Indus_Try": "Education",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 90,
-    "name": "???",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 2,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "",
+    "founded_YR": 2003
   },
   {
-    "company_id": 60,
-    "name": "OpenAI",
-    "industry": "?",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 85,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "??",
+    "founded_YR": 2022
   },
   {
-    "company_id": 76,
-    "name": "Cline, Vargas and James",
-    "industry": "?",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 56,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 101,
-    "name": "FRANCO LTD",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 9,
+    "cmpnyName ": "ROBLES, THOMAS AND HUGHES",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 69,
-    "name": "Patterson Inc",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 107,
+    "cmpnyName ": "???",
+    "Indus_Try": "AI / ML",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 111,
-    "name": "CHEN-GONZALEZ",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 18,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "50-200",
+    "founded_YR": 2019
   },
   {
-    "company_id": 57,
-    "name": "JOHNSON-KEITH",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 8,
+    "cmpnyName ": "JOHNSTON GROUP",
+    "Indus_Try": "?",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 12,
-    "name": "OpenAI",
-    "industry": "###",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 51,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Education",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 57,
-    "name": "N/A",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 126,
+    "cmpnyName ": "cruz, johnson and gordon",
+    "Indus_Try": "Tech",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 84,
-    "name": "Martin-Watkins",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 8,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 86,
-    "name": "Mills Ltd",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": 2003
+    "Comp.ID": 56,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 23,
-    "name": "PATTERSON AND SONS",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 139,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "###",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 111,
-    "name": "open ai",
-    "industry": "Tech",
-    "size": "",
-    "founded_year": 2006
+    "Comp.ID": 50,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Tech",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 116,
-    "name": "BROWN GROUP",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 43,
+    "cmpnyName ": "???",
+    "Indus_Try": "Healthcare",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 30,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 53,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "?",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 12,
-    "name": "osborn, hester and white",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 76,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 13,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 149,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 21,
-    "name": "Open-ai",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 129,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "AI / ML",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 43,
-    "name": "N/A",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 29,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 13,
-    "name": "???",
-    "industry": "?",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 116,
+    "cmpnyName ": "Waller Inc",
+    "Indus_Try": "Finance",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 88,
-    "name": "Open-ai",
-    "industry": "Education",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 67,
+    "cmpnyName ": "griffin and sons",
+    "Indus_Try": "Education",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 54,
-    "name": "OpenAI",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 2,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 57,
-    "name": "Robles-Scott",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": 1988
+    "Comp.ID": 129,
+    "cmpnyName ": "Gallegos-Edwards",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 30,
-    "name": "porter, osborne and sandoval",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 11,
+    "cmpnyName ": "MARTIN, DORSEY AND GRIMES",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 6,
-    "name": "N/A",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 61,
+    "cmpnyName ": "GARRETT-JOHNSON",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": 1996
   },
   {
-    "company_id": 59,
-    "name": "???",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": 2022
+    "Comp.ID": 114,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": 1992
   },
   {
-    "company_id": 69,
-    "name": "Open-ai",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 5,
+    "cmpnyName ": "Brown LLC",
+    "Indus_Try": "Healthcare",
+    "Size__": "",
+    "founded_YR": 2019
   },
   {
-    "company_id": 22,
-    "name": "???",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 129,
+    "cmpnyName ": "george, lewis and nguyen",
+    "Indus_Try": "###",
+    "Size__": "unknown",
+    "founded_YR": 2014
   },
   {
-    "company_id": 110,
-    "name": "N/A",
-    "industry": "Healthcare",
-    "size": "50-200",
-    "founded_year": 2012
+    "Comp.ID": 59,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 80,
-    "name": "open ai",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 56,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "AI / ML",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 20,
-    "name": "WILSON LLC",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 93,
+    "cmpnyName ": "Smith, Larsen and Riley",
+    "Indus_Try": "###",
+    "Size__": "50-200",
+    "founded_YR": 2018
   },
   {
-    "company_id": 119,
-    "name": "JONES-SOTO",
-    "industry": "?",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 126,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "###",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 14,
-    "name": "Open-ai",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 97,
+    "cmpnyName ": "WALSH-GARCIA",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": 1993
   },
   {
-    "company_id": 3,
-    "name": "Alexander-Hogan",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 65,
+    "cmpnyName ": "ROBINSON LTD",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 96,
-    "name": "N/A",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 77,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": 1990
   },
   {
-    "company_id": 88,
-    "name": "OpenAI",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 108,
+    "cmpnyName ": "white-wiggins",
+    "Indus_Try": "Healthcare",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 54,
-    "name": "???",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": 2012
+    "Comp.ID": 112,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 110,
-    "name": "N/A",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 57,
+    "cmpnyName ": "jenkins-miller",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 107,
-    "name": "Bryant Ltd",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 2,
+    "cmpnyName ": "Lopez, Espinoza and Reid",
+    "Indus_Try": "###",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 87,
-    "name": "ARELLANO-KELLER",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 5,
+    "cmpnyName ": "TORRES-RODRIGUEZ",
+    "Indus_Try": "Healthcare",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 111,
-    "name": "Open-ai",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 68,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "###",
+    "Size__": "500-1000",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 16,
-    "name": "open ai",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 9,
+    "cmpnyName ": "White-Nelson",
+    "Indus_Try": "N/A",
+    "Size__": "500-1000",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 56,
-    "name": "lyons plc",
-    "industry": "Education",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 144,
+    "cmpnyName ": "???",
+    "Indus_Try": "Finance",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 4,
-    "name": "OpenAI",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": 2002
+    "Comp.ID": 63,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "E-commerce",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 27,
-    "name": "elliott llc",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 64,
+    "cmpnyName ": "ELLIOTT LTD",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 105,
-    "name": "N/A",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 138,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 12,
-    "name": "OpenAI",
-    "industry": "Tech",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 68,
+    "cmpnyName ": "MACK-MILLER",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": 1996
   },
   {
-    "company_id": 89,
-    "name": "Sutton Inc",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 76,
+    "cmpnyName ": "hughes plc",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 22,
-    "name": "Open-ai",
-    "industry": "Healthcare",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 82,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Education",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 55,
-    "name": "fleming-arnold",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": 1985
+    "Comp.ID": 144,
+    "cmpnyName ": "Leach-Malone",
+    "Indus_Try": "Healthcare",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 100,
-    "name": "clark llc",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 86,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": 2018
   },
   {
-    "company_id": 86,
-    "name": "luna, porter and nichols",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 13,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 75,
-    "name": "Pineda-Fox",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": 1984
+    "Comp.ID": 51,
+    "cmpnyName ": "Chang Group",
+    "Indus_Try": "Education",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 120,
-    "name": "N/A",
-    "industry": "N/A",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 119,
+    "cmpnyName ": "jones-williams",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 29,
-    "name": "???",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": 2017
+    "Comp.ID": 47,
+    "cmpnyName ": "contreras inc",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 42,
-    "name": "???",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 35,
+    "cmpnyName ": "WILLIAMSON, BARNETT AND ANDERSON",
+    "Indus_Try": "Education",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 91,
-    "name": "GOODMAN-WALSH",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 61,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": 2013
   },
   {
-    "company_id": 71,
-    "name": "???",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": 1997
+    "Comp.ID": 95,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "data-driven",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 7,
-    "name": "???",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 58,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Education",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 120,
-    "name": "Schaefer-Hooper",
-    "industry": "Education",
-    "size": "",
-    "founded_year": 2010
+    "Comp.ID": 118,
+    "cmpnyName ": "Lawrence-Smith",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 60,
-    "name": "Green and Sons",
-    "industry": "###",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 16,
+    "cmpnyName ": "Guerrero-Vega",
+    "Indus_Try": "N/A",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 78,
-    "name": "Open-ai",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 52,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 99,
-    "name": "N/A",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 33,
+    "cmpnyName ": "???",
+    "Indus_Try": "E-commerce",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 4,
-    "name": "Open-ai",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 58,
+    "cmpnyName ": "???",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 39,
-    "name": "Ellis-Williams",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": 1984
+    "Comp.ID": 16,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 88,
-    "name": "hampton and sons",
-    "industry": "?",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 116,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Education",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 46,
-    "name": "open ai",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 19,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 10,
-    "name": "open ai",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 29,
+    "cmpnyName ": "willis-wu",
+    "Indus_Try": "Education",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 19,
-    "name": "Open-ai",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 19,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 59,
-    "name": "COOPER-SIMMONS",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 133,
+    "cmpnyName ": "richardson inc",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": null
   },
   {
-    "company_id": 61,
-    "name": "open ai",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 113,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "50-200",
+    "founded_YR": null
   },
   {
-    "company_id": 4,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "",
-    "founded_year": 1999
+    "Comp.ID": 3,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Finance",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 42,
-    "name": "???",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 117,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "data-driven",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 49,
-    "name": "N/A",
-    "industry": "?",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 137,
+    "cmpnyName ": "MITCHELL INC",
+    "Indus_Try": "N/A",
+    "Size__": "unknown",
+    "founded_YR": 1985
   },
   {
-    "company_id": 30,
-    "name": "ward-saunders",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 90,
+    "cmpnyName ": "Jennings-Lane",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": 2003
   },
   {
-    "company_id": 96,
-    "name": "N/A",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 28,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 13,
-    "name": "sosa, reed and fischer",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 97,
+    "cmpnyName ": "MCDANIEL-VILLANUEVA",
+    "Indus_Try": "AI / ML",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 6,
-    "name": "???",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 44,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "N/A",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 56,
-    "name": "open ai",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 98,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "###",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 33,
-    "name": "OpenAI",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": 1996
+    "Comp.ID": 5,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 103,
-    "name": "Salazar LLC",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 46,
+    "cmpnyName ": "Ross-Smith",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 39,
-    "name": "open ai",
-    "industry": "E-commerce",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 78,
+    "cmpnyName ": "Wallace-Ward",
+    "Indus_Try": "Finance",
+    "Size__": "50-200",
+    "founded_YR": null
   },
   {
-    "company_id": 21,
-    "name": "???",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 60,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 79,
-    "name": "House, Gay and Marshall",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 56,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 31,
-    "name": "OpenAI",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 108,
+    "cmpnyName ": "schneider-daniel",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 105,
-    "name": "???",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 32,
+    "cmpnyName ": "???",
+    "Indus_Try": "Healthcare",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 66,
-    "name": "Open-ai",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": 1985
+    "Comp.ID": 67,
+    "cmpnyName ": "MARTIN PLC",
+    "Indus_Try": "data-driven",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 94,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 45,
+    "cmpnyName ": "mack, nelson and barker",
+    "Indus_Try": "E-commerce",
+    "Size__": "50-200",
+    "founded_YR": 1996
   },
   {
-    "company_id": 110,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 114,
+    "cmpnyName ": "Sheppard-Weeks",
+    "Indus_Try": "data-driven",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 46,
-    "name": "???",
-    "industry": "E-commerce",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 58,
+    "cmpnyName ": "VANG-HARRIS",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 94,
-    "name": "???",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 83,
+    "cmpnyName ": "rodriguez, gomez and oliver",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 116,
-    "name": "???",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 141,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "N/A",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 23,
-    "name": "WALKER INC",
-    "industry": "Tech",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 86,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 54,
-    "name": "smith group",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 149,
+    "cmpnyName ": "HOWARD-MARTINEZ",
+    "Indus_Try": "AI / ML",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 59,
-    "name": "johnson, harris and jackson",
-    "industry": "Education",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 63,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 27,
-    "name": "N/A",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 12,
+    "cmpnyName ": "morgan-kelly",
+    "Indus_Try": "Healthcare",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 41,
-    "name": "villegas-harris",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 79,
+    "cmpnyName ": "ANDERSON-SMITH",
+    "Indus_Try": "E-commerce",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 92,
-    "name": "Sherman Group",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 39,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "N/A",
+    "Size__": "500-1000",
+    "founded_YR": 1994
   },
   {
-    "company_id": 7,
-    "name": "Norton-Navarro",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": 2003
+    "Comp.ID": 38,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Finance",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 65,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": 2003
+    "Comp.ID": 65,
+    "cmpnyName ": "Rodriguez, Andrade and Norris",
+    "Indus_Try": "data-driven",
+    "Size__": "200-500",
+    "founded_YR": 1988
   },
   {
-    "company_id": 96,
-    "name": "LEWIS-MAXWELL",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": 2001
+    "Comp.ID": 134,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 114,
-    "name": "scott and sons",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": 2004
+    "Comp.ID": 60,
+    "cmpnyName ": "miller, hunter and payne",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": 2007
   },
   {
-    "company_id": 10,
-    "name": "jackson group",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 147,
+    "cmpnyName ": "STANTON, SCHWARTZ AND SIMPSON",
+    "Indus_Try": "Education",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 80,
-    "name": "???",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": 2005
+    "Comp.ID": 93,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 72,
-    "name": "???",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": 2007
+    "Comp.ID": 22,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 1,
-    "name": "???",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": 2003
+    "Comp.ID": 91,
+    "cmpnyName ": "???",
+    "Indus_Try": "Healthcare",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 10,
-    "name": "Alvarado, Quinn and Costa",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 121,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 42,
-    "name": "Open-ai",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 8,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 97,
-    "name": "???",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 106,
+    "cmpnyName ": "???",
+    "Indus_Try": "Education",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 60,
-    "name": "N/A",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 85,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Tech",
+    "Size__": "",
+    "founded_YR": 2006
   },
   {
-    "company_id": 107,
-    "name": "Open-ai",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 89,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 80,
-    "name": "Open-ai",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 130,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 112,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": 1998
+    "Comp.ID": 47,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Tech",
+    "Size__": "??",
+    "founded_YR": 1980
   },
   {
-    "company_id": 43,
-    "name": "N/A",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 99,
+    "cmpnyName ": "valdez, davis and miller",
+    "Indus_Try": "Healthcare",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 58,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 4,
+    "cmpnyName ": "???",
+    "Indus_Try": "Healthcare",
+    "Size__": "50-200",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 80,
-    "name": "N/A",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 66,
+    "cmpnyName ": "WADE, LEE AND MARTIN",
+    "Indus_Try": "AI / ML",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 97,
-    "name": "N/A",
-    "industry": "?",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 11,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": 2002
   },
   {
-    "company_id": 25,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 14,
+    "cmpnyName ": "Schwartz, Scott and Contreras",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 92,
-    "name": "peterson inc",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 73,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "N/A",
+    "Size__": "200-500",
+    "founded_YR": 2018
   },
   {
-    "company_id": 11,
-    "name": "???",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 95,
+    "cmpnyName ": "williams group",
+    "Indus_Try": "data-driven",
+    "Size__": "200-500",
+    "founded_YR": 2002
   },
   {
-    "company_id": 11,
-    "name": "N/A",
-    "industry": "###",
-    "size": "??",
-    "founded_year": 2001
+    "Comp.ID": 142,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Finance",
+    "Size__": "500-1000",
+    "founded_YR": 1983
   },
   {
-    "company_id": 58,
-    "name": "open ai",
-    "industry": "###",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 113,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Tech",
+    "Size__": "??",
+    "founded_YR": 2008
   },
   {
-    "company_id": 116,
-    "name": "OpenAI",
-    "industry": "Tech",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 109,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 78,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "??",
-    "founded_year": 1991
+    "Comp.ID": 44,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 64,
-    "name": "OpenAI",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 141,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 14,
-    "name": "MARTINEZ-HARRIS",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 100,
+    "cmpnyName ": "???",
+    "Indus_Try": "Finance",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 11,
-    "name": "Henderson, Allen and Williams",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 136,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "E-commerce",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 66,
-    "name": "open ai",
-    "industry": "E-commerce",
-    "size": "500-1000",
-    "founded_year": 1993
+    "Comp.ID": 84,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 102,
-    "name": "harrington-ward",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 130,
+    "cmpnyName ": "Ross-King",
+    "Indus_Try": "data-driven",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 15,
-    "name": "GONZALEZ AND SONS",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 113,
+    "cmpnyName ": "NELSON LTD",
+    "Indus_Try": "N/A",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 46,
-    "name": "N/A",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 24,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "###",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 23,
-    "name": "???",
-    "industry": "N/A",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 55,
+    "cmpnyName ": "RASMUSSEN, ACOSTA AND EVANS",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 115,
-    "name": "N/A",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 23,
+    "cmpnyName ": "COX, OLIVER AND HENDERSON",
+    "Indus_Try": "Tech",
+    "Size__": "500-1000",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 4,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 76,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": 1986
   },
   {
-    "company_id": 43,
-    "name": "N/A",
-    "industry": "Tech",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 125,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": 1989
   },
   {
-    "company_id": 4,
-    "name": "open ai",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": 1989
+    "Comp.ID": 60,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "?",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 112,
-    "name": "OpenAI",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 28,
+    "cmpnyName ": "powell-williams",
+    "Indus_Try": "Education",
+    "Size__": "",
+    "founded_YR": 1997
   },
   {
-    "company_id": 12,
-    "name": "castillo-jones",
-    "industry": "Tech",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 111,
+    "cmpnyName ": "ONEAL INC",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": 1983
   },
   {
-    "company_id": 86,
-    "name": "???",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 65,
+    "cmpnyName ": "BATES, GOODMAN AND PHILLIPS",
+    "Indus_Try": "data-driven",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 25,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 36,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Healthcare",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 40,
-    "name": "???",
-    "industry": "N/A",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 101,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 88,
-    "name": "Jones-Padilla",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 116,
+    "cmpnyName ": "???",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 22,
-    "name": "N/A",
-    "industry": "E-commerce",
-    "size": "200-500",
-    "founded_year": 1985
+    "Comp.ID": 22,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 89,
-    "name": "Open-ai",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 48,
+    "cmpnyName ": "WHITE AND SONS",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 63,
-    "name": "meyer-hicks",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 127,
+    "cmpnyName ": "RUIZ GROUP",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 23,
-    "name": "N/A",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 8,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 7,
-    "name": "Open-ai",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 62,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": 1987
   },
   {
-    "company_id": 2,
-    "name": "hayes, castro and smith",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": 1991
+    "Comp.ID": 25,
+    "cmpnyName ": "sanders group",
+    "Indus_Try": "data-driven",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 13,
-    "name": "RUSSELL-RODRIGUEZ",
-    "industry": "N/A",
-    "size": "50-200",
-    "founded_year": 2013
+    "Comp.ID": 59,
+    "cmpnyName ": "Glenn-Schmidt",
+    "Indus_Try": "E-commerce",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 48,
-    "name": "PHILLIPS AND SONS",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 136,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": "###"
   },
   {
-    "company_id": 15,
-    "name": "OpenAI",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 115,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "###",
+    "Size__": "unknown",
+    "founded_YR": 1997
   },
   {
-    "company_id": 17,
-    "name": "mosley-ortiz",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": 2005
+    "Comp.ID": 63,
+    "cmpnyName ": "mahoney-sutton",
+    "Indus_Try": "AI / ML",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 72,
-    "name": "N/A",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 87,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "###",
+    "Size__": "200-500",
+    "founded_YR": "###"
   },
   {
-    "company_id": 99,
-    "name": "N/A",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": 2017
+    "Comp.ID": 110,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "data-driven",
+    "Size__": "",
+    "founded_YR": 2005
   },
   {
-    "company_id": 3,
-    "name": "Simpson-Preston",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 134,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 70,
-    "name": "N/A",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 94,
+    "cmpnyName ": "???",
+    "Indus_Try": "Education",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 1,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": null
+    "Comp.ID": 18,
+    "cmpnyName ": "Carter, Dennis and Hendrix",
+    "Indus_Try": "N/A",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 24,
-    "name": "lynch, ball and walker",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 145,
+    "cmpnyName ": "arnold, young and whitaker",
+    "Indus_Try": "Tech",
+    "Size__": "unknown",
+    "founded_YR": 1989
   },
   {
-    "company_id": 10,
-    "name": "Lopez-Harris",
-    "industry": "?",
-    "size": "??",
-    "founded_year": 2017
+    "Comp.ID": 148,
+    "cmpnyName ": "Byrd and Sons",
+    "Indus_Try": "Education",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 70,
-    "name": "Williams Ltd",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": 1999
+    "Comp.ID": 27,
+    "cmpnyName ": "meyer llc",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 21,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": 1991
+    "Comp.ID": 67,
+    "cmpnyName ": "smith-conrad",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 53,
-    "name": "N/A",
-    "industry": "?",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 130,
+    "cmpnyName ": "larson inc",
+    "Indus_Try": "Finance",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 45,
-    "name": "???",
-    "industry": "Education",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 44,
+    "cmpnyName ": "???",
+    "Indus_Try": "E-commerce",
+    "Size__": "200-500",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 113,
-    "name": "SANCHEZ GROUP",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 7,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 120,
-    "name": "open ai",
-    "industry": "?",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 121,
+    "cmpnyName ": "PIERCE, HERNANDEZ AND RICHARDSON",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": 2000
   },
   {
-    "company_id": 54,
-    "name": "???",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 121,
+    "cmpnyName ": "Chavez, Walter and Flores",
+    "Indus_Try": "N/A",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 14,
-    "name": "young-rodriguez",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": 2000
+    "Comp.ID": 128,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Finance",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 73,
-    "name": "Open-ai",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": 2022
+    "Comp.ID": 60,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "AI / ML",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 44,
-    "name": "open ai",
-    "industry": "###",
-    "size": "??",
-    "founded_year": 1997
+    "Comp.ID": 43,
+    "cmpnyName ": "Walker Ltd",
+    "Indus_Try": "Healthcare",
+    "Size__": "unknown",
+    "founded_YR": null
   },
   {
-    "company_id": 60,
-    "name": "open ai",
-    "industry": "Education",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 147,
+    "cmpnyName ": "CLARK, BIRD AND VARGAS",
+    "Indus_Try": "AI / ML",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 39,
-    "name": "George and Sons",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 2,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 11,
-    "name": "OpenAI",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 31,
+    "cmpnyName ": "gomez llc",
+    "Indus_Try": "N/A",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 30,
-    "name": "CLAY PLC",
-    "industry": "Education",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 56,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 53,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": 2006
+    "Comp.ID": 32,
+    "cmpnyName ": "Lee, Brooks and Rivera",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 7,
-    "name": "Smith, Bass and Medina",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 74,
+    "cmpnyName ": "ASHLEY INC",
+    "Indus_Try": "Healthcare",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 113,
-    "name": "OpenAI",
-    "industry": "Tech",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 25,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": 2020
   },
   {
-    "company_id": 81,
-    "name": "LEONARD GROUP",
-    "industry": "Tech",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 72,
+    "cmpnyName ": "sullivan, cooper and brandt",
+    "Indus_Try": "Education",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 6,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 130,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 85,
-    "name": "mullins-shelton",
-    "industry": "?",
-    "size": "",
-    "founded_year": 2015
+    "Comp.ID": 35,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 37,
-    "name": "open ai",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 148,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "N/A",
+    "Size__": "50-200",
+    "founded_YR": "###"
   },
   {
-    "company_id": 71,
-    "name": "Holloway, Gonzales and French",
-    "industry": "Healthcare",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 147,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": null
   },
   {
-    "company_id": 102,
-    "name": "Open-ai",
-    "industry": "N/A",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 66,
+    "cmpnyName ": "RILEY GROUP",
+    "Indus_Try": "N/A",
+    "Size__": "unknown",
+    "founded_YR": 2010
   },
   {
-    "company_id": 85,
-    "name": "SMITH, SALAZAR AND BAILEY",
-    "industry": "?",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 91,
+    "cmpnyName ": "Fletcher-Lewis",
+    "Indus_Try": "N/A",
+    "Size__": "200-500",
+    "founded_YR": 2005
   },
   {
-    "company_id": 116,
-    "name": "???",
-    "industry": "###",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 62,
+    "cmpnyName ": "WRIGHT INC",
+    "Indus_Try": "Healthcare",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 14,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 113,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": 1983
   },
   {
-    "company_id": 114,
-    "name": "Solis and Sons",
-    "industry": "###",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 87,
+    "cmpnyName ": "Huff-Navarro",
+    "Indus_Try": "data-driven",
+    "Size__": "unknown",
+    "founded_YR": null
   },
   {
-    "company_id": 113,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 21,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "N/A",
+    "Size__": "500-1000",
+    "founded_YR": 2001
   },
   {
-    "company_id": 115,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 129,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "500-1000",
+    "founded_YR": 1980
   },
   {
-    "company_id": 29,
-    "name": "Open-ai",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 138,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 66,
-    "name": "FRANCIS-MADDEN",
-    "industry": "?",
-    "size": "??",
-    "founded_year": 1981
+    "Comp.ID": 145,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "E-commerce",
+    "Size__": "500-1000",
+    "founded_YR": 1997
   },
   {
-    "company_id": 49,
-    "name": "Open-ai",
-    "industry": "Finance",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 14,
+    "cmpnyName ": "williams-moore",
+    "Indus_Try": "Finance",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 13,
-    "name": "soto-alexander",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 103,
+    "cmpnyName ": "mcneil, aguirre and smith",
+    "Indus_Try": "?",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 58,
-    "name": "N/A",
-    "industry": "N/A",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 73,
+    "cmpnyName ": "boyd, gillespie and morris",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": 2013
   },
   {
-    "company_id": 41,
-    "name": "Moore Ltd",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 119,
+    "cmpnyName ": "???",
+    "Indus_Try": "Tech",
+    "Size__": "200-500",
+    "founded_YR": 1987
   },
   {
-    "company_id": 38,
-    "name": "open ai",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": "###"
+    "Comp.ID": 30,
+    "cmpnyName ": "???",
+    "Indus_Try": "?",
+    "Size__": "",
+    "founded_YR": "###"
   },
   {
-    "company_id": 103,
-    "name": "EVERETT INC",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": 2012
+    "Comp.ID": 77,
+    "cmpnyName ": "???",
+    "Indus_Try": "###",
+    "Size__": "unknown",
+    "founded_YR": 2022
   },
   {
-    "company_id": 64,
-    "name": "green inc",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 110,
+    "cmpnyName ": "???",
+    "Indus_Try": "Finance",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 65,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": null
+    "Comp.ID": 145,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 85,
-    "name": "OpenAI",
-    "industry": "###",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 60,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": 2008
   },
   {
-    "company_id": 109,
-    "name": "Open-ai",
-    "industry": "?",
-    "size": "",
-    "founded_year": "N/A"
+    "Comp.ID": 114,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Tech",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 45,
-    "name": "open ai",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 126,
+    "cmpnyName ": "Kennedy Inc",
+    "Indus_Try": "AI / ML",
+    "Size__": "500-1000",
+    "founded_YR": null
   },
   {
-    "company_id": 117,
-    "name": "Open-ai",
-    "industry": "E-commerce",
-    "size": "",
-    "founded_year": null
+    "Comp.ID": 51,
+    "cmpnyName ": "???",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": 1992
   },
   {
-    "company_id": 114,
-    "name": "williams-obrien",
-    "industry": "Finance",
-    "size": "200-500",
-    "founded_year": null
+    "Comp.ID": 125,
+    "cmpnyName ": "CARTER INC",
+    "Indus_Try": "Tech",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 82,
-    "name": "collins-chung",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": "N/A"
+    "Comp.ID": 43,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Education",
+    "Size__": "500-1000",
+    "founded_YR": "###"
   },
   {
-    "company_id": 110,
-    "name": "Williamson-Ortiz",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": 2000
+    "Comp.ID": 25,
+    "cmpnyName ": "PARKER, PHILLIPS AND GREEN",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 83,
-    "name": "vaughan, eaton and wade",
-    "industry": "Tech",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 126,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "AI / ML",
+    "Size__": "??",
+    "founded_YR": 2018
   },
   {
-    "company_id": 61,
-    "name": "SHORT LTD",
-    "industry": "Education",
-    "size": "200-500",
-    "founded_year": 1991
+    "Comp.ID": 59,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": 2022
   },
   {
-    "company_id": 98,
-    "name": "N/A",
-    "industry": "E-commerce",
-    "size": "??",
-    "founded_year": null
+    "Comp.ID": 85,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "E-commerce",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 11,
-    "name": "COLE, JONES AND FRANCO",
-    "industry": "Healthcare",
-    "size": "200-500",
-    "founded_year": 2002
+    "Comp.ID": 122,
+    "cmpnyName ": "HAYS-WRIGHT",
+    "Indus_Try": "###",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 26,
-    "name": "???",
-    "industry": "Finance",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 54,
+    "cmpnyName ": "MOORE, BURGESS AND JOHNSON",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": 2005
   },
   {
-    "company_id": 55,
-    "name": "Schultz, Smith and Collier",
-    "industry": "Healthcare",
-    "size": "200-500",
-    "founded_year": "N/A"
+    "Comp.ID": 5,
+    "cmpnyName ": "English-Mckay",
+    "Indus_Try": "###",
+    "Size__": "",
+    "founded_YR": null
   },
   {
-    "company_id": 120,
-    "name": "Hall, Wilson and Tran",
-    "industry": "Healthcare",
-    "size": "50-200",
-    "founded_year": 2014
+    "Comp.ID": 89,
+    "cmpnyName ": "???",
+    "Indus_Try": "E-commerce",
+    "Size__": "??",
+    "founded_YR": "###"
   },
   {
-    "company_id": 29,
-    "name": "WILLIAMS, PRICE AND RYAN",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": 2002
+    "Comp.ID": 62,
+    "cmpnyName ": "???",
+    "Indus_Try": "data-driven",
+    "Size__": "200-500",
+    "founded_YR": null
   },
   {
-    "company_id": 64,
-    "name": "JACOBS AND SONS",
-    "industry": "Healthcare",
-    "size": "",
-    "founded_year": "###"
+    "Comp.ID": 126,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "###",
+    "Size__": "??",
+    "founded_YR": 1983
   },
   {
-    "company_id": 15,
-    "name": "Open-ai",
-    "industry": "###",
-    "size": "500-1000",
-    "founded_year": "###"
+    "Comp.ID": 21,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Healthcare",
+    "Size__": "unknown",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 100,
-    "name": "OpenAI",
-    "industry": "?",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 28,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "data-driven",
+    "Size__": "200-500",
+    "founded_YR": 1991
   },
   {
-    "company_id": 88,
-    "name": "Lane Inc",
-    "industry": "###",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 95,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "?",
+    "Size__": "50-200",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 5,
-    "name": "WEAVER PLC",
-    "industry": "###",
-    "size": "??",
-    "founded_year": 2008
+    "Comp.ID": 105,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": null
   },
   {
-    "company_id": 68,
-    "name": "RIVERS LLC",
-    "industry": "Healthcare",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 71,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "Tech",
+    "Size__": "50-200",
+    "founded_YR": 1981
   },
   {
-    "company_id": 80,
-    "name": "open ai",
-    "industry": "Education",
-    "size": "500-1000",
-    "founded_year": 1987
+    "Comp.ID": 112,
+    "cmpnyName ": "open ai",
+    "Indus_Try": "?",
+    "Size__": "200-500",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 88,
-    "name": "open ai",
-    "industry": "Healthcare",
-    "size": "500-1000",
-    "founded_year": 2009
+    "Comp.ID": 108,
+    "cmpnyName ": "BURTON, GALLAGHER AND BENSON",
+    "Indus_Try": "Finance",
+    "Size__": "",
+    "founded_YR": 2001
   },
   {
-    "company_id": 110,
-    "name": "Burch-Norris",
-    "industry": "###",
-    "size": "50-200",
-    "founded_year": "N/A"
+    "Comp.ID": 116,
+    "cmpnyName ": "BARRY-BARRY",
+    "Indus_Try": "Finance",
+    "Size__": "unknown",
+    "founded_YR": 2002
   },
   {
-    "company_id": 57,
-    "name": "Campbell, Ross and Thompson",
-    "industry": "Finance",
-    "size": "500-1000",
-    "founded_year": 1999
+    "Comp.ID": 18,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "data-driven",
+    "Size__": "",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 25,
-    "name": "open ai",
-    "industry": "Finance",
-    "size": "??",
-    "founded_year": "###"
+    "Comp.ID": 81,
+    "cmpnyName ": "N/A",
+    "Indus_Try": "Education",
+    "Size__": "unknown",
+    "founded_YR": 2022
   },
   {
-    "company_id": 31,
-    "name": "MILLER LLC",
-    "industry": "N/A",
-    "size": "500-1000",
-    "founded_year": 2013
+    "Comp.ID": 101,
+    "cmpnyName ": "OpenAI",
+    "Indus_Try": "Healthcare",
+    "Size__": "500-1000",
+    "founded_YR": "year unknown"
   },
   {
-    "company_id": 73,
-    "name": "Open-ai",
-    "industry": "E-commerce",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 117,
+    "cmpnyName ": "???",
+    "Indus_Try": "###",
+    "Size__": "unknown",
+    "founded_YR": "N/A"
   },
   {
-    "company_id": 19,
-    "name": "Open-ai",
-    "industry": "N/A",
-    "size": "50-200",
-    "founded_year": "###"
+    "Comp.ID": 6,
+    "cmpnyName ": "Mcclain-Smith",
+    "Indus_Try": "data-driven",
+    "Size__": "200-500",
+    "founded_YR": 1995
   },
   {
-    "company_id": 27,
-    "name": "???",
-    "industry": "###",
-    "size": "??",
-    "founded_year": "N/A"
+    "Comp.ID": 16,
+    "cmpnyName ": "Open-ai",
+    "Indus_Try": "Tech",
+    "Size__": "??",
+    "founded_YR": null
   }
 ]

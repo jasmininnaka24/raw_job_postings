@@ -1,3002 +1,3002 @@
 [
   {
-    "location_id": 17,
-    "city": "",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 55,
+    "CityName ": "ADAMSVIEW",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 39,
-    "city": "manila, PH",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 59,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 60,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 26,
+    "CityName ": "denisemouth",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 44,
-    "city": "PH - Cebu",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 36,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "Remote",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 30,
-    "city": "East Kaylashire",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 37,
+    "CityName ": "New Michele",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 11,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 44,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": "Global"
   },
   {
-    "location_id": 20,
-    "city": "scottfort",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 64,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 37,
-    "city": "East Judyland",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 28,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": "APAC"
   },
   {
-    "location_id": 8,
-    "city": "manila, PH",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 61,
+    "CityName ": "georgemouth",
+    "cntry ": "ph",
+    "Region###": "APAC"
   },
   {
-    "location_id": 11,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 50,
+    "CityName ": "West Lauraton",
+    "cntry ": "Remote",
+    "Region###": null
   },
   {
-    "location_id": 60,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 22,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 27,
-    "city": "West Steven",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 18,
+    "CityName ": "Lake Donnafort",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 18,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 48,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "?"
   },
   {
-    "location_id": 17,
-    "city": "manila, PH",
-    "country": "###",
-    "region": "EMEA"
+    "Loc.ID": 44,
+    "CityName ": "SHEILAHAVEN",
+    "cntry ": "###",
+    "Region###": "?"
   },
   {
-    "location_id": 46,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 69,
+    "CityName ": "whiteview",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 18,
-    "city": "manila, PH",
-    "country": "",
-    "region": null
+    "Loc.ID": 51,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 47,
-    "city": "manila, PH",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 34,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": null
   },
   {
-    "location_id": 56,
-    "city": "Lake Wendyborough",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 49,
+    "CityName ": "Kathleenmouth",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 49,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 32,
+    "CityName ": "",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 37,
-    "city": "manila, PH",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 63,
+    "CityName ": "",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 43,
-    "city": "Philippines - MNL",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 61,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "Remote",
+    "Region###": "NA"
   },
   {
-    "location_id": 17,
-    "city": "Mcintyreberg",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 52,
+    "CityName ": "",
+    "cntry ": "",
+    "Region###": "APAC"
   },
   {
-    "location_id": 25,
-    "city": "mullinschester",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 17,
+    "CityName ": "NORTH DEANNAFORT",
+    "cntry ": "",
+    "Region###": "Global"
   },
   {
-    "location_id": 51,
-    "city": "",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 20,
+    "CityName ": "Odonnellburgh",
+    "cntry ": "UK",
+    "Region###": "APAC"
   },
   {
-    "location_id": 57,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 3,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 54,
-    "city": "Philippines - MNL",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 39,
+    "CityName ": "",
+    "cntry ": "PHL",
+    "Region###": "?"
   },
   {
-    "location_id": 20,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 48,
+    "CityName ": "NEW RACHEL",
+    "cntry ": "PHL",
+    "Region###": "Global"
   },
   {
-    "location_id": 25,
-    "city": "south angelabury",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 45,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": "Global"
   },
   {
-    "location_id": 7,
-    "city": "",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 37,
+    "CityName ": "",
+    "cntry ": "",
+    "Region###": "INTL"
   },
   {
-    "location_id": 27,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 5,
+    "CityName ": "north deannamouth",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 34,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 27,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 19,
-    "city": "",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 59,
+    "CityName ": "manila, PH",
+    "cntry ": "USA",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 42,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 54,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": "NA"
   },
   {
-    "location_id": 13,
-    "city": "MICHAELPORT",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 17,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 38,
-    "city": "manila, PH",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 54,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "",
+    "Region###": "APAC"
   },
   {
-    "location_id": 16,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 53,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 21,
-    "city": "Port Erichaven",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 14,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 10,
-    "city": "aprilton",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 44,
+    "CityName ": "",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 59,
-    "city": "Lisastad",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 60,
+    "CityName ": "manila, PH",
+    "cntry ": "UK",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 26,
-    "city": "PH - Cebu",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 14,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 15,
-    "city": "",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 67,
+    "CityName ": "east jonathan",
+    "cntry ": "UK",
+    "Region###": "APAC"
   },
   {
-    "location_id": 55,
-    "city": "West Robinstad",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 25,
+    "CityName ": "manila, PH",
+    "cntry ": "ph",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 34,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 13,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": "NA"
   },
   {
-    "location_id": 7,
-    "city": "west deborah",
-    "country": "",
-    "region": null
+    "Loc.ID": 46,
+    "CityName ": "New Patricialand",
+    "cntry ": "Remote",
+    "Region###": "INTL"
   },
   {
-    "location_id": 37,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 62,
+    "CityName ": "Savannahshire",
+    "cntry ": "Remote",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 6,
-    "city": "chavezton",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 33,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 33,
-    "city": "PH - Cebu",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 55,
+    "CityName ": "manila, PH",
+    "cntry ": "ph",
+    "Region###": "SEA"
   },
   {
-    "location_id": 11,
-    "city": "manila, PH",
-    "country": "###",
-    "region": "EMEA"
+    "Loc.ID": 46,
+    "CityName ": "South Lisa",
+    "cntry ": "",
+    "Region###": "APAC"
   },
   {
-    "location_id": 40,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 51,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "APAC"
   },
   {
-    "location_id": 49,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 27,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 3,
-    "city": "SARAHFORT",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 57,
+    "CityName ": "manila, PH",
+    "cntry ": "###",
+    "Region###": "INTL"
   },
   {
-    "location_id": 21,
-    "city": "west angelicafort",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 12,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "?"
   },
   {
-    "location_id": 44,
-    "city": "Port Jaredton",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 32,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "",
+    "Region###": "?"
   },
   {
-    "location_id": 51,
-    "city": "",
-    "country": "",
-    "region": "EMEA"
+    "Loc.ID": 16,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "INTL"
   },
   {
-    "location_id": 21,
-    "city": "Philippines - MNL",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 42,
+    "CityName ": "LAKE RYANVIEW",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 26,
-    "city": "LAKE DAVID",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 50,
+    "CityName ": "",
+    "cntry ": "WORLDWIDE",
+    "Region###": "NA"
   },
   {
-    "location_id": 26,
-    "city": "ROSSMOUTH",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 38,
+    "CityName ": "Taramouth",
+    "cntry ": "PH",
+    "Region###": "?"
   },
   {
-    "location_id": 23,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 5,
+    "CityName ": "krystalfurt",
+    "cntry ": "ph",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 16,
-    "city": "",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 32,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": "INTL"
   },
   {
-    "location_id": 9,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 9,
+    "CityName ": "",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 32,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 62,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "?"
   },
   {
-    "location_id": 11,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 57,
+    "CityName ": "lake adammouth",
+    "cntry ": "Remote",
+    "Region###": "INTL"
   },
   {
-    "location_id": 44,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 58,
+    "CityName ": "BRYCEVIEW",
+    "cntry ": "USA",
+    "Region###": null
   },
   {
-    "location_id": 43,
-    "city": "KIMBOROUGH",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 43,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 30,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 52,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": "NA"
   },
   {
-    "location_id": 31,
-    "city": "PORT COURTNEYBURY",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 22,
+    "CityName ": "PH - Cebu",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 55,
-    "city": "North Tammy",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 26,
+    "CityName ": "monicaburgh",
+    "cntry ": "Remote",
+    "Region###": null
   },
   {
-    "location_id": 36,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 57,
+    "CityName ": "WEST STEPHANIEBERG",
+    "cntry ": "PH",
+    "Region###": "APAC"
   },
   {
-    "location_id": 2,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 55,
+    "CityName ": "",
+    "cntry ": "WORLDWIDE",
+    "Region###": "SEA"
   },
   {
-    "location_id": 24,
-    "city": "new ericbury",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 62,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 24,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 44,
+    "CityName ": "Jacquelinechester",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 18,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 11,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "Remote",
+    "Region###": "SEA"
   },
   {
-    "location_id": 2,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 55,
+    "CityName ": "WATTSSIDE",
+    "cntry ": "",
+    "Region###": "APAC"
   },
   {
-    "location_id": 19,
-    "city": "Philippines - MNL",
-    "country": "",
-    "region": null
+    "Loc.ID": 40,
+    "CityName ": "PH - Cebu",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 16,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 9,
+    "CityName ": "",
+    "cntry ": "USA",
+    "Region###": null
   },
   {
-    "location_id": 11,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 57,
+    "CityName ": "port brooke",
+    "cntry ": "USA",
+    "Region###": "NA"
   },
   {
-    "location_id": 26,
-    "city": "SOUTH PAMELA",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 25,
+    "CityName ": "",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 55,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 19,
+    "CityName ": "Riceton",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 23,
-    "city": "Morganport",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 50,
+    "CityName ": "nataliechester",
+    "cntry ": "PH",
+    "Region###": "SEA"
   },
   {
-    "location_id": 1,
-    "city": "West James",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 14,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "APAC"
   },
   {
-    "location_id": 55,
-    "city": "New Laurenfort",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 37,
+    "CityName ": "north alexanderbury",
+    "cntry ": "ph",
+    "Region###": "SEA"
   },
   {
-    "location_id": 55,
-    "city": "",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 44,
+    "CityName ": "",
+    "cntry ": "ph",
+    "Region###": "SEA"
   },
   {
-    "location_id": 42,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 38,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": "APAC"
   },
   {
-    "location_id": 23,
-    "city": "Deckerberg",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 53,
+    "CityName ": "West Danielhaven",
+    "cntry ": "USA",
+    "Region###": "NA"
   },
   {
-    "location_id": 16,
-    "city": "BROWNLAND",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 16,
+    "CityName ": "south aaron",
+    "cntry ": "WORLDWIDE",
+    "Region###": "INTL"
   },
   {
-    "location_id": 11,
-    "city": "andersonfurt",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 44,
+    "CityName ": "",
+    "cntry ": "Remote",
+    "Region###": "INTL"
   },
   {
-    "location_id": 18,
-    "city": "",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 42,
+    "CityName ": "",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 17,
-    "city": "RYANBURY",
-    "country": "",
-    "region": "EMEA"
+    "Loc.ID": 28,
+    "CityName ": "Lake John",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 27,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 19,
+    "CityName ": "Bryanberg",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 35,
-    "city": "South Monicahaven",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 42,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 30,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 5,
+    "CityName ": "new danton",
+    "cntry ": "ph",
+    "Region###": "Global"
   },
   {
-    "location_id": 16,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 48,
+    "CityName ": "ODONNELLCHESTER",
+    "cntry ": "###",
+    "Region###": "APAC"
   },
   {
-    "location_id": 37,
-    "city": "LAKE ALBERTBERG",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 65,
+    "CityName ": "North Shannon",
+    "cntry ": "UK",
+    "Region###": "?"
   },
   {
-    "location_id": 2,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 1,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": "?"
   },
   {
-    "location_id": 14,
-    "city": "collinsburgh",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 1,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 25,
-    "city": "ericport",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 18,
+    "CityName ": "",
+    "cntry ": "PH",
+    "Region###": null
   },
   {
-    "location_id": 11,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 53,
+    "CityName ": "wilsonport",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 3,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 58,
+    "CityName ": "jillmouth",
+    "cntry ": "UK",
+    "Region###": "?"
   },
   {
-    "location_id": 28,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 16,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 44,
-    "city": "Brocktown",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 65,
+    "CityName ": "LAKE LISABOROUGH",
+    "cntry ": "",
+    "Region###": "Global"
   },
   {
-    "location_id": 23,
-    "city": "SOUTH JESSICABURGH",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 16,
+    "CityName ": "",
+    "cntry ": "Remote",
+    "Region###": null
   },
   {
-    "location_id": 28,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 54,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 7,
-    "city": "",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 62,
+    "CityName ": "",
+    "cntry ": "Remote",
+    "Region###": "APAC"
   },
   {
-    "location_id": 37,
-    "city": "NEW MELISSA",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 4,
+    "CityName ": "PH - Cebu",
+    "cntry ": "",
+    "Region###": "NA"
   },
   {
-    "location_id": 60,
-    "city": "",
-    "country": "",
-    "region": "EMEA"
+    "Loc.ID": 15,
+    "CityName ": "shepardmouth",
+    "cntry ": "WORLDWIDE",
+    "Region###": "NA"
   },
   {
-    "location_id": 51,
-    "city": "schwartzhaven",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 32,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": "INTL"
   },
   {
-    "location_id": 58,
-    "city": "port richardshire",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 50,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "",
+    "Region###": null
   },
   {
-    "location_id": 20,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 21,
+    "CityName ": "moorechester",
+    "cntry ": "USA",
+    "Region###": "Global"
   },
   {
-    "location_id": 9,
-    "city": "manila, PH",
-    "country": "###",
-    "region": null
+    "Loc.ID": 14,
+    "CityName ": "west scott",
+    "cntry ": "WORLDWIDE",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 11,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 14,
+    "CityName ": "",
+    "cntry ": "WORLDWIDE",
+    "Region###": "INTL"
   },
   {
-    "location_id": 11,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 10,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": "APAC"
   },
   {
-    "location_id": 39,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 16,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": null
   },
   {
-    "location_id": 41,
-    "city": "EAST LEVICHESTER",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 43,
+    "CityName ": "PH - Cebu",
+    "cntry ": "",
+    "Region###": "APAC"
   },
   {
-    "location_id": 50,
-    "city": "katrinaberg",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 41,
+    "CityName ": "west james",
+    "cntry ": "WORLDWIDE",
+    "Region###": "SEA"
   },
   {
-    "location_id": 10,
-    "city": "PORT SCOTTSHIRE",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 28,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": "Global"
   },
   {
-    "location_id": 9,
-    "city": "",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 51,
+    "CityName ": "",
+    "cntry ": "UK",
+    "Region###": "Global"
   },
   {
-    "location_id": 39,
-    "city": "MILLSSTAD",
-    "country": "",
-    "region": "EMEA"
+    "Loc.ID": 31,
+    "CityName ": "jordanland",
+    "cntry ": "",
+    "Region###": "Global"
   },
   {
-    "location_id": 52,
-    "city": "East Jameston",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 55,
+    "CityName ": "PH - Cebu",
+    "cntry ": "WORLDWIDE",
+    "Region###": "SEA"
   },
   {
-    "location_id": 7,
-    "city": "New Justin",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 47,
+    "CityName ": "PH - Cebu",
+    "cntry ": "",
+    "Region###": "INTL"
   },
   {
-    "location_id": 46,
-    "city": "Clintonfort",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 33,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 57,
-    "city": "JONESTOWN",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 50,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": null
   },
   {
-    "location_id": 43,
-    "city": "north amanda",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 10,
+    "CityName ": "PH - Cebu",
+    "cntry ": "WORLDWIDE",
+    "Region###": "NA"
   },
   {
-    "location_id": 11,
-    "city": "JENNYSIDE",
-    "country": "###",
-    "region": null
+    "Loc.ID": 46,
+    "CityName ": "west deborahfurt",
+    "cntry ": "",
+    "Region###": null
   },
   {
-    "location_id": 21,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 25,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": "Global"
   },
   {
-    "location_id": 31,
-    "city": "",
-    "country": "",
-    "region": "EMEA"
+    "Loc.ID": 26,
+    "CityName ": "",
+    "cntry ": "###",
+    "Region###": "?"
   },
   {
-    "location_id": 57,
-    "city": "saundersland",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 44,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "Remote",
+    "Region###": "SEA"
   },
   {
-    "location_id": 46,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 68,
+    "CityName ": "",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 59,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": null
+    "Loc.ID": 45,
+    "CityName ": "",
+    "cntry ": "ph",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 18,
-    "city": "",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 42,
+    "CityName ": "ALEXANDRAVIEW",
+    "cntry ": "USA",
+    "Region###": "Global"
   },
   {
-    "location_id": 51,
-    "city": "Leeshire",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 50,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 10,
-    "city": "Philippines - MNL",
-    "country": "###",
-    "region": null
+    "Loc.ID": 70,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 32,
-    "city": "Philippines - MNL",
-    "country": "###",
-    "region": "EMEA"
+    "Loc.ID": 24,
+    "CityName ": "STEWARTTOWN",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 29,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 18,
+    "CityName ": "AMANDABERG",
+    "cntry ": "PHL",
+    "Region###": "SEA"
   },
   {
-    "location_id": 48,
-    "city": "",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 52,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 40,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 16,
+    "CityName ": "PH - Cebu",
+    "cntry ": "WORLDWIDE",
+    "Region###": "APAC"
   },
   {
-    "location_id": 50,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 19,
+    "CityName ": "port john",
+    "cntry ": "PHL",
+    "Region###": "Global"
   },
   {
-    "location_id": 47,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 47,
+    "CityName ": "North Saratown",
+    "cntry ": "UK",
+    "Region###": "?"
   },
   {
-    "location_id": 48,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 18,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 45,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 35,
+    "CityName ": "north aprilport",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 28,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 64,
+    "CityName ": "NEW ARTHURSTAD",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 59,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 2,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": "?"
   },
   {
-    "location_id": 15,
-    "city": "perryview",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 49,
+    "CityName ": "port alicia",
+    "cntry ": "USA",
+    "Region###": null
   },
   {
-    "location_id": 3,
-    "city": "",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 70,
+    "CityName ": "PH - Cebu",
+    "cntry ": "###",
+    "Region###": "NA"
   },
   {
-    "location_id": 43,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 68,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": null
   },
   {
-    "location_id": 26,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 60,
+    "CityName ": "PH - Cebu",
+    "cntry ": "WORLDWIDE",
+    "Region###": "?"
   },
   {
-    "location_id": 19,
-    "city": "Lake Andrewberg",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 23,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "ph",
+    "Region###": "?"
   },
   {
-    "location_id": 42,
-    "city": "lake saraton",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 42,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 52,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 38,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "Remote",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 8,
-    "city": "PH - Cebu",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 41,
+    "CityName ": "SOUTH ANTHONYVILLE",
+    "cntry ": "###",
+    "Region###": "NA"
   },
   {
-    "location_id": 31,
-    "city": "lake deborah",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 25,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "Global"
   },
   {
-    "location_id": 10,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 16,
+    "CityName ": "east dennis",
+    "cntry ": "Remote",
+    "Region###": "INTL"
   },
   {
-    "location_id": 10,
-    "city": "north nicoleborough",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 14,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "SEA"
   },
   {
-    "location_id": 29,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 51,
+    "CityName ": "",
+    "cntry ": "",
+    "Region###": null
   },
   {
-    "location_id": 26,
-    "city": "",
-    "country": "###",
-    "region": null
+    "Loc.ID": 5,
+    "CityName ": "DILLONHAVEN",
+    "cntry ": "PH",
+    "Region###": null
   },
   {
-    "location_id": 14,
-    "city": "South Judy",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 1,
+    "CityName ": "",
+    "cntry ": "",
+    "Region###": null
   },
   {
-    "location_id": 6,
-    "city": "BARKERSIDE",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 57,
+    "CityName ": "JAREDSHIRE",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 2,
-    "city": "PH - Cebu",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 70,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": "APAC"
   },
   {
-    "location_id": 2,
-    "city": "manila, PH",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 69,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "Global"
   },
   {
-    "location_id": 55,
-    "city": "EAST KATELYN",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 57,
+    "CityName ": "west tina",
+    "cntry ": "USA",
+    "Region###": "NA"
   },
   {
-    "location_id": 17,
-    "city": "NORTH RANDYTOWN",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 58,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": "SEA"
   },
   {
-    "location_id": 52,
-    "city": "",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 70,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 11,
-    "city": "",
-    "country": "",
-    "region": "EMEA"
+    "Loc.ID": 6,
+    "CityName ": "JOHNSONSHIRE",
+    "cntry ": "UK",
+    "Region###": null
   },
   {
-    "location_id": 60,
-    "city": "",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 29,
+    "CityName ": "west kimberly",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 46,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 40,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 33,
-    "city": "JENNIFERVILLE",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 17,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 9,
-    "city": "Anthonyton",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 26,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 28,
-    "city": "",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 58,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "SEA"
   },
   {
-    "location_id": 41,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 37,
+    "CityName ": "north damonside",
+    "cntry ": "Remote",
+    "Region###": "Global"
   },
   {
-    "location_id": 15,
-    "city": "",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 27,
+    "CityName ": "",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 19,
-    "city": "burtonville",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 68,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "APAC"
   },
   {
-    "location_id": 42,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 30,
+    "CityName ": "",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 3,
-    "city": "EAST CRYSTAL",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 48,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 57,
-    "city": "MILLERBOROUGH",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 10,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 22,
-    "city": "manila, PH",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 20,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 47,
-    "city": "COLEMANLAND",
-    "country": "###",
-    "region": null
+    "Loc.ID": 50,
+    "CityName ": "NEW DONALD",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 5,
-    "city": "Port Lindaland",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 53,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 44,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 59,
+    "CityName ": "Johnstonfurt",
+    "cntry ": "",
+    "Region###": "APAC"
   },
   {
-    "location_id": 54,
-    "city": "Wendyburgh",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 17,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 13,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 53,
+    "CityName ": "Jessicaberg",
+    "cntry ": "###",
+    "Region###": "NA"
   },
   {
-    "location_id": 1,
-    "city": "HERNANDEZMOUTH",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 8,
+    "CityName ": "port alexafort",
+    "cntry ": "UK",
+    "Region###": "NA"
   },
   {
-    "location_id": 19,
-    "city": "",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 51,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PH",
+    "Region###": "?"
   },
   {
-    "location_id": 41,
-    "city": "",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 44,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 49,
-    "city": "Michaelville",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 53,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "Global"
   },
   {
-    "location_id": 8,
-    "city": "Annview",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 11,
+    "CityName ": "LAWRENCEBURGH",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 40,
-    "city": "Gonzalezport",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 61,
+    "CityName ": "BELLSIDE",
+    "cntry ": "UK",
+    "Region###": "NA"
   },
   {
-    "location_id": 26,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 45,
+    "CityName ": "Payneborough",
+    "cntry ": "Remote",
+    "Region###": "APAC"
   },
   {
-    "location_id": 53,
-    "city": "manila, PH",
-    "country": "###",
-    "region": null
+    "Loc.ID": 31,
+    "CityName ": "BOYDBOROUGH",
+    "cntry ": "UK",
+    "Region###": null
   },
   {
-    "location_id": 43,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 51,
+    "CityName ": "JASONMOUTH",
+    "cntry ": "PH",
+    "Region###": "Global"
   },
   {
-    "location_id": 13,
-    "city": "manila, PH",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 2,
+    "CityName ": "NEW SHAWNPORT",
+    "cntry ": "###",
+    "Region###": "INTL"
   },
   {
-    "location_id": 46,
-    "city": "greenbury",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 41,
+    "CityName ": "kleinmouth",
+    "cntry ": "PH",
+    "Region###": "APAC"
   },
   {
-    "location_id": 15,
-    "city": "boonemouth",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 62,
+    "CityName ": "south alexander",
+    "cntry ": "",
+    "Region###": "Global"
   },
   {
-    "location_id": 35,
-    "city": "",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 18,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "Remote",
+    "Region###": null
   },
   {
-    "location_id": 59,
-    "city": "patrickmouth",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 13,
+    "CityName ": "",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 54,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 16,
+    "CityName ": "JULIEBURY",
+    "cntry ": "Remote",
+    "Region###": "NA"
   },
   {
-    "location_id": 21,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 6,
+    "CityName ": "michaelland",
+    "cntry ": "WORLDWIDE",
+    "Region###": "INTL"
   },
   {
-    "location_id": 27,
-    "city": "manila, PH",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 22,
+    "CityName ": "OWENSFURT",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 14,
-    "city": "West Amandaberg",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 22,
+    "CityName ": "WEST TIMOTHY",
+    "cntry ": "",
+    "Region###": "SEA"
   },
   {
-    "location_id": 10,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 8,
+    "CityName ": "west samanthaside",
+    "cntry ": "ph",
+    "Region###": "?"
   },
   {
-    "location_id": 11,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 20,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": null
   },
   {
-    "location_id": 38,
-    "city": "Hollandmouth",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 15,
+    "CityName ": "north carla",
+    "cntry ": "###",
+    "Region###": "?"
   },
   {
-    "location_id": 44,
-    "city": "WEST JOSHUA",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 8,
+    "CityName ": "",
+    "cntry ": "PHL",
+    "Region###": "?"
   },
   {
-    "location_id": 24,
-    "city": "Solisburgh",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 43,
+    "CityName ": "MORGANSHIRE",
+    "cntry ": "",
+    "Region###": "NA"
   },
   {
-    "location_id": 7,
-    "city": "WEST DANIEL",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 33,
+    "CityName ": "manila, PH",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 14,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 42,
+    "CityName ": "east catherine",
+    "cntry ": "PH",
+    "Region###": "SEA"
   },
   {
-    "location_id": 18,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 19,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": "NA"
   },
   {
-    "location_id": 16,
-    "city": "Philippines - MNL",
-    "country": "###",
-    "region": null
+    "Loc.ID": 68,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 34,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 7,
+    "CityName ": "FIELDSBOROUGH",
+    "cntry ": "WORLDWIDE",
+    "Region###": "APAC"
   },
   {
-    "location_id": 51,
-    "city": "",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 42,
+    "CityName ": "new jennaton",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 30,
-    "city": "TANNERSHIRE",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 55,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 33,
-    "city": "Summersland",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 43,
+    "CityName ": "",
+    "cntry ": "Remote",
+    "Region###": "APAC"
   },
   {
-    "location_id": 24,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 68,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "APAC"
   },
   {
-    "location_id": 2,
-    "city": "Port Kylie",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 19,
+    "CityName ": "tinamouth",
+    "cntry ": "USA",
+    "Region###": "?"
   },
   {
-    "location_id": 35,
-    "city": "south sherry",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 33,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "?"
   },
   {
-    "location_id": 22,
-    "city": "SOUTH ADAM",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 60,
+    "CityName ": "EAST LINDSEY",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 21,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 45,
+    "CityName ": "Barajasfort",
+    "cntry ": "WORLDWIDE",
+    "Region###": "SEA"
   },
   {
-    "location_id": 60,
-    "city": "jessicahaven",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 35,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 39,
-    "city": "Port Brendachester",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 17,
+    "CityName ": "",
+    "cntry ": "ph",
+    "Region###": "NA"
   },
   {
-    "location_id": 16,
-    "city": "",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 29,
+    "CityName ": "brendamouth",
+    "cntry ": "PHL",
+    "Region###": "Global"
   },
   {
-    "location_id": 60,
-    "city": "Shellytown",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 56,
+    "CityName ": "North Caitlyn",
+    "cntry ": "USA",
+    "Region###": "SEA"
   },
   {
-    "location_id": 41,
-    "city": "hernandezmouth",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 45,
+    "CityName ": "",
+    "cntry ": "PHL",
+    "Region###": null
   },
   {
-    "location_id": 10,
-    "city": "west anthony",
-    "country": "###",
-    "region": "EMEA"
+    "Loc.ID": 56,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": "NA"
   },
   {
-    "location_id": 41,
-    "city": "",
-    "country": "###",
-    "region": null
+    "Loc.ID": 20,
+    "CityName ": "south jeffside",
+    "cntry ": "Remote",
+    "Region###": "APAC"
   },
   {
-    "location_id": 33,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 30,
+    "CityName ": "manila, PH",
+    "cntry ": "###",
+    "Region###": "?"
   },
   {
-    "location_id": 57,
-    "city": "New Shawn",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 4,
+    "CityName ": "LAKE BRYCE",
+    "cntry ": "USA",
+    "Region###": null
   },
   {
-    "location_id": 36,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 44,
+    "CityName ": "new julie",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 36,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 61,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": "NA"
   },
   {
-    "location_id": 20,
-    "city": "",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 15,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": "NA"
   },
   {
-    "location_id": 59,
-    "city": "South Davidberg",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 28,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 38,
-    "city": "west anne",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 19,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": "Global"
   },
   {
-    "location_id": 28,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 16,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 37,
-    "city": "manila, PH",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 14,
+    "CityName ": "EAST SUZANNE",
+    "cntry ": "WORLDWIDE",
+    "Region###": "NA"
   },
   {
-    "location_id": 51,
-    "city": "Port Justin",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 52,
+    "CityName ": "south thomasville",
+    "cntry ": "USA",
+    "Region###": "INTL"
   },
   {
-    "location_id": 45,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 43,
+    "CityName ": "Cindyburgh",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 2,
-    "city": "Philippines - MNL",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 69,
+    "CityName ": "Jenniferside",
+    "cntry ": "USA",
+    "Region###": "Global"
   },
   {
-    "location_id": 37,
-    "city": "manila, PH",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 49,
+    "CityName ": "manila, PH",
+    "cntry ": "Remote",
+    "Region###": "SEA"
   },
   {
-    "location_id": 27,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 30,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 10,
-    "city": "",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 28,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 43,
-    "city": "EAST SYDNEY",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 49,
+    "CityName ": "lisaside",
+    "cntry ": "ph",
+    "Region###": "NA"
   },
   {
-    "location_id": 21,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 69,
+    "CityName ": "New Frank",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 48,
-    "city": "coryside",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 34,
+    "CityName ": "stevensburgh",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 2,
-    "city": "",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 51,
+    "CityName ": "PH - Cebu",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 36,
-    "city": "north jonathanton",
-    "country": "###",
-    "region": null
+    "Loc.ID": 11,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 2,
-    "city": "WOODSHAVEN",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 48,
+    "CityName ": "",
+    "cntry ": "WORLDWIDE",
+    "Region###": "NA"
   },
   {
-    "location_id": 36,
-    "city": "cesarberg",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 14,
+    "CityName ": "LAKE GREGORY",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 47,
-    "city": "",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 56,
+    "CityName ": "HICKSTOWN",
+    "cntry ": "",
+    "Region###": "?"
   },
   {
-    "location_id": 8,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 9,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": "APAC"
   },
   {
-    "location_id": 27,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 18,
+    "CityName ": "manila, PH",
+    "cntry ": "USA",
+    "Region###": "NA"
   },
   {
-    "location_id": 43,
-    "city": "PH - Cebu",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 23,
+    "CityName ": "",
+    "cntry ": "PHL",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 17,
-    "city": "PORT KRISTENBERG",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 25,
+    "CityName ": "South Michael",
+    "cntry ": "Remote",
+    "Region###": "NA"
   },
   {
-    "location_id": 13,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 65,
+    "CityName ": "PH - Cebu",
+    "cntry ": "###",
+    "Region###": "INTL"
   },
   {
-    "location_id": 49,
-    "city": "PORT TAMMY",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 67,
+    "CityName ": "",
+    "cntry ": "###",
+    "Region###": null
   },
   {
-    "location_id": 4,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 43,
+    "CityName ": "",
+    "cntry ": "Remote",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 46,
-    "city": "NATHANSTAD",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 63,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": "SEA"
   },
   {
-    "location_id": 54,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 60,
+    "CityName ": "NEW MATTHEWBOROUGH",
+    "cntry ": "USA",
+    "Region###": "NA"
   },
   {
-    "location_id": 59,
-    "city": "lake lori",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 39,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "NA"
   },
   {
-    "location_id": 25,
-    "city": "Wilsonshire",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 2,
+    "CityName ": "Barkerton",
+    "cntry ": "Remote",
+    "Region###": "Global"
   },
   {
-    "location_id": 36,
-    "city": "Philippines - MNL",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 11,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 5,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 7,
+    "CityName ": "",
+    "cntry ": "PHL",
+    "Region###": "SEA"
   },
   {
-    "location_id": 18,
-    "city": "ERIKMOUTH",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 8,
+    "CityName ": "LAKE ALICIAMOUTH",
+    "cntry ": "PH",
+    "Region###": null
   },
   {
-    "location_id": 45,
-    "city": "North Cody",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 54,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "APAC"
   },
   {
-    "location_id": 1,
-    "city": "east cynthiamouth",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 35,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 5,
-    "city": "Lake Alejandraview",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 59,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": "INTL"
   },
   {
-    "location_id": 21,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 22,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "INTL"
   },
   {
-    "location_id": 8,
-    "city": "",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 29,
+    "CityName ": "manila, PH",
+    "cntry ": "Remote",
+    "Region###": "Global"
   },
   {
-    "location_id": 30,
-    "city": "Lake Kevinport",
-    "country": "###",
-    "region": null
+    "Loc.ID": 16,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PHL",
+    "Region###": "?"
   },
   {
-    "location_id": 30,
-    "city": "New Stephanie",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 31,
+    "CityName ": "nicoleton",
+    "cntry ": "WORLDWIDE",
+    "Region###": "APAC"
   },
   {
-    "location_id": 12,
-    "city": "",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 32,
+    "CityName ": "",
+    "cntry ": "",
+    "Region###": "SEA"
   },
   {
-    "location_id": 23,
-    "city": "davidfurt",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 64,
+    "CityName ": "mitchellland",
+    "cntry ": "PH",
+    "Region###": null
   },
   {
-    "location_id": 23,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 24,
+    "CityName ": "joseborough",
+    "cntry ": "UK",
+    "Region###": "Global"
   },
   {
-    "location_id": 8,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 21,
+    "CityName ": "JESUSSHIRE",
+    "cntry ": "",
+    "Region###": null
   },
   {
-    "location_id": 22,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 8,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 14,
-    "city": "rodneyberg",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 39,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "ph",
+    "Region###": "NA"
   },
   {
-    "location_id": 32,
-    "city": "",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 12,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 52,
-    "city": "adamchester",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 54,
+    "CityName ": "",
+    "cntry ": "PH",
+    "Region###": null
   },
   {
-    "location_id": 15,
-    "city": "North Jasonborough",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 40,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": "APAC"
   },
   {
-    "location_id": 36,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 52,
+    "CityName ": "TAMMYMOUTH",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 58,
-    "city": "LAKE EMILYVIEW",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 55,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 51,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 54,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "Global"
   },
   {
-    "location_id": 21,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 37,
+    "CityName ": "",
+    "cntry ": "ph",
+    "Region###": "Global"
   },
   {
-    "location_id": 48,
-    "city": "manila, PH",
-    "country": "###",
-    "region": null
+    "Loc.ID": 28,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 26,
-    "city": "",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 59,
+    "CityName ": "PH - Cebu",
+    "cntry ": "WORLDWIDE",
+    "Region###": "INTL"
   },
   {
-    "location_id": 24,
-    "city": "",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 25,
+    "CityName ": "",
+    "cntry ": "USA",
+    "Region###": null
   },
   {
-    "location_id": 8,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 17,
+    "CityName ": "PH - Cebu",
+    "cntry ": "",
+    "Region###": "INTL"
   },
   {
-    "location_id": 6,
-    "city": "",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 55,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": "APAC"
   },
   {
-    "location_id": 50,
-    "city": "port seanfort",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 33,
+    "CityName ": "New Amystad",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 16,
-    "city": "NORTH CHRISTOPHER",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 9,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PH",
+    "Region###": "Global"
   },
   {
-    "location_id": 10,
-    "city": "Lake Eric",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 63,
+    "CityName ": "Port Johnathanbury",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 26,
-    "city": "WEST SONYAFURT",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 21,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "?"
   },
   {
-    "location_id": 31,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 54,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "APAC"
   },
   {
-    "location_id": 35,
-    "city": "markport",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 2,
+    "CityName ": "lake christopherborough",
+    "cntry ": "ph",
+    "Region###": "Global"
   },
   {
-    "location_id": 10,
-    "city": "Simmonston",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 29,
+    "CityName ": "collinsbury",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 37,
-    "city": "East Tiffany",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 5,
+    "CityName ": "manila, PH",
+    "cntry ": "USA",
+    "Region###": "INTL"
   },
   {
-    "location_id": 35,
-    "city": "DEVINBERG",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 51,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "ph",
+    "Region###": "?"
   },
   {
-    "location_id": 7,
-    "city": "Stevensonberg",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 7,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": null
   },
   {
-    "location_id": 18,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 20,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 40,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 23,
+    "CityName ": "",
+    "cntry ": "WORLDWIDE",
+    "Region###": "NA"
   },
   {
-    "location_id": 42,
-    "city": "KELLYBURY",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 44,
+    "CityName ": "PH - Cebu",
+    "cntry ": "",
+    "Region###": null
   },
   {
-    "location_id": 15,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 47,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 58,
-    "city": "",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 37,
+    "CityName ": "west rachelfort",
+    "cntry ": "",
+    "Region###": "Global"
   },
   {
-    "location_id": 60,
-    "city": "",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 50,
+    "CityName ": "garciafurt",
+    "cntry ": "WORLDWIDE",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 57,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 63,
+    "CityName ": "New Bonnie",
+    "cntry ": "Remote",
+    "Region###": "INTL"
   },
   {
-    "location_id": 8,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 41,
+    "CityName ": "manila, PH",
+    "cntry ": "UK",
+    "Region###": "?"
   },
   {
-    "location_id": 11,
-    "city": "LEEVILLE",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 15,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 14,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 7,
+    "CityName ": "WEST JEREMYLAND",
+    "cntry ": "ph",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 9,
-    "city": "MILESBERG",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 48,
+    "CityName ": "east jacobmouth",
+    "cntry ": "WORLDWIDE",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 5,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 23,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 22,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 15,
+    "CityName ": "Port Christinamouth",
+    "cntry ": "PH",
+    "Region###": "?"
   },
   {
-    "location_id": 24,
-    "city": "MARTINEZSHIRE",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 40,
+    "CityName ": "manila, PH",
+    "cntry ": "ph",
+    "Region###": "SEA"
   },
   {
-    "location_id": 24,
-    "city": "PH - Cebu",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 70,
+    "CityName ": "Port Crystal",
+    "cntry ": "###",
+    "Region###": "APAC"
   },
   {
-    "location_id": 44,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 13,
+    "CityName ": "",
+    "cntry ": "ph",
+    "Region###": "INTL"
   },
   {
-    "location_id": 54,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 49,
+    "CityName ": "manila, PH",
+    "cntry ": "###",
+    "Region###": "?"
   },
   {
-    "location_id": 11,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 3,
+    "CityName ": "swansonburgh",
+    "cntry ": "PHL",
+    "Region###": null
   },
   {
-    "location_id": 7,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 28,
+    "CityName ": "",
+    "cntry ": "",
+    "Region###": "Global"
   },
   {
-    "location_id": 33,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 22,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "Global"
   },
   {
-    "location_id": 28,
-    "city": "Brianchester",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 40,
+    "CityName ": "",
+    "cntry ": "PHL",
+    "Region###": "Global"
   },
   {
-    "location_id": 49,
-    "city": "manila, PH",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 38,
+    "CityName ": "",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 1,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 7,
+    "CityName ": "Jenningsport",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 25,
-    "city": "West Robertachester",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 63,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 36,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 69,
+    "CityName ": "South Sheri",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 22,
-    "city": "Philippines - MNL",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 55,
+    "CityName ": "wrightport",
+    "cntry ": "ph",
+    "Region###": "?"
   },
   {
-    "location_id": 32,
-    "city": "",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 14,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "USA",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 41,
-    "city": "",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 24,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 50,
-    "city": "curtisville",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 10,
+    "CityName ": "manila, PH",
+    "cntry ": "ph",
+    "Region###": "APAC"
   },
   {
-    "location_id": 50,
-    "city": "East Joyce",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 43,
+    "CityName ": "PH - Cebu",
+    "cntry ": "###",
+    "Region###": "SEA"
   },
   {
-    "location_id": 59,
-    "city": "",
-    "country": "USA",
-    "region": "NA"
+    "Loc.ID": 22,
+    "CityName ": "West Evan",
+    "cntry ": "",
+    "Region###": "NA"
   },
   {
-    "location_id": 18,
-    "city": "east anthony",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 49,
+    "CityName ": "collinstown",
+    "cntry ": "PH",
+    "Region###": "?"
   },
   {
-    "location_id": 39,
-    "city": "east angela",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 42,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "?"
   },
   {
-    "location_id": 29,
-    "city": "MAYNARDFORT",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 19,
+    "CityName ": "Smithtown",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 24,
-    "city": "",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 55,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "",
+    "Region###": "Global"
   },
   {
-    "location_id": 11,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 4,
+    "CityName ": "SOUTH CAROLFORT",
+    "cntry ": "PHL",
+    "Region###": "?"
   },
   {
-    "location_id": 6,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 14,
+    "CityName ": "Ashleyport",
+    "cntry ": "USA",
+    "Region###": "APAC"
   },
   {
-    "location_id": 52,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 12,
+    "CityName ": "",
+    "cntry ": "WORLDWIDE",
+    "Region###": "?"
   },
   {
-    "location_id": 4,
-    "city": "Port Denisefurt",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 5,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 46,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "EMEA"
+    "Loc.ID": 34,
+    "CityName ": "",
+    "cntry ": "USA",
+    "Region###": "SEA"
   },
   {
-    "location_id": 40,
-    "city": "EAST ISAAC",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 17,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "INTL"
   },
   {
-    "location_id": 17,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 46,
+    "CityName ": "justinshire",
+    "cntry ": "PHL",
+    "Region###": null
   },
   {
-    "location_id": 35,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 60,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "APAC"
   },
   {
-    "location_id": 18,
-    "city": "NORTH BRADLEY",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 16,
+    "CityName ": "East Heathershire",
+    "cntry ": "WORLDWIDE",
+    "Region###": "APAC"
   },
   {
-    "location_id": 40,
-    "city": "PH - Cebu",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 50,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "SEA"
   },
   {
-    "location_id": 1,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 38,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "ph",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 58,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 57,
+    "CityName ": "Judymouth",
+    "cntry ": "###",
+    "Region###": "NA"
   },
   {
-    "location_id": 36,
-    "city": "reneeburgh",
-    "country": "",
-    "region": null
+    "Loc.ID": 48,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": "?"
   },
   {
-    "location_id": 47,
-    "city": "JOHNSONMOUTH",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 1,
+    "CityName ": "Williamsberg",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 6,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 67,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": "?"
   },
   {
-    "location_id": 33,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 11,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "Remote",
+    "Region###": "Global"
   },
   {
-    "location_id": 35,
-    "city": "EAST DIANEMOUTH",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 13,
+    "CityName ": "",
+    "cntry ": "PH",
+    "Region###": "Global"
   },
   {
-    "location_id": 29,
-    "city": "",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 51,
+    "CityName ": "Port Carolfurt",
+    "cntry ": "USA",
+    "Region###": null
   },
   {
-    "location_id": 12,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 55,
+    "CityName ": "Miguelfurt",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 34,
-    "city": "port laurie",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 53,
+    "CityName ": "PH - Cebu",
+    "cntry ": "",
+    "Region###": "SEA"
   },
   {
-    "location_id": 18,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 57,
+    "CityName ": "",
+    "cntry ": "Remote",
+    "Region###": "APAC"
   },
   {
-    "location_id": 17,
-    "city": "New Beverlymouth",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 69,
+    "CityName ": "PH - Cebu",
+    "cntry ": "###",
+    "Region###": "NA"
   },
   {
-    "location_id": 3,
-    "city": "",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 61,
+    "CityName ": "west sandrahaven",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 6,
-    "city": "east alfredview",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 14,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "###",
+    "Region###": null
   },
   {
-    "location_id": 39,
-    "city": "LAKE LAURABURGH",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 25,
+    "CityName ": "South Gary",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 28,
-    "city": "WATSONLAND",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 48,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 46,
-    "city": "lake tinafort",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 35,
+    "CityName ": "GRAYFURT",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 4,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 59,
+    "CityName ": "manila, PH",
+    "cntry ": "###",
+    "Region###": "APAC"
   },
   {
-    "location_id": 36,
-    "city": "cynthiaberg",
-    "country": "###",
-    "region": null
+    "Loc.ID": 58,
+    "CityName ": "EAST ROBERT",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 4,
-    "city": "",
-    "country": "###",
-    "region": null
+    "Loc.ID": 13,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": null
   },
   {
-    "location_id": 59,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 53,
+    "CityName ": "",
+    "cntry ": "USA",
+    "Region###": "Global"
   },
   {
-    "location_id": 48,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 39,
+    "CityName ": "NORTH VINCENT",
+    "cntry ": "Remote",
+    "Region###": null
   },
   {
-    "location_id": 37,
-    "city": "Bryanton",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 42,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 10,
-    "city": "manila, PH",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 48,
+    "CityName ": "",
+    "cntry ": "Remote",
+    "Region###": "NA"
   },
   {
-    "location_id": 40,
-    "city": "NORTH NICOLE",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 41,
+    "CityName ": "robinfort",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 24,
-    "city": "west marybury",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 12,
+    "CityName ": "stephenhaven",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 47,
-    "city": "New Justin",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 53,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "Global"
   },
   {
-    "location_id": 30,
-    "city": "west michael",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 62,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 4,
-    "city": "West Amanda",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 42,
+    "CityName ": "Lesterhaven",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 31,
-    "city": "Petersonland",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 57,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": "?"
   },
   {
-    "location_id": 22,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 38,
+    "CityName ": "manila, PH",
+    "cntry ": "USA",
+    "Region###": "Global"
   },
   {
-    "location_id": 31,
-    "city": "manila, PH",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 22,
+    "CityName ": "LAKE HOLLYVIEW",
+    "cntry ": "Remote",
+    "Region###": "Global"
   },
   {
-    "location_id": 25,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 50,
+    "CityName ": "East Fernando",
+    "cntry ": "WORLDWIDE",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 60,
-    "city": "",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 49,
+    "CityName ": "jacobview",
+    "cntry ": "Remote",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 57,
-    "city": "west blake",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 61,
+    "CityName ": "RYANVILLE",
+    "cntry ": "Remote",
+    "Region###": "INTL"
   },
   {
-    "location_id": 34,
-    "city": "Lewisside",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 55,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PHL",
+    "Region###": "?"
   },
   {
-    "location_id": 36,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 2,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "APAC"
   },
   {
-    "location_id": 30,
-    "city": "PH - Cebu",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 4,
+    "CityName ": "",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 23,
-    "city": "South Jasminehaven",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 37,
+    "CityName ": "PH - Cebu",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 34,
-    "city": "RACHELBURGH",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 33,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": "Global"
   },
   {
-    "location_id": 3,
-    "city": "South Erinview",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 55,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 32,
-    "city": "olsenmouth",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 49,
+    "CityName ": "PH - Cebu",
+    "cntry ": "###",
+    "Region###": "NA"
   },
   {
-    "location_id": 1,
-    "city": "",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 21,
+    "CityName ": "annfurt",
+    "cntry ": "WORLDWIDE",
+    "Region###": "SEA"
   },
   {
-    "location_id": 30,
-    "city": "",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 64,
+    "CityName ": "East Jenniferburgh",
+    "cntry ": "USA",
+    "Region###": "Global"
   },
   {
-    "location_id": 41,
-    "city": "BOWENSIDE",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 33,
+    "CityName ": "Port Brentview",
+    "cntry ": "UK",
+    "Region###": null
   },
   {
-    "location_id": 49,
-    "city": "west tracy",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 20,
+    "CityName ": "",
+    "cntry ": "Remote",
+    "Region###": "NA"
   },
   {
-    "location_id": 38,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 54,
+    "CityName ": "jameshaven",
+    "cntry ": "USA",
+    "Region###": "SEA"
   },
   {
-    "location_id": 40,
-    "city": "marcusshire",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 14,
+    "CityName ": "manila, PH",
+    "cntry ": "Remote",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 15,
-    "city": "South Richard",
-    "country": "###",
-    "region": null
+    "Loc.ID": 5,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 6,
-    "city": "south daniellemouth",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 10,
+    "CityName ": "",
+    "cntry ": "USA",
+    "Region###": "?"
   },
   {
-    "location_id": 60,
-    "city": "Meganview",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 36,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 55,
-    "city": "",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 52,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "ph",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 19,
-    "city": "PH - Cebu",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 44,
+    "CityName ": "new josestad",
+    "cntry ": "UK",
+    "Region###": "NA"
   },
   {
-    "location_id": 55,
-    "city": "NORTH DERRICKBURY",
-    "country": "USA",
-    "region": "EMEA"
+    "Loc.ID": 26,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "",
+    "Region###": "NA"
   },
   {
-    "location_id": 36,
-    "city": "",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 66,
+    "CityName ": "lake vicki",
+    "cntry ": "WORLDWIDE",
+    "Region###": "?"
   },
   {
-    "location_id": 58,
-    "city": "Lake Timothychester",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 31,
+    "CityName ": "Port Elizabeth",
+    "cntry ": "",
+    "Region###": null
   },
   {
-    "location_id": 38,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 8,
+    "CityName ": "Shermanberg",
+    "cntry ": "USA",
+    "Region###": null
   },
   {
-    "location_id": 7,
-    "city": "TIMOTHYVIEW",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 9,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 21,
-    "city": "port kevinstad",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 46,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "###",
+    "Region###": "NA"
   },
   {
-    "location_id": 39,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 22,
+    "CityName ": "WEST DERRICKBOROUGH",
+    "cntry ": "PH",
+    "Region###": "Global"
   },
   {
-    "location_id": 53,
-    "city": "patelview",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 63,
+    "CityName ": "",
+    "cntry ": "UK",
+    "Region###": "NA"
   },
   {
-    "location_id": 15,
-    "city": "East John",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 44,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PH",
+    "Region###": "?"
   },
   {
-    "location_id": 50,
-    "city": "New Anthony",
-    "country": "PH",
-    "region": "APAC"
+    "Loc.ID": 3,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": "APAC"
   },
   {
-    "location_id": 36,
-    "city": "",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 16,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 36,
-    "city": "Virginialand",
-    "country": "###",
-    "region": "EMEA"
+    "Loc.ID": 62,
+    "CityName ": "manila, PH",
+    "cntry ": "ph",
+    "Region###": "APAC"
   },
   {
-    "location_id": 53,
-    "city": "",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 45,
+    "CityName ": "manila, PH",
+    "cntry ": "USA",
+    "Region###": "INTL"
   },
   {
-    "location_id": 40,
-    "city": "North Phillip",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 15,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 22,
-    "city": "",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 62,
+    "CityName ": "WEST ROBYNLAND",
+    "cntry ": "PHL",
+    "Region###": null
   },
   {
-    "location_id": 37,
-    "city": "Philippines - MNL",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 62,
+    "CityName ": "manila, PH",
+    "cntry ": "Remote",
+    "Region###": "APAC"
   },
   {
-    "location_id": 24,
-    "city": "East Jennifermouth",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 6,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 59,
-    "city": "Johnsonburgh",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 42,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "Global"
   },
   {
-    "location_id": 4,
-    "city": "SOUTH JACOBFORT",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 5,
+    "CityName ": "manila, PH",
+    "cntry ": "USA",
+    "Region###": "INTL"
   },
   {
-    "location_id": 36,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 55,
+    "CityName ": "manila, PH",
+    "cntry ": "Remote",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 41,
-    "city": "PORT ETHANSIDE",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 41,
+    "CityName ": "North Shannonberg",
+    "cntry ": "PH",
+    "Region###": "INTL"
   },
   {
-    "location_id": 43,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 8,
+    "CityName ": "",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 2,
-    "city": "Philippines - MNL",
-    "country": "###",
-    "region": null
+    "Loc.ID": 40,
+    "CityName ": "East Yolanda",
+    "cntry ": "",
+    "Region###": "?"
   },
   {
-    "location_id": 34,
-    "city": "Wigginsfort",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 38,
+    "CityName ": "angelview",
+    "cntry ": "USA",
+    "Region###": "SEA"
   },
   {
-    "location_id": 5,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 67,
+    "CityName ": "EAST YVONNESIDE",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 28,
-    "city": "",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 17,
+    "CityName ": "maxwellview",
+    "cntry ": "Remote",
+    "Region###": null
   },
   {
-    "location_id": 8,
-    "city": "Tammiefurt",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 55,
+    "CityName ": "south nancystad",
+    "cntry ": "PH",
+    "Region###": "?"
   },
   {
-    "location_id": 18,
-    "city": "",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 25,
+    "CityName ": "East Alexandertown",
+    "cntry ": "ph",
+    "Region###": "Global"
   },
   {
-    "location_id": 23,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 44,
+    "CityName ": "ELIZABETHTON",
+    "cntry ": "###",
+    "Region###": "?"
   },
   {
-    "location_id": 31,
-    "city": "west meghan",
-    "country": "PH",
-    "region": "?"
+    "Loc.ID": 43,
+    "CityName ": "manila, PH",
+    "cntry ": "",
+    "Region###": "APAC"
   },
   {
-    "location_id": 19,
-    "city": "",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 38,
+    "CityName ": "manila, PH",
+    "cntry ": "ph",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 11,
-    "city": "",
-    "country": "###",
-    "region": null
+    "Loc.ID": 17,
+    "CityName ": "manila, PH",
+    "cntry ": "PHL",
+    "Region###": "?"
   },
   {
-    "location_id": 27,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 53,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 58,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 59,
+    "CityName ": "PH - Cebu",
+    "cntry ": "USA",
+    "Region###": "SEA"
   },
   {
-    "location_id": 33,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 66,
+    "CityName ": "manila, PH",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 37,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 21,
+    "CityName ": "colefort",
+    "cntry ": "PH",
+    "Region###": "Global"
   },
   {
-    "location_id": 13,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 14,
+    "CityName ": "LUCASPORT",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 52,
-    "city": "new elizabethfurt",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 1,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 53,
-    "city": "port benjamin",
-    "country": "",
-    "region": "NA"
+    "Loc.ID": 62,
+    "CityName ": "port kimberlyburgh",
+    "cntry ": "Remote",
+    "Region###": "SEA"
   },
   {
-    "location_id": 4,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 43,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": "?"
   },
   {
-    "location_id": 60,
-    "city": "wellsville",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 23,
+    "CityName ": "South Johnburgh",
+    "cntry ": "ph",
+    "Region###": "INTL"
   },
   {
-    "location_id": 42,
-    "city": "LINDAHAVEN",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 7,
+    "CityName ": "lake michael",
+    "cntry ": "PHL",
+    "Region###": "INTL"
   },
   {
-    "location_id": 42,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 19,
+    "CityName ": "",
+    "cntry ": "###",
+    "Region###": "INTL"
   },
   {
-    "location_id": 19,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 15,
+    "CityName ": "North Karen",
+    "cntry ": "PH",
+    "Region###": null
   },
   {
-    "location_id": 19,
-    "city": "",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 35,
+    "CityName ": "",
+    "cntry ": "UK",
+    "Region###": "?"
   },
   {
-    "location_id": 48,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 6,
+    "CityName ": "Kingmouth",
+    "cntry ": "Remote",
+    "Region###": "INTL"
   },
   {
-    "location_id": 42,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "Global"
+    "Loc.ID": 32,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PHL",
+    "Region###": "NA"
   },
   {
-    "location_id": 29,
-    "city": "WEST BRANDY",
-    "country": "",
-    "region": null
+    "Loc.ID": 66,
+    "CityName ": "JONATHANLAND",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 15,
-    "city": "manila, PH",
-    "country": "",
-    "region": "EMEA"
+    "Loc.ID": 67,
+    "CityName ": "NEW CRYSTALTOWN",
+    "cntry ": "ph",
+    "Region###": "INTL"
   },
   {
-    "location_id": 52,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 29,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 32,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 54,
+    "CityName ": "manila, PH",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 55,
-    "city": "new lindafort",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 40,
+    "CityName ": "PORT CHRISTINELAND",
+    "cntry ": "PHL",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 6,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 39,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 12,
-    "city": "Philippines - MNL",
-    "country": "###",
-    "region": "EMEA"
+    "Loc.ID": 43,
+    "CityName ": "",
+    "cntry ": "PHL",
+    "Region###": "APAC"
   },
   {
-    "location_id": 55,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "?"
+    "Loc.ID": 8,
+    "CityName ": "PH - Cebu",
+    "cntry ": "###",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 41,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": "NA"
+    "Loc.ID": 44,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 30,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": "?"
+    "Loc.ID": 7,
+    "CityName ": "",
+    "cntry ": "USA",
+    "Region###": "SEA"
   },
   {
-    "location_id": 3,
-    "city": "wrightmouth",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 52,
+    "CityName ": "",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 60,
-    "city": "PH - Cebu",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 36,
+    "CityName ": "",
+    "cntry ": "PH",
+    "Region###": "APAC"
   },
   {
-    "location_id": 49,
-    "city": "Dixonville",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 38,
+    "CityName ": "PH - Cebu",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 29,
-    "city": "",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 61,
+    "CityName ": "South Luis",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 36,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 33,
+    "CityName ": "JAREDBERG",
+    "cntry ": "WORLDWIDE",
+    "Region###": "?"
   },
   {
-    "location_id": 36,
-    "city": "Philippines - MNL",
-    "country": "UK",
-    "region": "NA"
+    "Loc.ID": 55,
+    "CityName ": "PH - Cebu",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 51,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 13,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": "APAC"
   },
   {
-    "location_id": 56,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 28,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": null
   },
   {
-    "location_id": 19,
-    "city": "north jessica",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 57,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "UK",
+    "Region###": "INTL"
   },
   {
-    "location_id": 6,
-    "city": "Philippines - MNL",
-    "country": "###",
-    "region": null
+    "Loc.ID": 63,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": null
   },
   {
-    "location_id": 39,
-    "city": "manila, PH",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 11,
+    "CityName ": "PH - Cebu",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 33,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 14,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "ph",
+    "Region###": "SEA"
   },
   {
-    "location_id": 32,
-    "city": "PH - Cebu",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 66,
+    "CityName ": "PH - Cebu",
+    "cntry ": "",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 37,
-    "city": "",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 13,
+    "CityName ": "manila, PH",
+    "cntry ": "Remote",
+    "Region###": "?"
   },
   {
-    "location_id": 17,
-    "city": "wongland",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 19,
+    "CityName ": "",
+    "cntry ": "PH",
+    "Region###": "Global"
   },
   {
-    "location_id": 12,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 51,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": "Global"
   },
   {
-    "location_id": 7,
-    "city": "Philippines - MNL",
-    "country": "",
-    "region": "Global"
+    "Loc.ID": 11,
+    "CityName ": "PH - Cebu",
+    "cntry ": "PH",
+    "Region###": "INTL"
   },
   {
-    "location_id": 41,
-    "city": "MUNOZSIDE",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 68,
+    "CityName ": "East Jamie",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 32,
-    "city": "Allentown",
-    "country": "Remote",
-    "region": "EMEA"
+    "Loc.ID": 43,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "WORLDWIDE",
+    "Region###": "APAC"
   },
   {
-    "location_id": 11,
-    "city": "South James",
-    "country": "###",
-    "region": null
+    "Loc.ID": 48,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": null
   },
   {
-    "location_id": 60,
-    "city": "JUAREZBURY",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 64,
+    "CityName ": "mcgrathbury",
+    "cntry ": "ph",
+    "Region###": "Global"
   },
   {
-    "location_id": 37,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": null
+    "Loc.ID": 26,
+    "CityName ": "port jennifer",
+    "cntry ": "Remote",
+    "Region###": "NA"
   },
   {
-    "location_id": 48,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 5,
+    "CityName ": "Donaldberg",
+    "cntry ": "ph",
+    "Region###": "Global"
   },
   {
-    "location_id": 45,
-    "city": "Bonillaland",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 55,
+    "CityName ": "manila, PH",
+    "cntry ": "PH",
+    "Region###": "SEA"
   },
   {
-    "location_id": 25,
-    "city": "PH - Cebu",
-    "country": "",
-    "region": "APAC"
+    "Loc.ID": 41,
+    "CityName ": "PH - Cebu",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 34,
-    "city": "new jocelynland",
-    "country": "Remote",
-    "region": "Global"
+    "Loc.ID": 26,
+    "CityName ": "manila, PH",
+    "cntry ": "UK",
+    "Region###": "Global"
   },
   {
-    "location_id": 3,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 10,
+    "CityName ": "south susanmouth",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 27,
-    "city": "PH - Cebu",
-    "country": "UK",
-    "region": "APAC"
+    "Loc.ID": 67,
+    "CityName ": "new jenniferfort",
+    "cntry ": "PH",
+    "Region###": "?"
   },
   {
-    "location_id": 15,
-    "city": "PH - Cebu",
-    "country": "PH",
-    "region": "Global"
+    "Loc.ID": 49,
+    "CityName ": "manila, PH",
+    "cntry ": "UK",
+    "Region###": "Global"
   },
   {
-    "location_id": 21,
-    "city": "manila, PH",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 21,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PHL",
+    "Region###": null
   },
   {
-    "location_id": 40,
-    "city": "Philippines - MNL",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 26,
+    "CityName ": "New Andrea",
+    "cntry ": "###",
+    "Region###": "Global"
   },
   {
-    "location_id": 50,
-    "city": "manila, PH",
-    "country": "UK",
-    "region": null
+    "Loc.ID": 6,
+    "CityName ": "West Margaret",
+    "cntry ": "PH",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 49,
-    "city": "",
-    "country": "UK",
-    "region": "EMEA"
+    "Loc.ID": 68,
+    "CityName ": "",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 29,
-    "city": "",
-    "country": "###",
-    "region": "Global"
+    "Loc.ID": 57,
+    "CityName ": "manila, PH",
+    "cntry ": "UK",
+    "Region###": "Global"
   },
   {
-    "location_id": 14,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 17,
+    "CityName ": "PORT KARENMOUTH",
+    "cntry ": "USA",
+    "Region###": "SEA"
   },
   {
-    "location_id": 13,
-    "city": "hamiltonmouth",
-    "country": "###",
-    "region": "EMEA"
+    "Loc.ID": 29,
+    "CityName ": "manila, PH",
+    "cntry ": "###",
+    "Region###": "APAC"
   },
   {
-    "location_id": 33,
-    "city": "south cody",
-    "country": "UK",
-    "region": "Global"
+    "Loc.ID": 41,
+    "CityName ": "manila, PH",
+    "cntry ": "WORLDWIDE",
+    "Region###": "?"
   },
   {
-    "location_id": 31,
-    "city": "PH - Cebu",
-    "country": "###",
-    "region": null
+    "Loc.ID": 60,
+    "CityName ": "WILLIAMSLAND",
+    "cntry ": "WORLDWIDE",
+    "Region###": "INTL"
   },
   {
-    "location_id": 11,
-    "city": "Ericstad",
-    "country": "###",
-    "region": "EMEA"
+    "Loc.ID": 66,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "Remote",
+    "Region###": null
   },
   {
-    "location_id": 51,
-    "city": "Portershire",
-    "country": "USA",
-    "region": "?"
+    "Loc.ID": 12,
+    "CityName ": "Lake Carlosfurt",
+    "cntry ": "WORLDWIDE",
+    "Region###": "Global"
   },
   {
-    "location_id": 11,
-    "city": "north michaelhaven",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 13,
+    "CityName ": "",
+    "cntry ": "USA",
+    "Region###": "APAC"
   },
   {
-    "location_id": 37,
-    "city": "Philippines - MNL",
-    "country": "Remote",
-    "region": "NA"
+    "Loc.ID": 19,
+    "CityName ": "",
+    "cntry ": "WORLDWIDE",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 55,
-    "city": "EAST ANDREA",
-    "country": "###",
-    "region": "APAC"
+    "Loc.ID": 61,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "###",
+    "Region###": "APAC"
   },
   {
-    "location_id": 29,
-    "city": "Jamiestad",
-    "country": "###",
-    "region": "?"
+    "Loc.ID": 19,
+    "CityName ": "Cochrantown",
+    "cntry ": "###",
+    "Region###": "SEA"
   },
   {
-    "location_id": 16,
-    "city": "",
-    "country": "Remote",
-    "region": "APAC"
+    "Loc.ID": 27,
+    "CityName ": "PH - Cebu",
+    "cntry ": "ph",
+    "Region###": "APAC"
   },
   {
-    "location_id": 38,
-    "city": "west julieport",
-    "country": "###",
-    "region": "NA"
+    "Loc.ID": 41,
+    "CityName ": "lake marthaberg",
+    "cntry ": "WORLDWIDE",
+    "Region###": "EMEA"
   },
   {
-    "location_id": 5,
-    "city": "manila, PH",
-    "country": "PH",
-    "region": null
+    "Loc.ID": 43,
+    "CityName ": "Kristineborough",
+    "cntry ": "UK",
+    "Region###": "SEA"
   },
   {
-    "location_id": 22,
-    "city": "Philippines - MNL",
-    "country": "PH",
-    "region": "EMEA"
+    "Loc.ID": 58,
+    "CityName ": "New Allisonmouth",
+    "cntry ": "Remote",
+    "Region###": "SEA"
   },
   {
-    "location_id": 5,
-    "city": "manila, PH",
-    "country": "USA",
-    "region": "APAC"
+    "Loc.ID": 49,
+    "CityName ": "Philippines - MNL",
+    "cntry ": "PH",
+    "Region###": "NA"
   },
   {
-    "location_id": 31,
-    "city": "manila, PH",
-    "country": "USA",
-    "region": null
+    "Loc.ID": 15,
+    "CityName ": "PH - Cebu",
+    "cntry ": "",
+    "Region###": "?"
   },
   {
-    "location_id": 50,
-    "city": "East Kurt",
-    "country": "",
-    "region": "?"
+    "Loc.ID": 1,
+    "CityName ": "brianshire",
+    "cntry ": "PH",
+    "Region###": "NA"
   }
 ]

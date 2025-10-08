@@ -1,0 +1,2002 @@
+[
+  {
+    "job.Id":1,
+    "Skills \/ Tools ":"Airflow,Pandas,AWS None"
+  },
+  {
+    "job.Id":2,
+    "Skills \/ Tools ":"Spark,SQL,Python,Pandas,Kubernetes"
+  },
+  {
+    "job.Id":3,
+    "Skills \/ Tools ":"LangChain\/AWS ???"
+  },
+  {
+    "job.Id":4,
+    "Skills \/ Tools ":"LangChain;Docker"
+  },
+  {
+    "job.Id":5,
+    "Skills \/ Tools ":"Airflow Kubernetes Python Pandas"
+  },
+  {
+    "job.Id":6,
+    "Skills \/ Tools ":"Python;AWS;Airflow;HuggingFace"
+  },
+  {
+    "job.Id":7,
+    "Skills \/ Tools ":"Docker Airflow SQL Kubernetes Spark (basic)"
+  },
+  {
+    "job.Id":8,
+    "Skills \/ Tools ":"AWS\/SQL\/Python\/LangChain"
+  },
+  {
+    "job.Id":9,
+    "Skills \/ Tools ":"Pandas,Python,Airflow"
+  },
+  {
+    "job.Id":10,
+    "Skills \/ Tools ":"Pandas Kubernetes Airflow None"
+  },
+  {
+    "job.Id":11,
+    "Skills \/ Tools ":"Airflow,Spark,Python (basic)"
+  },
+  {
+    "job.Id":12,
+    "Skills \/ Tools ":"SQL\/Spark"
+  },
+  {
+    "job.Id":13,
+    "Skills \/ Tools ":"Spark;LangChain;AWS;Python;Docker None"
+  },
+  {
+    "job.Id":14,
+    "Skills \/ Tools ":"Docker\/AWS\/Pandas\/Kubernetes\/LangChain\/Airflow"
+  },
+  {
+    "job.Id":15,
+    "Skills \/ Tools ":"Airflow\/Pandas\/HuggingFace\/LangChain\/Kubernetes\/AWS"
+  },
+  {
+    "job.Id":16,
+    "Skills \/ Tools ":"Python|Docker|Spark|LangChain|Airflow|SQL"
+  },
+  {
+    "job.Id":17,
+    "Skills \/ Tools ":"Kubernetes|LangChain|Airflow|Python"
+  },
+  {
+    "job.Id":18,
+    "Skills \/ Tools ":"HuggingFace AWS Python Docker Airflow None"
+  },
+  {
+    "job.Id":19,
+    "Skills \/ Tools ":"AWS;Spark;Airflow;LangChain"
+  },
+  {
+    "job.Id":20,
+    "Skills \/ Tools ":"Docker\/Pandas\/SQL\/Kubernetes\/HuggingFace\/Airflow (basic)"
+  },
+  {
+    "job.Id":21,
+    "Skills \/ Tools ":"SQL\/LangChain\/Docker\/Spark\/Python\/Airflow"
+  },
+  {
+    "job.Id":22,
+    "Skills \/ Tools ":"Airflow\/Docker\/AWS\/SQL\/HuggingFace\/LangChain"
+  },
+  {
+    "job.Id":23,
+    "Skills \/ Tools ":"AWS\/Pandas\/Python"
+  },
+  {
+    "job.Id":24,
+    "Skills \/ Tools ":"LangChain Airflow"
+  },
+  {
+    "job.Id":25,
+    "Skills \/ Tools ":"SQL LangChain"
+  },
+  {
+    "job.Id":26,
+    "Skills \/ Tools ":"Pandas\/AWS\/HuggingFace\/Kubernetes\/Airflow"
+  },
+  {
+    "job.Id":27,
+    "Skills \/ Tools ":"Python;HuggingFace;SQL;Docker;Airflow;Kubernetes"
+  },
+  {
+    "job.Id":28,
+    "Skills \/ Tools ":"LangChain;HuggingFace;AWS"
+  },
+  {
+    "job.Id":29,
+    "Skills \/ Tools ":"Kubernetes\/LangChain"
+  },
+  {
+    "job.Id":30,
+    "Skills \/ Tools ":"LangChain,Kubernetes n\/a"
+  },
+  {
+    "job.Id":31,
+    "Skills \/ Tools ":"Docker;Spark;Kubernetes;Airflow;SQL"
+  },
+  {
+    "job.Id":32,
+    "Skills \/ Tools ":"Python,HuggingFace,Spark,LangChain"
+  },
+  {
+    "job.Id":33,
+    "Skills \/ Tools ":"Spark Pandas Docker"
+  },
+  {
+    "job.Id":34,
+    "Skills \/ Tools ":"Docker,Airflow"
+  },
+  {
+    "job.Id":35,
+    "Skills \/ Tools ":"Python\/Spark\/SQL\/HuggingFace n\/a"
+  },
+  {
+    "job.Id":36,
+    "Skills \/ Tools ":"HuggingFace\/Kubernetes\/AWS\/Python\/Airflow\/SQL"
+  },
+  {
+    "job.Id":37,
+    "Skills \/ Tools ":"Kubernetes;Airflow;Spark;Python;SQL;Docker"
+  },
+  {
+    "job.Id":38,
+    "Skills \/ Tools ":"SQL\/Airflow\/Kubernetes\/HuggingFace\/AWS\/Docker None"
+  },
+  {
+    "job.Id":39,
+    "Skills \/ Tools ":"LangChain;Kubernetes ???"
+  },
+  {
+    "job.Id":40,
+    "Skills \/ Tools ":"Pandas,Kubernetes,Spark,LangChain"
+  },
+  {
+    "job.Id":41,
+    "Skills \/ Tools ":"HuggingFace,Airflow,Docker"
+  },
+  {
+    "job.Id":42,
+    "Skills \/ Tools ":"SQL|Kubernetes|HuggingFace|Airflow|Spark|LangChain n\/a"
+  },
+  {
+    "job.Id":43,
+    "Skills \/ Tools ":"Kubernetes;Python;Airflow;Docker;HuggingFace"
+  },
+  {
+    "job.Id":44,
+    "Skills \/ Tools ":"Pandas;SQL"
+  },
+  {
+    "job.Id":45,
+    "Skills \/ Tools ":"Kubernetes,Airflow,HuggingFace,LangChain,Python,SQL None"
+  },
+  {
+    "job.Id":46,
+    "Skills \/ Tools ":"Airflow\/Docker\/Pandas\/AWS"
+  },
+  {
+    "job.Id":47,
+    "Skills \/ Tools ":"AWS|SQL (basic)"
+  },
+  {
+    "job.Id":48,
+    "Skills \/ Tools ":"Python,HuggingFace,LangChain,Airflow,Kubernetes,AWS"
+  },
+  {
+    "job.Id":49,
+    "Skills \/ Tools ":"HuggingFace,AWS,LangChain,Kubernetes,Python,Docker"
+  },
+  {
+    "job.Id":50,
+    "Skills \/ Tools ":"Python Docker HuggingFace Airflow Kubernetes Pandas"
+  },
+  {
+    "job.Id":51,
+    "Skills \/ Tools ":"SQL;Pandas"
+  },
+  {
+    "job.Id":52,
+    "Skills \/ Tools ":"Pandas;Python;Kubernetes;Docker"
+  },
+  {
+    "job.Id":53,
+    "Skills \/ Tools ":"HuggingFace|Python"
+  },
+  {
+    "job.Id":54,
+    "Skills \/ Tools ":"Spark\/Pandas\/Python\/LangChain"
+  },
+  {
+    "job.Id":55,
+    "Skills \/ Tools ":"AWS;HuggingFace;Airflow;SQL"
+  },
+  {
+    "job.Id":56,
+    "Skills \/ Tools ":"Kubernetes;AWS ???"
+  },
+  {
+    "job.Id":57,
+    "Skills \/ Tools ":"AWS|HuggingFace|SQL ???"
+  },
+  {
+    "job.Id":58,
+    "Skills \/ Tools ":"AWS Python SQL Docker HuggingFace Kubernetes n\/a"
+  },
+  {
+    "job.Id":59,
+    "Skills \/ Tools ":"LangChain,Kubernetes,Spark"
+  },
+  {
+    "job.Id":60,
+    "Skills \/ Tools ":"Airflow,SQL,Python,HuggingFace,LangChain"
+  },
+  {
+    "job.Id":61,
+    "Skills \/ Tools ":"AWS Airflow Python ???"
+  },
+  {
+    "job.Id":62,
+    "Skills \/ Tools ":"LangChain,Airflow,Python,HuggingFace,Spark,SQL"
+  },
+  {
+    "job.Id":63,
+    "Skills \/ Tools ":"HuggingFace|Kubernetes|Airflow"
+  },
+  {
+    "job.Id":64,
+    "Skills \/ Tools ":"Spark Airflow Kubernetes SQL HuggingFace"
+  },
+  {
+    "job.Id":65,
+    "Skills \/ Tools ":"HuggingFace;Kubernetes None"
+  },
+  {
+    "job.Id":66,
+    "Skills \/ Tools ":"Airflow,Python,AWS,Docker"
+  },
+  {
+    "job.Id":67,
+    "Skills \/ Tools ":"Pandas;Docker;Python;Kubernetes"
+  },
+  {
+    "job.Id":68,
+    "Skills \/ Tools ":"Python;Airflow"
+  },
+  {
+    "job.Id":69,
+    "Skills \/ Tools ":"Python LangChain HuggingFace Pandas ???"
+  },
+  {
+    "job.Id":70,
+    "Skills \/ Tools ":"AWS\/Spark\/Docker\/Kubernetes\/LangChain\/Airflow"
+  },
+  {
+    "job.Id":71,
+    "Skills \/ Tools ":"Kubernetes\/Python None"
+  },
+  {
+    "job.Id":72,
+    "Skills \/ Tools ":"LangChain\/AWS\/Docker\/Python\/Pandas\/Airflow"
+  },
+  {
+    "job.Id":73,
+    "Skills \/ Tools ":"Python\/LangChain\/HuggingFace\/AWS\/Kubernetes"
+  },
+  {
+    "job.Id":74,
+    "Skills \/ Tools ":"Pandas;SQL;Kubernetes"
+  },
+  {
+    "job.Id":75,
+    "Skills \/ Tools ":"Docker|Kubernetes|LangChain|Pandas"
+  },
+  {
+    "job.Id":76,
+    "Skills \/ Tools ":"SQL,Python,AWS"
+  },
+  {
+    "job.Id":77,
+    "Skills \/ Tools ":"Docker\/HuggingFace\/Spark\/Python None"
+  },
+  {
+    "job.Id":78,
+    "Skills \/ Tools ":"Docker AWS Pandas Kubernetes ???"
+  },
+  {
+    "job.Id":79,
+    "Skills \/ Tools ":"SQL Kubernetes"
+  },
+  {
+    "job.Id":80,
+    "Skills \/ Tools ":"SQL\/Kubernetes\/Airflow\/Docker\/LangChain\/Python"
+  },
+  {
+    "job.Id":81,
+    "Skills \/ Tools ":"HuggingFace\/Pandas"
+  },
+  {
+    "job.Id":82,
+    "Skills \/ Tools ":"Pandas|SQL|Airflow|Spark|Python"
+  },
+  {
+    "job.Id":83,
+    "Skills \/ Tools ":"AWS|Spark|LangChain (basic)"
+  },
+  {
+    "job.Id":84,
+    "Skills \/ Tools ":"Python;HuggingFace;Docker;AWS"
+  },
+  {
+    "job.Id":85,
+    "Skills \/ Tools ":"Docker,HuggingFace,Spark"
+  },
+  {
+    "job.Id":86,
+    "Skills \/ Tools ":"Python,Docker"
+  },
+  {
+    "job.Id":87,
+    "Skills \/ Tools ":"HuggingFace;LangChain;Airflow;Spark"
+  },
+  {
+    "job.Id":88,
+    "Skills \/ Tools ":"Spark;AWS;Python;Airflow n\/a"
+  },
+  {
+    "job.Id":89,
+    "Skills \/ Tools ":"AWS;LangChain;Airflow;Python;Spark;SQL (basic)"
+  },
+  {
+    "job.Id":90,
+    "Skills \/ Tools ":"Spark\/Docker\/Pandas\/Kubernetes"
+  },
+  {
+    "job.Id":91,
+    "Skills \/ Tools ":"Spark\/LangChain\/Airflow\/Docker\/Pandas\/SQL (basic)"
+  },
+  {
+    "job.Id":92,
+    "Skills \/ Tools ":"Spark,Docker,LangChain,Airflow"
+  },
+  {
+    "job.Id":93,
+    "Skills \/ Tools ":"LangChain,Kubernetes,AWS,Pandas,Airflow"
+  },
+  {
+    "job.Id":94,
+    "Skills \/ Tools ":"AWS|HuggingFace|SQL|Airflow (basic)"
+  },
+  {
+    "job.Id":95,
+    "Skills \/ Tools ":"HuggingFace|Docker|Spark|LangChain|Pandas|Airflow"
+  },
+  {
+    "job.Id":96,
+    "Skills \/ Tools ":"LangChain\/Spark"
+  },
+  {
+    "job.Id":97,
+    "Skills \/ Tools ":"Airflow Kubernetes"
+  },
+  {
+    "job.Id":98,
+    "Skills \/ Tools ":"HuggingFace|SQL"
+  },
+  {
+    "job.Id":99,
+    "Skills \/ Tools ":"Docker;LangChain;Kubernetes;Airflow;Pandas"
+  },
+  {
+    "job.Id":100,
+    "Skills \/ Tools ":"Pandas\/Spark"
+  },
+  {
+    "job.Id":101,
+    "Skills \/ Tools ":"Docker|Pandas|SQL"
+  },
+  {
+    "job.Id":102,
+    "Skills \/ Tools ":"Pandas SQL Python Kubernetes"
+  },
+  {
+    "job.Id":103,
+    "Skills \/ Tools ":"SQL HuggingFace None"
+  },
+  {
+    "job.Id":104,
+    "Skills \/ Tools ":"HuggingFace;AWS"
+  },
+  {
+    "job.Id":105,
+    "Skills \/ Tools ":"Kubernetes|Airflow|Pandas|HuggingFace|Spark"
+  },
+  {
+    "job.Id":106,
+    "Skills \/ Tools ":"HuggingFace|LangChain|AWS"
+  },
+  {
+    "job.Id":107,
+    "Skills \/ Tools ":"Spark;Kubernetes;Pandas;Airflow;HuggingFace"
+  },
+  {
+    "job.Id":108,
+    "Skills \/ Tools ":"AWS Kubernetes Spark LangChain Python ???"
+  },
+  {
+    "job.Id":109,
+    "Skills \/ Tools ":"Airflow,LangChain,Docker,AWS,Spark,Pandas"
+  },
+  {
+    "job.Id":110,
+    "Skills \/ Tools ":"HuggingFace;Pandas;Kubernetes n\/a"
+  },
+  {
+    "job.Id":111,
+    "Skills \/ Tools ":"Docker|Spark ???"
+  },
+  {
+    "job.Id":112,
+    "Skills \/ Tools ":"SQL\/Python\/Pandas\/Spark\/Airflow ???"
+  },
+  {
+    "job.Id":113,
+    "Skills \/ Tools ":"SQL\/Docker"
+  },
+  {
+    "job.Id":114,
+    "Skills \/ Tools ":"SQL|Python|Spark|AWS|Docker"
+  },
+  {
+    "job.Id":115,
+    "Skills \/ Tools ":"Spark|AWS|Pandas|SQL|Docker"
+  },
+  {
+    "job.Id":116,
+    "Skills \/ Tools ":"Spark|Docker|Python"
+  },
+  {
+    "job.Id":117,
+    "Skills \/ Tools ":"Docker,LangChain,SQL,Airflow,Spark,Kubernetes n\/a"
+  },
+  {
+    "job.Id":118,
+    "Skills \/ Tools ":"Airflow|SQL|Pandas"
+  },
+  {
+    "job.Id":119,
+    "Skills \/ Tools ":"Airflow HuggingFace AWS Docker Kubernetes Spark"
+  },
+  {
+    "job.Id":120,
+    "Skills \/ Tools ":"Airflow;LangChain;Spark;Docker;SQL n\/a"
+  },
+  {
+    "job.Id":121,
+    "Skills \/ Tools ":"Spark SQL LangChain"
+  },
+  {
+    "job.Id":122,
+    "Skills \/ Tools ":"HuggingFace\/Python\/Spark"
+  },
+  {
+    "job.Id":123,
+    "Skills \/ Tools ":"HuggingFace Spark Kubernetes Pandas Docker"
+  },
+  {
+    "job.Id":124,
+    "Skills \/ Tools ":"Pandas HuggingFace LangChain SQL Kubernetes"
+  },
+  {
+    "job.Id":125,
+    "Skills \/ Tools ":"Airflow HuggingFace Python"
+  },
+  {
+    "job.Id":126,
+    "Skills \/ Tools ":"SQL|Airflow|HuggingFace|Python|Docker|Pandas (basic)"
+  },
+  {
+    "job.Id":127,
+    "Skills \/ Tools ":"Airflow,Pandas,Kubernetes,LangChain,AWS"
+  },
+  {
+    "job.Id":128,
+    "Skills \/ Tools ":"Pandas;Spark;AWS;Python"
+  },
+  {
+    "job.Id":129,
+    "Skills \/ Tools ":"Docker,Pandas,Airflow,AWS,Kubernetes"
+  },
+  {
+    "job.Id":130,
+    "Skills \/ Tools ":"Airflow Kubernetes AWS Pandas Docker SQL"
+  },
+  {
+    "job.Id":131,
+    "Skills \/ Tools ":"Spark\/SQL\/Kubernetes"
+  },
+  {
+    "job.Id":132,
+    "Skills \/ Tools ":"LangChain,AWS,Pandas,Kubernetes,Docker"
+  },
+  {
+    "job.Id":133,
+    "Skills \/ Tools ":"Docker,LangChain,Kubernetes"
+  },
+  {
+    "job.Id":134,
+    "Skills \/ Tools ":"AWS,Airflow,Python,Docker,HuggingFace,Spark"
+  },
+  {
+    "job.Id":135,
+    "Skills \/ Tools ":"Pandas\/Docker\/HuggingFace\/LangChain\/Kubernetes"
+  },
+  {
+    "job.Id":136,
+    "Skills \/ Tools ":"Kubernetes\/LangChain\/SQL"
+  },
+  {
+    "job.Id":137,
+    "Skills \/ Tools ":"Docker\/HuggingFace\/Kubernetes\/Spark\/SQL n\/a"
+  },
+  {
+    "job.Id":138,
+    "Skills \/ Tools ":"LangChain;Spark;Python;HuggingFace;AWS"
+  },
+  {
+    "job.Id":139,
+    "Skills \/ Tools ":"HuggingFace\/Python\/Airflow\/Pandas\/AWS"
+  },
+  {
+    "job.Id":140,
+    "Skills \/ Tools ":"LangChain,Spark,HuggingFace,Airflow ???"
+  },
+  {
+    "job.Id":141,
+    "Skills \/ Tools ":"Pandas,Spark,Python,Airflow,LangChain"
+  },
+  {
+    "job.Id":142,
+    "Skills \/ Tools ":"Kubernetes\/HuggingFace\/Airflow\/Python"
+  },
+  {
+    "job.Id":143,
+    "Skills \/ Tools ":"Airflow|SQL|Docker|Python"
+  },
+  {
+    "job.Id":144,
+    "Skills \/ Tools ":"Python,Airflow,Kubernetes,Spark,SQL,AWS"
+  },
+  {
+    "job.Id":145,
+    "Skills \/ Tools ":"Spark;SQL"
+  },
+  {
+    "job.Id":146,
+    "Skills \/ Tools ":"HuggingFace,Docker,Airflow,Pandas"
+  },
+  {
+    "job.Id":147,
+    "Skills \/ Tools ":"Python,Airflow"
+  },
+  {
+    "job.Id":148,
+    "Skills \/ Tools ":"Kubernetes|HuggingFace|LangChain"
+  },
+  {
+    "job.Id":149,
+    "Skills \/ Tools ":"AWS SQL HuggingFace Docker Kubernetes Python"
+  },
+  {
+    "job.Id":150,
+    "Skills \/ Tools ":"Python LangChain SQL"
+  },
+  {
+    "job.Id":151,
+    "Skills \/ Tools ":"Kubernetes|Spark|Python|HuggingFace|Docker|LangChain"
+  },
+  {
+    "job.Id":152,
+    "Skills \/ Tools ":"Spark;HuggingFace;LangChain;Pandas;Docker;Kubernetes (basic)"
+  },
+  {
+    "job.Id":153,
+    "Skills \/ Tools ":"Docker\/Pandas"
+  },
+  {
+    "job.Id":154,
+    "Skills \/ Tools ":"AWS;Pandas;HuggingFace (basic)"
+  },
+  {
+    "job.Id":155,
+    "Skills \/ Tools ":"LangChain\/Pandas\/AWS\/Python"
+  },
+  {
+    "job.Id":156,
+    "Skills \/ Tools ":"Python\/Docker\/Airflow\/Pandas\/Kubernetes"
+  },
+  {
+    "job.Id":157,
+    "Skills \/ Tools ":"Python,AWS"
+  },
+  {
+    "job.Id":158,
+    "Skills \/ Tools ":"Python;Airflow;HuggingFace"
+  },
+  {
+    "job.Id":159,
+    "Skills \/ Tools ":"LangChain\/Python\/Pandas\/SQL\/Docker\/HuggingFace"
+  },
+  {
+    "job.Id":160,
+    "Skills \/ Tools ":"Airflow,Pandas,Kubernetes"
+  },
+  {
+    "job.Id":161,
+    "Skills \/ Tools ":"Airflow\/Kubernetes\/AWS"
+  },
+  {
+    "job.Id":162,
+    "Skills \/ Tools ":"LangChain\/Docker\/Pandas"
+  },
+  {
+    "job.Id":163,
+    "Skills \/ Tools ":"Airflow|Pandas"
+  },
+  {
+    "job.Id":164,
+    "Skills \/ Tools ":"Pandas\/AWS\/Docker\/SQL\/Airflow"
+  },
+  {
+    "job.Id":165,
+    "Skills \/ Tools ":"SQL\/LangChain\/Spark\/Pandas\/HuggingFace\/Docker"
+  },
+  {
+    "job.Id":166,
+    "Skills \/ Tools ":"Kubernetes,LangChain"
+  },
+  {
+    "job.Id":167,
+    "Skills \/ Tools ":"AWS\/SQL\/Spark"
+  },
+  {
+    "job.Id":168,
+    "Skills \/ Tools ":"Kubernetes,AWS,Airflow"
+  },
+  {
+    "job.Id":169,
+    "Skills \/ Tools ":"AWS Python Airflow HuggingFace Pandas (basic)"
+  },
+  {
+    "job.Id":170,
+    "Skills \/ Tools ":"AWS;Python;Spark;Kubernetes (basic)"
+  },
+  {
+    "job.Id":171,
+    "Skills \/ Tools ":"Spark|Kubernetes|Docker|LangChain|HuggingFace ???"
+  },
+  {
+    "job.Id":172,
+    "Skills \/ Tools ":"Pandas|HuggingFace|Python|AWS"
+  },
+  {
+    "job.Id":173,
+    "Skills \/ Tools ":"Pandas\/Airflow\/Kubernetes"
+  },
+  {
+    "job.Id":174,
+    "Skills \/ Tools ":"HuggingFace,SQL,Pandas,Spark"
+  },
+  {
+    "job.Id":175,
+    "Skills \/ Tools ":"Python\/Kubernetes\/Airflow\/LangChain\/Pandas\/Docker None"
+  },
+  {
+    "job.Id":176,
+    "Skills \/ Tools ":"AWS|Python|HuggingFace"
+  },
+  {
+    "job.Id":177,
+    "Skills \/ Tools ":"Spark Docker SQL LangChain"
+  },
+  {
+    "job.Id":178,
+    "Skills \/ Tools ":"Python;LangChain;Airflow None"
+  },
+  {
+    "job.Id":179,
+    "Skills \/ Tools ":"Spark,Docker,Python,LangChain,SQL"
+  },
+  {
+    "job.Id":180,
+    "Skills \/ Tools ":"Airflow|HuggingFace|Pandas|LangChain|Docker"
+  },
+  {
+    "job.Id":181,
+    "Skills \/ Tools ":"Spark;Airflow;Kubernetes;HuggingFace"
+  },
+  {
+    "job.Id":182,
+    "Skills \/ Tools ":"Spark,SQL,Pandas,Docker,Kubernetes"
+  },
+  {
+    "job.Id":183,
+    "Skills \/ Tools ":"HuggingFace\/LangChain\/Docker\/Python\/Pandas\/Airflow"
+  },
+  {
+    "job.Id":184,
+    "Skills \/ Tools ":"Airflow|Pandas"
+  },
+  {
+    "job.Id":185,
+    "Skills \/ Tools ":"Docker\/Kubernetes\/LangChain\/Airflow\/Pandas\/HuggingFace"
+  },
+  {
+    "job.Id":186,
+    "Skills \/ Tools ":"SQL\/Python\/Airflow\/AWS\/Spark ???"
+  },
+  {
+    "job.Id":187,
+    "Skills \/ Tools ":"Airflow HuggingFace LangChain"
+  },
+  {
+    "job.Id":188,
+    "Skills \/ Tools ":"Airflow;LangChain;Spark;Python;SQL;AWS"
+  },
+  {
+    "job.Id":189,
+    "Skills \/ Tools ":"SQL,Python,LangChain"
+  },
+  {
+    "job.Id":190,
+    "Skills \/ Tools ":"Python\/Kubernetes"
+  },
+  {
+    "job.Id":191,
+    "Skills \/ Tools ":"Python Airflow"
+  },
+  {
+    "job.Id":192,
+    "Skills \/ Tools ":"Docker\/HuggingFace\/Kubernetes\/Pandas\/Python\/SQL (basic)"
+  },
+  {
+    "job.Id":193,
+    "Skills \/ Tools ":"SQL LangChain Kubernetes Docker Pandas"
+  },
+  {
+    "job.Id":194,
+    "Skills \/ Tools ":"Python Airflow Kubernetes Pandas HuggingFace"
+  },
+  {
+    "job.Id":195,
+    "Skills \/ Tools ":"SQL|Docker|AWS"
+  },
+  {
+    "job.Id":196,
+    "Skills \/ Tools ":"SQL,Airflow,Spark,Docker,LangChain"
+  },
+  {
+    "job.Id":197,
+    "Skills \/ Tools ":"AWS;Kubernetes;Spark;Docker;HuggingFace;Python n\/a"
+  },
+  {
+    "job.Id":198,
+    "Skills \/ Tools ":"Kubernetes\/Python\/LangChain"
+  },
+  {
+    "job.Id":199,
+    "Skills \/ Tools ":"Python|HuggingFace|Spark|SQL|Airflow|AWS ???"
+  },
+  {
+    "job.Id":200,
+    "Skills \/ Tools ":"Docker|Pandas|Kubernetes|Python"
+  },
+  {
+    "job.Id":201,
+    "Skills \/ Tools ":"AWS Python Pandas Airflow LangChain Kubernetes (basic)"
+  },
+  {
+    "job.Id":202,
+    "Skills \/ Tools ":"Docker Kubernetes Python SQL"
+  },
+  {
+    "job.Id":203,
+    "Skills \/ Tools ":"Pandas\/Python\/LangChain\/Spark\/AWS (basic)"
+  },
+  {
+    "job.Id":204,
+    "Skills \/ Tools ":"AWS\/Pandas\/Airflow\/Kubernetes\/SQL"
+  },
+  {
+    "job.Id":205,
+    "Skills \/ Tools ":"Spark LangChain Kubernetes AWS Python"
+  },
+  {
+    "job.Id":206,
+    "Skills \/ Tools ":"LangChain Docker Python Spark (basic)"
+  },
+  {
+    "job.Id":207,
+    "Skills \/ Tools ":"Pandas,Python,Docker,HuggingFace"
+  },
+  {
+    "job.Id":208,
+    "Skills \/ Tools ":"Kubernetes Airflow SQL"
+  },
+  {
+    "job.Id":209,
+    "Skills \/ Tools ":"SQL,Docker,LangChain,Airflow,AWS"
+  },
+  {
+    "job.Id":210,
+    "Skills \/ Tools ":"Kubernetes,Airflow,Python,Docker,HuggingFace,Pandas (basic)"
+  },
+  {
+    "job.Id":211,
+    "Skills \/ Tools ":"AWS;Docker;HuggingFace"
+  },
+  {
+    "job.Id":212,
+    "Skills \/ Tools ":"LangChain\/Kubernetes\/SQL\/Airflow\/AWS"
+  },
+  {
+    "job.Id":213,
+    "Skills \/ Tools ":"Spark LangChain Python Pandas"
+  },
+  {
+    "job.Id":214,
+    "Skills \/ Tools ":"Kubernetes\/Docker\/LangChain\/SQL"
+  },
+  {
+    "job.Id":215,
+    "Skills \/ Tools ":"Python|Airflow|Pandas|Kubernetes|Spark"
+  },
+  {
+    "job.Id":216,
+    "Skills \/ Tools ":"Pandas;AWS;LangChain;Airflow;Spark"
+  },
+  {
+    "job.Id":217,
+    "Skills \/ Tools ":"Spark\/Kubernetes\/Pandas\/LangChain ???"
+  },
+  {
+    "job.Id":218,
+    "Skills \/ Tools ":"Kubernetes,HuggingFace,Docker,Airflow,Pandas"
+  },
+  {
+    "job.Id":219,
+    "Skills \/ Tools ":"Docker;Spark"
+  },
+  {
+    "job.Id":220,
+    "Skills \/ Tools ":"Airflow|Pandas|Docker"
+  },
+  {
+    "job.Id":221,
+    "Skills \/ Tools ":"Airflow|LangChain|Pandas|Kubernetes|Spark|HuggingFace"
+  },
+  {
+    "job.Id":222,
+    "Skills \/ Tools ":"Docker\/AWS\/Airflow\/HuggingFace\/Python\/LangChain"
+  },
+  {
+    "job.Id":223,
+    "Skills \/ Tools ":"Pandas;SQL;Spark;HuggingFace;AWS;LangChain None"
+  },
+  {
+    "job.Id":224,
+    "Skills \/ Tools ":"Pandas\/LangChain"
+  },
+  {
+    "job.Id":225,
+    "Skills \/ Tools ":"Kubernetes\/HuggingFace (basic)"
+  },
+  {
+    "job.Id":226,
+    "Skills \/ Tools ":"Kubernetes,Airflow,Pandas,Python"
+  },
+  {
+    "job.Id":227,
+    "Skills \/ Tools ":"AWS\/SQL\/HuggingFace\/Airflow\/LangChain\/Spark ???"
+  },
+  {
+    "job.Id":228,
+    "Skills \/ Tools ":"Airflow\/Pandas\/Docker\/Python\/AWS\/Spark"
+  },
+  {
+    "job.Id":229,
+    "Skills \/ Tools ":"Spark|Pandas|Python|Docker|Kubernetes|LangChain"
+  },
+  {
+    "job.Id":230,
+    "Skills \/ Tools ":"Pandas,Kubernetes,AWS,Airflow,Docker,HuggingFace ???"
+  },
+  {
+    "job.Id":231,
+    "Skills \/ Tools ":"SQL Airflow LangChain"
+  },
+  {
+    "job.Id":232,
+    "Skills \/ Tools ":"Spark;Python"
+  },
+  {
+    "job.Id":233,
+    "Skills \/ Tools ":"Pandas Spark Docker"
+  },
+  {
+    "job.Id":234,
+    "Skills \/ Tools ":"Python,Spark"
+  },
+  {
+    "job.Id":235,
+    "Skills \/ Tools ":"Spark\/LangChain\/SQL\/HuggingFace (basic)"
+  },
+  {
+    "job.Id":236,
+    "Skills \/ Tools ":"Docker\/SQL\/Python\/Airflow\/HuggingFace"
+  },
+  {
+    "job.Id":237,
+    "Skills \/ Tools ":"Docker,SQL"
+  },
+  {
+    "job.Id":238,
+    "Skills \/ Tools ":"HuggingFace,Kubernetes"
+  },
+  {
+    "job.Id":239,
+    "Skills \/ Tools ":"AWS;Docker;Airflow;Pandas;Spark"
+  },
+  {
+    "job.Id":240,
+    "Skills \/ Tools ":"HuggingFace,AWS"
+  },
+  {
+    "job.Id":241,
+    "Skills \/ Tools ":"HuggingFace LangChain Kubernetes Python Spark AWS None"
+  },
+  {
+    "job.Id":242,
+    "Skills \/ Tools ":"Kubernetes Docker Python HuggingFace"
+  },
+  {
+    "job.Id":243,
+    "Skills \/ Tools ":"AWS|HuggingFace|Airflow|Spark|Docker|LangChain"
+  },
+  {
+    "job.Id":244,
+    "Skills \/ Tools ":"Spark Kubernetes Docker"
+  },
+  {
+    "job.Id":245,
+    "Skills \/ Tools ":"LangChain\/Kubernetes\/Spark\/Docker\/Airflow"
+  },
+  {
+    "job.Id":246,
+    "Skills \/ Tools ":"Kubernetes\/Docker"
+  },
+  {
+    "job.Id":247,
+    "Skills \/ Tools ":"LangChain|Spark|SQL|HuggingFace|Kubernetes|AWS"
+  },
+  {
+    "job.Id":248,
+    "Skills \/ Tools ":"Pandas\/AWS"
+  },
+  {
+    "job.Id":249,
+    "Skills \/ Tools ":"Pandas|Kubernetes|Python|SQL|Airflow|HuggingFace"
+  },
+  {
+    "job.Id":250,
+    "Skills \/ Tools ":"LangChain|HuggingFace|SQL|AWS|Airflow"
+  },
+  {
+    "job.Id":251,
+    "Skills \/ Tools ":"Docker;LangChain"
+  },
+  {
+    "job.Id":252,
+    "Skills \/ Tools ":"LangChain,Kubernetes,Airflow n\/a"
+  },
+  {
+    "job.Id":253,
+    "Skills \/ Tools ":"HuggingFace|Docker|Spark|LangChain|Pandas"
+  },
+  {
+    "job.Id":254,
+    "Skills \/ Tools ":"Pandas;Airflow"
+  },
+  {
+    "job.Id":255,
+    "Skills \/ Tools ":"HuggingFace Kubernetes Airflow Pandas AWS"
+  },
+  {
+    "job.Id":256,
+    "Skills \/ Tools ":"AWS,Docker,Pandas,Airflow,SQL,Python"
+  },
+  {
+    "job.Id":257,
+    "Skills \/ Tools ":"Kubernetes;HuggingFace;SQL;Airflow;LangChain;Spark"
+  },
+  {
+    "job.Id":258,
+    "Skills \/ Tools ":"Python;Docker;HuggingFace"
+  },
+  {
+    "job.Id":259,
+    "Skills \/ Tools ":"Python,Docker,SQL,Kubernetes,AWS,LangChain"
+  },
+  {
+    "job.Id":260,
+    "Skills \/ Tools ":"Kubernetes,Pandas,Python,SQL,Spark"
+  },
+  {
+    "job.Id":261,
+    "Skills \/ Tools ":"Pandas,Kubernetes,HuggingFace,Docker,LangChain"
+  },
+  {
+    "job.Id":262,
+    "Skills \/ Tools ":"HuggingFace Docker SQL"
+  },
+  {
+    "job.Id":263,
+    "Skills \/ Tools ":"Kubernetes|Spark|HuggingFace"
+  },
+  {
+    "job.Id":264,
+    "Skills \/ Tools ":"LangChain|Spark ???"
+  },
+  {
+    "job.Id":265,
+    "Skills \/ Tools ":"Docker;Python;HuggingFace;Spark;SQL"
+  },
+  {
+    "job.Id":266,
+    "Skills \/ Tools ":"LangChain Python HuggingFace SQL"
+  },
+  {
+    "job.Id":267,
+    "Skills \/ Tools ":"HuggingFace\/Airflow\/Spark\/Docker ???"
+  },
+  {
+    "job.Id":268,
+    "Skills \/ Tools ":"Kubernetes|SQL|HuggingFace ???"
+  },
+  {
+    "job.Id":269,
+    "Skills \/ Tools ":"Docker,HuggingFace,Python"
+  },
+  {
+    "job.Id":270,
+    "Skills \/ Tools ":"Kubernetes|AWS|SQL"
+  },
+  {
+    "job.Id":271,
+    "Skills \/ Tools ":"Docker Spark Python Airflow SQL Kubernetes"
+  },
+  {
+    "job.Id":272,
+    "Skills \/ Tools ":"SQL\/HuggingFace\/LangChain\/Spark\/Kubernetes\/Pandas"
+  },
+  {
+    "job.Id":273,
+    "Skills \/ Tools ":"Pandas\/Spark"
+  },
+  {
+    "job.Id":274,
+    "Skills \/ Tools ":"Pandas Docker None"
+  },
+  {
+    "job.Id":275,
+    "Skills \/ Tools ":"Docker Python Pandas AWS ???"
+  },
+  {
+    "job.Id":276,
+    "Skills \/ Tools ":"Python;HuggingFace;Spark;Airflow"
+  },
+  {
+    "job.Id":277,
+    "Skills \/ Tools ":"HuggingFace,Pandas,Airflow,Python"
+  },
+  {
+    "job.Id":278,
+    "Skills \/ Tools ":"Python;Kubernetes"
+  },
+  {
+    "job.Id":279,
+    "Skills \/ Tools ":"Python|SQL|Docker|Kubernetes|LangChain|AWS"
+  },
+  {
+    "job.Id":280,
+    "Skills \/ Tools ":"HuggingFace;Spark"
+  },
+  {
+    "job.Id":281,
+    "Skills \/ Tools ":"AWS Spark HuggingFace SQL"
+  },
+  {
+    "job.Id":282,
+    "Skills \/ Tools ":"Docker\/HuggingFace\/AWS\/SQL"
+  },
+  {
+    "job.Id":283,
+    "Skills \/ Tools ":"Docker,HuggingFace,Spark"
+  },
+  {
+    "job.Id":284,
+    "Skills \/ Tools ":"HuggingFace,Pandas,SQL"
+  },
+  {
+    "job.Id":285,
+    "Skills \/ Tools ":"Docker AWS ???"
+  },
+  {
+    "job.Id":286,
+    "Skills \/ Tools ":"Spark\/Kubernetes"
+  },
+  {
+    "job.Id":287,
+    "Skills \/ Tools ":"LangChain\/Kubernetes"
+  },
+  {
+    "job.Id":288,
+    "Skills \/ Tools ":"Airflow|HuggingFace|LangChain None"
+  },
+  {
+    "job.Id":289,
+    "Skills \/ Tools ":"Docker|HuggingFace"
+  },
+  {
+    "job.Id":290,
+    "Skills \/ Tools ":"Python,LangChain,Kubernetes (basic)"
+  },
+  {
+    "job.Id":291,
+    "Skills \/ Tools ":"Spark,Docker,Kubernetes,SQL,Pandas"
+  },
+  {
+    "job.Id":292,
+    "Skills \/ Tools ":"Spark\/Docker\/Python"
+  },
+  {
+    "job.Id":293,
+    "Skills \/ Tools ":"Pandas;HuggingFace;Spark;LangChain;SQL;Airflow"
+  },
+  {
+    "job.Id":294,
+    "Skills \/ Tools ":"Airflow|Pandas|LangChain|Spark|Docker|Python"
+  },
+  {
+    "job.Id":295,
+    "Skills \/ Tools ":"Python LangChain Kubernetes"
+  },
+  {
+    "job.Id":296,
+    "Skills \/ Tools ":"Spark|SQL|HuggingFace|Pandas None"
+  },
+  {
+    "job.Id":297,
+    "Skills \/ Tools ":"LangChain,Kubernetes,Airflow"
+  },
+  {
+    "job.Id":298,
+    "Skills \/ Tools ":"AWS Docker LangChain SQL Pandas"
+  },
+  {
+    "job.Id":299,
+    "Skills \/ Tools ":"Airflow,AWS,Kubernetes"
+  },
+  {
+    "job.Id":300,
+    "Skills \/ Tools ":"Docker;Python;Spark;AWS;LangChain"
+  },
+  {
+    "job.Id":301,
+    "Skills \/ Tools ":"Pandas,Kubernetes,Airflow,LangChain,Python,SQL (basic)"
+  },
+  {
+    "job.Id":302,
+    "Skills \/ Tools ":"HuggingFace Pandas ???"
+  },
+  {
+    "job.Id":303,
+    "Skills \/ Tools ":"Airflow LangChain SQL"
+  },
+  {
+    "job.Id":304,
+    "Skills \/ Tools ":"Airflow|Kubernetes"
+  },
+  {
+    "job.Id":305,
+    "Skills \/ Tools ":"Python Spark AWS LangChain"
+  },
+  {
+    "job.Id":306,
+    "Skills \/ Tools ":"Docker SQL Kubernetes LangChain AWS Python"
+  },
+  {
+    "job.Id":307,
+    "Skills \/ Tools ":"Spark,Python,SQL,Pandas None"
+  },
+  {
+    "job.Id":308,
+    "Skills \/ Tools ":"LangChain,SQL,Docker,AWS,HuggingFace,Spark"
+  },
+  {
+    "job.Id":309,
+    "Skills \/ Tools ":"Kubernetes;Pandas;Spark;AWS;SQL"
+  },
+  {
+    "job.Id":310,
+    "Skills \/ Tools ":"Airflow,AWS"
+  },
+  {
+    "job.Id":311,
+    "Skills \/ Tools ":"Kubernetes LangChain Airflow Spark HuggingFace SQL n\/a"
+  },
+  {
+    "job.Id":312,
+    "Skills \/ Tools ":"HuggingFace\/SQL\/Kubernetes\/LangChain"
+  },
+  {
+    "job.Id":313,
+    "Skills \/ Tools ":"Pandas|Airflow"
+  },
+  {
+    "job.Id":314,
+    "Skills \/ Tools ":"SQL|AWS (basic)"
+  },
+  {
+    "job.Id":315,
+    "Skills \/ Tools ":"Docker Python Spark"
+  },
+  {
+    "job.Id":316,
+    "Skills \/ Tools ":"Spark AWS Python"
+  },
+  {
+    "job.Id":317,
+    "Skills \/ Tools ":"Python|Pandas None"
+  },
+  {
+    "job.Id":318,
+    "Skills \/ Tools ":"Docker\/Airflow n\/a"
+  },
+  {
+    "job.Id":319,
+    "Skills \/ Tools ":"Spark|Pandas|LangChain|HuggingFace|Kubernetes|Docker ???"
+  },
+  {
+    "job.Id":320,
+    "Skills \/ Tools ":"HuggingFace Spark Kubernetes Pandas ???"
+  },
+  {
+    "job.Id":321,
+    "Skills \/ Tools ":"Docker;Airflow"
+  },
+  {
+    "job.Id":322,
+    "Skills \/ Tools ":"HuggingFace|AWS|Python|Docker|Spark|LangChain"
+  },
+  {
+    "job.Id":323,
+    "Skills \/ Tools ":"Docker\/Spark ???"
+  },
+  {
+    "job.Id":324,
+    "Skills \/ Tools ":"Spark\/Python\/AWS\/Pandas\/LangChain"
+  },
+  {
+    "job.Id":325,
+    "Skills \/ Tools ":"AWS Spark Airflow Kubernetes Docker LangChain"
+  },
+  {
+    "job.Id":326,
+    "Skills \/ Tools ":"Spark;LangChain;HuggingFace"
+  },
+  {
+    "job.Id":327,
+    "Skills \/ Tools ":"Python;Pandas;HuggingFace"
+  },
+  {
+    "job.Id":328,
+    "Skills \/ Tools ":"SQL,Airflow (basic)"
+  },
+  {
+    "job.Id":329,
+    "Skills \/ Tools ":"Pandas;HuggingFace;SQL"
+  },
+  {
+    "job.Id":330,
+    "Skills \/ Tools ":"LangChain,Spark,Kubernetes,HuggingFace,Docker"
+  },
+  {
+    "job.Id":331,
+    "Skills \/ Tools ":"SQL;LangChain"
+  },
+  {
+    "job.Id":332,
+    "Skills \/ Tools ":"Airflow|Pandas"
+  },
+  {
+    "job.Id":333,
+    "Skills \/ Tools ":"Spark;Airflow"
+  },
+  {
+    "job.Id":334,
+    "Skills \/ Tools ":"Spark HuggingFace Pandas SQL AWS"
+  },
+  {
+    "job.Id":335,
+    "Skills \/ Tools ":"AWS|Airflow|Docker|HuggingFace|Kubernetes"
+  },
+  {
+    "job.Id":336,
+    "Skills \/ Tools ":"Python;Pandas;Docker;SQL;Spark ???"
+  },
+  {
+    "job.Id":337,
+    "Skills \/ Tools ":"Pandas|LangChain|SQL|AWS|Kubernetes n\/a"
+  },
+  {
+    "job.Id":338,
+    "Skills \/ Tools ":"AWS Python"
+  },
+  {
+    "job.Id":339,
+    "Skills \/ Tools ":"HuggingFace AWS Spark Python Airflow SQL ???"
+  },
+  {
+    "job.Id":340,
+    "Skills \/ Tools ":"Docker,Python"
+  },
+  {
+    "job.Id":341,
+    "Skills \/ Tools ":"SQL;Airflow;Python;HuggingFace"
+  },
+  {
+    "job.Id":342,
+    "Skills \/ Tools ":"Spark|Kubernetes|LangChain|SQL|HuggingFace ???"
+  },
+  {
+    "job.Id":343,
+    "Skills \/ Tools ":"Spark;Docker;LangChain;Pandas (basic)"
+  },
+  {
+    "job.Id":344,
+    "Skills \/ Tools ":"LangChain,Airflow"
+  },
+  {
+    "job.Id":345,
+    "Skills \/ Tools ":"SQL|Spark n\/a"
+  },
+  {
+    "job.Id":346,
+    "Skills \/ Tools ":"Pandas,AWS,Docker"
+  },
+  {
+    "job.Id":347,
+    "Skills \/ Tools ":"Kubernetes;Docker (basic)"
+  },
+  {
+    "job.Id":348,
+    "Skills \/ Tools ":"AWS|LangChain|Kubernetes|Python None"
+  },
+  {
+    "job.Id":349,
+    "Skills \/ Tools ":"Python;Docker;Spark"
+  },
+  {
+    "job.Id":350,
+    "Skills \/ Tools ":"Docker;AWS;SQL;LangChain;Pandas ???"
+  },
+  {
+    "job.Id":351,
+    "Skills \/ Tools ":"AWS|HuggingFace|Airflow|Pandas (basic)"
+  },
+  {
+    "job.Id":352,
+    "Skills \/ Tools ":"SQL Kubernetes Spark"
+  },
+  {
+    "job.Id":353,
+    "Skills \/ Tools ":"Pandas|SQL|Kubernetes|LangChain (basic)"
+  },
+  {
+    "job.Id":354,
+    "Skills \/ Tools ":"SQL AWS"
+  },
+  {
+    "job.Id":355,
+    "Skills \/ Tools ":"Python HuggingFace SQL n\/a"
+  },
+  {
+    "job.Id":356,
+    "Skills \/ Tools ":"SQL\/Pandas\/Docker\/Kubernetes\/Airflow"
+  },
+  {
+    "job.Id":357,
+    "Skills \/ Tools ":"Docker|Spark|Kubernetes n\/a"
+  },
+  {
+    "job.Id":358,
+    "Skills \/ Tools ":"HuggingFace;AWS;Airflow"
+  },
+  {
+    "job.Id":359,
+    "Skills \/ Tools ":"Kubernetes|LangChain|Airflow"
+  },
+  {
+    "job.Id":360,
+    "Skills \/ Tools ":"Airflow\/Spark\/LangChain\/Pandas\/HuggingFace n\/a"
+  },
+  {
+    "job.Id":361,
+    "Skills \/ Tools ":"Pandas|Docker"
+  },
+  {
+    "job.Id":362,
+    "Skills \/ Tools ":"Docker\/Pandas\/Airflow\/HuggingFace n\/a"
+  },
+  {
+    "job.Id":363,
+    "Skills \/ Tools ":"Pandas\/Spark\/AWS\/Airflow"
+  },
+  {
+    "job.Id":364,
+    "Skills \/ Tools ":"SQL HuggingFace AWS Kubernetes Python ???"
+  },
+  {
+    "job.Id":365,
+    "Skills \/ Tools ":"Spark|Python|SQL|Airflow None"
+  },
+  {
+    "job.Id":366,
+    "Skills \/ Tools ":"AWS;LangChain;Airflow;HuggingFace (basic)"
+  },
+  {
+    "job.Id":367,
+    "Skills \/ Tools ":"Spark;Airflow;Kubernetes;SQL;LangChain ???"
+  },
+  {
+    "job.Id":368,
+    "Skills \/ Tools ":"Pandas;Python;LangChain;Spark"
+  },
+  {
+    "job.Id":369,
+    "Skills \/ Tools ":"LangChain,SQL,AWS,Airflow,HuggingFace,Python None"
+  },
+  {
+    "job.Id":370,
+    "Skills \/ Tools ":"Pandas,Spark ???"
+  },
+  {
+    "job.Id":371,
+    "Skills \/ Tools ":"Pandas,SQL,HuggingFace,Python,Spark,AWS"
+  },
+  {
+    "job.Id":372,
+    "Skills \/ Tools ":"Airflow;Pandas;SQL;Docker ???"
+  },
+  {
+    "job.Id":373,
+    "Skills \/ Tools ":"Kubernetes Airflow Python"
+  },
+  {
+    "job.Id":374,
+    "Skills \/ Tools ":"Python AWS"
+  },
+  {
+    "job.Id":375,
+    "Skills \/ Tools ":"Spark\/SQL\/Kubernetes\/Docker\/Pandas\/LangChain"
+  },
+  {
+    "job.Id":376,
+    "Skills \/ Tools ":"Spark|Kubernetes|Pandas|Docker|AWS"
+  },
+  {
+    "job.Id":377,
+    "Skills \/ Tools ":"Python|Spark"
+  },
+  {
+    "job.Id":378,
+    "Skills \/ Tools ":"HuggingFace\/Docker\/Python (basic)"
+  },
+  {
+    "job.Id":379,
+    "Skills \/ Tools ":"Spark;HuggingFace;SQL;Kubernetes;Python;Docker"
+  },
+  {
+    "job.Id":380,
+    "Skills \/ Tools ":"Docker,Pandas,SQL"
+  },
+  {
+    "job.Id":381,
+    "Skills \/ Tools ":"AWS Spark HuggingFace SQL Kubernetes Python"
+  },
+  {
+    "job.Id":382,
+    "Skills \/ Tools ":"AWS;Python n\/a"
+  },
+  {
+    "job.Id":383,
+    "Skills \/ Tools ":"Airflow|LangChain"
+  },
+  {
+    "job.Id":384,
+    "Skills \/ Tools ":"Airflow;Pandas;Docker;Spark;HuggingFace;LangChain"
+  },
+  {
+    "job.Id":385,
+    "Skills \/ Tools ":"LangChain Pandas Docker SQL Kubernetes Python"
+  },
+  {
+    "job.Id":386,
+    "Skills \/ Tools ":"Docker HuggingFace (basic)"
+  },
+  {
+    "job.Id":387,
+    "Skills \/ Tools ":"Pandas Airflow Python AWS SQL None"
+  },
+  {
+    "job.Id":388,
+    "Skills \/ Tools ":"Docker|HuggingFace|Python|LangChain|Airflow"
+  },
+  {
+    "job.Id":389,
+    "Skills \/ Tools ":"LangChain;Kubernetes"
+  },
+  {
+    "job.Id":390,
+    "Skills \/ Tools ":"Docker,Spark"
+  },
+  {
+    "job.Id":391,
+    "Skills \/ Tools ":"Kubernetes|Pandas|HuggingFace|LangChain"
+  },
+  {
+    "job.Id":392,
+    "Skills \/ Tools ":"Kubernetes|Spark|Pandas|Python"
+  },
+  {
+    "job.Id":393,
+    "Skills \/ Tools ":"AWS Pandas SQL HuggingFace Airflow"
+  },
+  {
+    "job.Id":394,
+    "Skills \/ Tools ":"Python|LangChain|Spark|Kubernetes|Docker|HuggingFace"
+  },
+  {
+    "job.Id":395,
+    "Skills \/ Tools ":"Kubernetes,LangChain,Airflow,SQL"
+  },
+  {
+    "job.Id":396,
+    "Skills \/ Tools ":"HuggingFace\/Python\/SQL"
+  },
+  {
+    "job.Id":397,
+    "Skills \/ Tools ":"Airflow|Kubernetes|AWS|LangChain|Docker|SQL"
+  },
+  {
+    "job.Id":398,
+    "Skills \/ Tools ":"LangChain;Pandas;AWS;HuggingFace;Airflow"
+  },
+  {
+    "job.Id":399,
+    "Skills \/ Tools ":"LangChain;SQL;Pandas;Docker;AWS"
+  },
+  {
+    "job.Id":400,
+    "Skills \/ Tools ":"Airflow,Pandas,Docker,Python,HuggingFace ???"
+  },
+  {
+    "job.Id":401,
+    "Skills \/ Tools ":"Pandas,LangChain ???"
+  },
+  {
+    "job.Id":402,
+    "Skills \/ Tools ":"SQL,Kubernetes,Docker,LangChain"
+  },
+  {
+    "job.Id":403,
+    "Skills \/ Tools ":"HuggingFace,SQL,Spark,LangChain None"
+  },
+  {
+    "job.Id":404,
+    "Skills \/ Tools ":"HuggingFace|Airflow|Pandas|Kubernetes|SQL|AWS None"
+  },
+  {
+    "job.Id":405,
+    "Skills \/ Tools ":"SQL,LangChain,HuggingFace n\/a"
+  },
+  {
+    "job.Id":406,
+    "Skills \/ Tools ":"LangChain|Airflow|Spark|AWS"
+  },
+  {
+    "job.Id":407,
+    "Skills \/ Tools ":"LangChain Airflow HuggingFace AWS Kubernetes"
+  },
+  {
+    "job.Id":408,
+    "Skills \/ Tools ":"AWS|Airflow"
+  },
+  {
+    "job.Id":409,
+    "Skills \/ Tools ":"Kubernetes|SQL|AWS|HuggingFace"
+  },
+  {
+    "job.Id":410,
+    "Skills \/ Tools ":"Spark;Pandas;LangChain"
+  },
+  {
+    "job.Id":411,
+    "Skills \/ Tools ":"SQL;Airflow"
+  },
+  {
+    "job.Id":412,
+    "Skills \/ Tools ":"Kubernetes,Python,AWS"
+  },
+  {
+    "job.Id":413,
+    "Skills \/ Tools ":"AWS|Kubernetes|Spark ???"
+  },
+  {
+    "job.Id":414,
+    "Skills \/ Tools ":"Python|Spark|Airflow|AWS"
+  },
+  {
+    "job.Id":415,
+    "Skills \/ Tools ":"Kubernetes;Spark;Airflow;Pandas"
+  },
+  {
+    "job.Id":416,
+    "Skills \/ Tools ":"Spark\/Python\/SQL\/Kubernetes"
+  },
+  {
+    "job.Id":417,
+    "Skills \/ Tools ":"Pandas;Airflow;Docker;Python;SQL"
+  },
+  {
+    "job.Id":418,
+    "Skills \/ Tools ":"Airflow\/Python"
+  },
+  {
+    "job.Id":419,
+    "Skills \/ Tools ":"AWS\/Kubernetes\/Docker"
+  },
+  {
+    "job.Id":420,
+    "Skills \/ Tools ":"LangChain;Pandas;Spark;Airflow;HuggingFace;Python None"
+  },
+  {
+    "job.Id":421,
+    "Skills \/ Tools ":"Pandas;Python;Airflow;Kubernetes;LangChain;HuggingFace None"
+  },
+  {
+    "job.Id":422,
+    "Skills \/ Tools ":"SQL,Spark,Docker,AWS ???"
+  },
+  {
+    "job.Id":423,
+    "Skills \/ Tools ":"SQL|Kubernetes|Airflow (basic)"
+  },
+  {
+    "job.Id":424,
+    "Skills \/ Tools ":"LangChain,Spark,AWS,HuggingFace"
+  },
+  {
+    "job.Id":425,
+    "Skills \/ Tools ":"HuggingFace SQL Airflow None"
+  },
+  {
+    "job.Id":426,
+    "Skills \/ Tools ":"AWS;Spark;Python n\/a"
+  },
+  {
+    "job.Id":427,
+    "Skills \/ Tools ":"Docker,LangChain,Spark n\/a"
+  },
+  {
+    "job.Id":428,
+    "Skills \/ Tools ":"Spark|HuggingFace None"
+  },
+  {
+    "job.Id":429,
+    "Skills \/ Tools ":"Pandas,Python,Kubernetes"
+  },
+  {
+    "job.Id":430,
+    "Skills \/ Tools ":"LangChain,AWS,Pandas"
+  },
+  {
+    "job.Id":431,
+    "Skills \/ Tools ":"SQL|Airflow|AWS"
+  },
+  {
+    "job.Id":432,
+    "Skills \/ Tools ":"AWS;Docker;LangChain;HuggingFace;Python;Spark"
+  },
+  {
+    "job.Id":433,
+    "Skills \/ Tools ":"Docker,Python,Spark"
+  },
+  {
+    "job.Id":434,
+    "Skills \/ Tools ":"Spark,HuggingFace,Python,Docker,Pandas"
+  },
+  {
+    "job.Id":435,
+    "Skills \/ Tools ":"SQL;Airflow;Docker;Pandas;Python;Kubernetes"
+  },
+  {
+    "job.Id":436,
+    "Skills \/ Tools ":"SQL,LangChain,Kubernetes,HuggingFace,Spark"
+  },
+  {
+    "job.Id":437,
+    "Skills \/ Tools ":"Docker\/LangChain\/Spark\/Pandas"
+  },
+  {
+    "job.Id":438,
+    "Skills \/ Tools ":"SQL|Docker|Kubernetes"
+  },
+  {
+    "job.Id":439,
+    "Skills \/ Tools ":"SQL\/Docker\/Pandas"
+  },
+  {
+    "job.Id":440,
+    "Skills \/ Tools ":"Kubernetes SQL Python AWS LangChain"
+  },
+  {
+    "job.Id":441,
+    "Skills \/ Tools ":"Spark;AWS;HuggingFace"
+  },
+  {
+    "job.Id":442,
+    "Skills \/ Tools ":"SQL Pandas"
+  },
+  {
+    "job.Id":443,
+    "Skills \/ Tools ":"Kubernetes HuggingFace AWS"
+  },
+  {
+    "job.Id":444,
+    "Skills \/ Tools ":"Kubernetes|Python"
+  },
+  {
+    "job.Id":445,
+    "Skills \/ Tools ":"HuggingFace Docker SQL Airflow Pandas"
+  },
+  {
+    "job.Id":446,
+    "Skills \/ Tools ":"Airflow|Pandas|SQL|HuggingFace"
+  },
+  {
+    "job.Id":447,
+    "Skills \/ Tools ":"LangChain;Kubernetes"
+  },
+  {
+    "job.Id":448,
+    "Skills \/ Tools ":"Pandas Python Kubernetes HuggingFace LangChain SQL ???"
+  },
+  {
+    "job.Id":449,
+    "Skills \/ Tools ":"Spark|Pandas|Docker|AWS|HuggingFace n\/a"
+  },
+  {
+    "job.Id":450,
+    "Skills \/ Tools ":"AWS,LangChain,Pandas,Airflow"
+  },
+  {
+    "job.Id":451,
+    "Skills \/ Tools ":"SQL,Python,Pandas"
+  },
+  {
+    "job.Id":452,
+    "Skills \/ Tools ":"LangChain;Spark;SQL;AWS"
+  },
+  {
+    "job.Id":453,
+    "Skills \/ Tools ":"Spark\/Kubernetes\/Pandas\/SQL\/Python\/AWS"
+  },
+  {
+    "job.Id":454,
+    "Skills \/ Tools ":"Kubernetes\/Pandas\/AWS\/Airflow\/Docker"
+  },
+  {
+    "job.Id":455,
+    "Skills \/ Tools ":"SQL Docker Spark"
+  },
+  {
+    "job.Id":456,
+    "Skills \/ Tools ":"Kubernetes;Spark;Pandas;SQL;AWS ???"
+  },
+  {
+    "job.Id":457,
+    "Skills \/ Tools ":"Docker,LangChain,SQL,Spark,Airflow"
+  },
+  {
+    "job.Id":458,
+    "Skills \/ Tools ":"Spark\/Airflow"
+  },
+  {
+    "job.Id":459,
+    "Skills \/ Tools ":"AWS Airflow"
+  },
+  {
+    "job.Id":460,
+    "Skills \/ Tools ":"Python Pandas"
+  },
+  {
+    "job.Id":461,
+    "Skills \/ Tools ":"Spark;HuggingFace;AWS;Airflow"
+  },
+  {
+    "job.Id":462,
+    "Skills \/ Tools ":"Docker LangChain Spark"
+  },
+  {
+    "job.Id":463,
+    "Skills \/ Tools ":"HuggingFace,Spark,Kubernetes,Python ???"
+  },
+  {
+    "job.Id":464,
+    "Skills \/ Tools ":"Kubernetes|HuggingFace|LangChain|Python"
+  },
+  {
+    "job.Id":465,
+    "Skills \/ Tools ":"AWS,Python,HuggingFace,LangChain"
+  },
+  {
+    "job.Id":466,
+    "Skills \/ Tools ":"SQL,AWS,Kubernetes,LangChain,HuggingFace,Pandas"
+  },
+  {
+    "job.Id":467,
+    "Skills \/ Tools ":"LangChain Spark"
+  },
+  {
+    "job.Id":468,
+    "Skills \/ Tools ":"HuggingFace,Docker,Kubernetes,Pandas,AWS None"
+  },
+  {
+    "job.Id":469,
+    "Skills \/ Tools ":"SQL,AWS,LangChain,Kubernetes,Airflow,Docker"
+  },
+  {
+    "job.Id":470,
+    "Skills \/ Tools ":"Airflow\/Python\/Spark\/Docker\/HuggingFace ???"
+  },
+  {
+    "job.Id":471,
+    "Skills \/ Tools ":"Spark SQL LangChain Docker AWS"
+  },
+  {
+    "job.Id":472,
+    "Skills \/ Tools ":"Airflow,Docker,LangChain"
+  },
+  {
+    "job.Id":473,
+    "Skills \/ Tools ":"Pandas;HuggingFace;Spark;LangChain;Airflow;AWS (basic)"
+  },
+  {
+    "job.Id":474,
+    "Skills \/ Tools ":"LangChain AWS SQL HuggingFace Airflow Pandas"
+  },
+  {
+    "job.Id":475,
+    "Skills \/ Tools ":"AWS|Docker|HuggingFace"
+  },
+  {
+    "job.Id":476,
+    "Skills \/ Tools ":"Python|Pandas|Airflow|SQL|LangChain|AWS"
+  },
+  {
+    "job.Id":477,
+    "Skills \/ Tools ":"Spark\/SQL\/Python"
+  },
+  {
+    "job.Id":478,
+    "Skills \/ Tools ":"Pandas,Spark,Airflow,AWS"
+  },
+  {
+    "job.Id":479,
+    "Skills \/ Tools ":"Pandas LangChain Airflow SQL (basic)"
+  },
+  {
+    "job.Id":480,
+    "Skills \/ Tools ":"Pandas|Spark|Airflow"
+  },
+  {
+    "job.Id":481,
+    "Skills \/ Tools ":"Python\/HuggingFace"
+  },
+  {
+    "job.Id":482,
+    "Skills \/ Tools ":"HuggingFace,SQL,Airflow,Python,Kubernetes"
+  },
+  {
+    "job.Id":483,
+    "Skills \/ Tools ":"Kubernetes\/HuggingFace\/Spark\/AWS"
+  },
+  {
+    "job.Id":484,
+    "Skills \/ Tools ":"AWS\/Kubernetes\/SQL\/Spark\/Docker"
+  },
+  {
+    "job.Id":485,
+    "Skills \/ Tools ":"AWS Python"
+  },
+  {
+    "job.Id":486,
+    "Skills \/ Tools ":"Python SQL Docker HuggingFace AWS Kubernetes"
+  },
+  {
+    "job.Id":487,
+    "Skills \/ Tools ":"HuggingFace;Python;AWS;Pandas;LangChain"
+  },
+  {
+    "job.Id":488,
+    "Skills \/ Tools ":"Airflow\/Python\/Docker\/HuggingFace ???"
+  },
+  {
+    "job.Id":489,
+    "Skills \/ Tools ":"Pandas;SQL;Airflow;Docker (basic)"
+  },
+  {
+    "job.Id":490,
+    "Skills \/ Tools ":"HuggingFace Kubernetes Airflow SQL"
+  },
+  {
+    "job.Id":491,
+    "Skills \/ Tools ":"Spark,Kubernetes,AWS"
+  },
+  {
+    "job.Id":492,
+    "Skills \/ Tools ":"LangChain AWS HuggingFace Kubernetes SQL"
+  },
+  {
+    "job.Id":493,
+    "Skills \/ Tools ":"Kubernetes LangChain Airflow Docker None"
+  },
+  {
+    "job.Id":494,
+    "Skills \/ Tools ":"HuggingFace;SQL;Python;Docker;Kubernetes;Pandas"
+  },
+  {
+    "job.Id":495,
+    "Skills \/ Tools ":"Python Kubernetes n\/a"
+  },
+  {
+    "job.Id":496,
+    "Skills \/ Tools ":"LangChain|Pandas|Airflow"
+  },
+  {
+    "job.Id":497,
+    "Skills \/ Tools ":"Kubernetes;Python;Pandas (basic)"
+  },
+  {
+    "job.Id":498,
+    "Skills \/ Tools ":"Docker;Pandas;SQL;Spark;Python;HuggingFace (basic)"
+  },
+  {
+    "job.Id":499,
+    "Skills \/ Tools ":"AWS\/LangChain"
+  },
+  {
+    "job.Id":500,
+    "Skills \/ Tools ":"Docker,Airflow,LangChain,Pandas,SQL"
+  }
+]

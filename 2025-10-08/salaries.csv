@@ -1,501 +1,501 @@
-salary_id,salary_range
-1,98817
-2,Php 86926 per mo
-3,USD 714
-4,₱ 40795 / month
-5,N/A
-6,$2767
-7,$3544
-8,$2938
-9,N/A
-10,USD 3571
-11,73934
-12,N/A
-13,₱ 63036 / month
-14,₱48551-95061
-15,77985
-16,₱63982-94843
-17,$2975
-18,USD 2440
-19,₱ 35415 / month
-20,USD 2447
-21,₱64723-89806
-22,₱33476-104363
-23,₱61009-90178
-24,₱ 38783 / month
-25,Php 67622 per mo
-26,USD 1400
-27,₱38649-116917
-28,₱ 37608 / month
-29,₱ 34834 / month
-30,73058
-31,94838
-32,₱48807-114861
-33,101017
-34,62546
-35,N/A
-36,₱ 26145 / month
-37,Php 72035 per mo
-38,₱37256-114994
-39,101176
-40,₱ 55299 / month
-41,USD 3875
-42,₱ 60780 / month
-43,47863
-44,USD 2519
-45,Php 60130 per mo
-46,N/A
-47,₱23043-95923
-48,$696
-49,₱ 48368 / month
-50,USD 1615
-51,₱ 26263 / month
-52,₱38866-82871
-53,₱ 66455 / month
-54,Php 51458 per mo
-55,80798
-56,Php 67903 per mo
-57,81600
-58,Php 87365 per mo
-59,111470
-60,₱69755-121318
-61,N/A
-62,108306
-63,₱ 65681 / month
-64,₱46134-100488
-65,₱ 30193 / month
-66,N/A
-67,₱53575-117496
-68,N/A
-69,57612
-70,₱26304-109897
-71,119851
-72,$512
-73,N/A
-74,₱ 48170 / month
-75,Php 62296 per mo
-76,$2086
-77,USD 3091
-78,USD 2213
-79,Php 80910 per mo
-80,₱52285-149291
-81,$1960
-82,$3478
-83,N/A
-84,₱77221-137798
-85,₱28349-138395
-86,Php 65248 per mo
-87,₱39513-115933
-88,$2743
-89,54011
-90,₱31050-101808
-91,$2990
-92,Php 49819 per mo
-93,₱55916-92082
-94,₱60553-125862
-95,₱ 33390 / month
-96,N/A
-97,₱33820-118374
-98,Php 60627 per mo
-99,N/A
-100,N/A
-101,N/A
-102,45555
-103,$3670
-104,114829
-105,₱35173-147779
-106,USD 1505
-107,₱71084-101266
-108,₱ 65126 / month
-109,N/A
-110,N/A
-111,N/A
-112,62944
-113,USD 3265
-114,70076
-115,USD 2682
-116,N/A
-117,₱ 49140 / month
-118,107028
-119,52425
-120,₱ 67515 / month
-121,₱ 38099 / month
-122,Php 47996 per mo
-123,$3136
-124,Php 65726 per mo
-125,65814
-126,N/A
-127,₱35960-109618
-128,USD 1543
-129,Php 79873 per mo
-130,₱ 49766 / month
-131,N/A
-132,84948
-133,57290
-134,N/A
-135,87504
-136,N/A
-137,117034
-138,USD 2306
-139,Php 51368 per mo
-140,₱46773-116326
-141,USD 2228
-142,66073
-143,₱75287-149052
-144,62383
-145,N/A
-146,$932
-147,USD 2930
-148,N/A
-149,N/A
-150,$2244
-151,Php 89014 per mo
-152,$2258
-153,Php 43061 per mo
-154,$1398
-155,114619
-156,N/A
-157,N/A
-158,N/A
-159,USD 3300
-160,N/A
-161,N/A
-162,₱64637-139828
-163,111335
-164,₱40645-110832
-165,$2139
-166,₱71647-95360
-167,Php 58057 per mo
-168,₱ 40402 / month
-169,₱71084-131645
-170,76566
-171,$2601
-172,₱ 36607 / month
-173,N/A
-174,Php 71895 per mo
-175,USD 1097
-176,₱ 64273 / month
-177,$3344
-178,₱ 66715 / month
-179,105985
-180,₱ 57439 / month
-181,₱60359-117641
-182,67208
-183,90639
-184,N/A
-185,₱52206-133346
-186,109460
-187,USD 2727
-188,USD 2219
-189,Php 88987 per mo
-190,N/A
-191,N/A
-192,$1353
-193,₱ 56455 / month
-194,N/A
-195,₱ 68422 / month
-196,N/A
-197,N/A
-198,$1284
-199,₱ 38723 / month
-200,Php 71167 per mo
-201,71590
-202,Php 39589 per mo
-203,$797
-204,₱ 43035 / month
-205,USD 1112
-206,N/A
-207,N/A
-208,$1467
-209,USD 544
-210,Php 89159 per mo
-211,₱79432-101333
-212,Php 87783 per mo
-213,N/A
-214,73523
-215,N/A
-216,$3462
-217,USD 1669
-218,₱38504-97861
-219,₱55976-123360
-220,₱49733-117562
-221,₱ 40059 / month
-222,Php 74117 per mo
-223,Php 57507 per mo
-224,N/A
-225,$1283
-226,₱34340-90648
-227,Php 32472 per mo
-228,70565
-229,Php 56567 per mo
-230,N/A
-231,84370
-232,$2782
-233,N/A
-234,₱ 53742 / month
-235,110717
-236,$2685
-237,$1143
-238,46066
-239,USD 1542
-240,N/A
-241,USD 2829
-242,₱22720-119872
-243,USD 1310
-244,Php 39325 per mo
-245,₱58325-89135
-246,₱23079-92843
-247,₱57789-93825
-248,₱ 51177 / month
-249,USD 2176
-250,USD 3007
-251,47175
-252,USD 835
-253,₱41178-148881
-254,₱ 48556 / month
-255,$2542
-256,Php 82945 per mo
-257,$1114
-258,$2153
-259,Php 30892 per mo
-260,USD 1491
-261,$3594
-262,57186
-263,$3792
-264,N/A
-265,USD 2014
-266,N/A
-267,N/A
-268,₱42959-113991
-269,USD 3748
-270,$871
-271,61975
-272,N/A
-273,N/A
-274,USD 3054
-275,₱31153-107032
-276,Php 71900 per mo
-277,Php 43721 per mo
-278,₱27856-149883
-279,109811
-280,$2121
-281,USD 878
-282,94144
-283,₱ 40457 / month
-284,$2472
-285,₱ 50458 / month
-286,47145
-287,$1319
-288,$810
-289,101167
-290,102165
-291,Php 34205 per mo
-292,₱57714-136414
-293,N/A
-294,USD 758
-295,USD 2397
-296,$910
-297,105389
-298,₱ 45196 / month
-299,Php 70401 per mo
-300,USD 1769
-301,USD 596
-302,Php 41625 per mo
-303,₱67773-105114
-304,$3156
-305,USD 2632
-306,USD 2851
-307,₱ 69189 / month
-308,$2409
-309,₱28947-122880
-310,N/A
-311,₱ 47006 / month
-312,₱66862-116277
-313,₱ 49157 / month
-314,₱70873-124170
-315,117890
-316,USD 2996
-317,₱ 37567 / month
-318,$2040
-319,Php 77116 per mo
-320,Php 85119 per mo
-321,₱34489-125700
-322,₱ 32125 / month
-323,USD 3040
-324,₱21161-124518
-325,₱47826-131222
-326,₱ 38576 / month
-327,₱ 31239 / month
-328,USD 1864
-329,USD 1861
-330,N/A
-331,$2441
-332,$943
-333,Php 57854 per mo
-334,Php 72358 per mo
-335,Php 61863 per mo
-336,Php 59842 per mo
-337,₱77063-113572
-338,₱69498-149718
-339,$3221
-340,87535
-341,119501
-342,USD 3448
-343,₱ 46135 / month
-344,USD 2449
-345,$580
-346,Php 33581 per mo
-347,Php 82100 per mo
-348,$3381
-349,₱ 37089 / month
-350,Php 32188 per mo
-351,$829
-352,N/A
-353,N/A
-354,₱67843-96755
-355,₱ 63028 / month
-356,N/A
-357,$1084
-358,₱ 25369 / month
-359,$747
-360,$3568
-361,₱ 66295 / month
-362,USD 3631
-363,₱64349-121786
-364,$778
-365,$503
-366,$3951
-367,Php 46020 per mo
-368,$1506
-369,USD 2285
-370,Php 67068 per mo
-371,USD 524
-372,107396
-373,₱ 67251 / month
-374,USD 1456
-375,Php 74636 per mo
-376,Php 76988 per mo
-377,USD 2444
-378,46014
-379,₱ 52911 / month
-380,N/A
-381,USD 1693
-382,$2262
-383,Php 40103 per mo
-384,$3945
-385,USD 2904
-386,₱ 33688 / month
-387,₱ 32301 / month
-388,USD 2545
-389,Php 37338 per mo
-390,N/A
-391,USD 1774
-392,85356
-393,N/A
-394,₱27143-128277
-395,₱ 57099 / month
-396,₱50383-104275
-397,₱ 58707 / month
-398,49706
-399,₱40289-128099
-400,105762
-401,N/A
-402,N/A
-403,$1795
-404,48213
-405,N/A
-406,USD 2797
-407,₱ 48014 / month
-408,USD 1898
-409,USD 3828
-410,$3390
-411,Php 82201 per mo
-412,USD 3089
-413,95801
-414,N/A
-415,₱ 32510 / month
-416,$2596
-417,₱28395-114101
-418,USD 3529
-419,$2462
-420,98207
-421,N/A
-422,N/A
-423,₱47480-86189
-424,48167
-425,$881
-426,₱53533-109844
-427,USD 575
-428,₱49485-102456
-429,USD 3711
-430,₱ 50246 / month
-431,₱40467-113511
-432,₱36505-87267
-433,₱69538-132261
-434,89153
-435,Php 77011 per mo
-436,USD 2515
-437,USD 529
-438,Php 88020 per mo
-439,50449
-440,USD 3180
-441,₱43877-110650
-442,USD 3834
-443,65820
-444,₱34245-113765
-445,₱ 33529 / month
-446,107887
-447,Php 82638 per mo
-448,50730
-449,₱31702-116579
-450,Php 69286 per mo
-451,Php 58847 per mo
-452,USD 669
-453,N/A
-454,118175
-455,Php 37220 per mo
-456,44538
-457,USD 1908
-458,₱ 58344 / month
-459,78666
-460,N/A
-461,N/A
-462,64143
-463,$1109
-464,$2111
-465,$683
-466,Php 87055 per mo
-467,N/A
-468,N/A
-469,N/A
-470,$3857
-471,USD 3890
-472,₱ 34888 / month
-473,USD 3931
-474,USD 1417
-475,N/A
-476,Php 81182 per mo
-477,USD 2584
-478,₱ 26894 / month
-479,₱25852-83279
-480,N/A
-481,Php 35474 per mo
-482,$3781
-483,Php 32507 per mo
-484,$1551
-485,USD 3822
-486,USD 2142
-487,Php 77290 per mo
-488,112295
-489,₱ 42999 / month
-490,Php 65454 per mo
-491,55659
-492,USD 3710
-493,₱ 68757 / month
-494,75173
-495,₱ 50777 / month
-496,Php 56871 per mo
-497,₱62715-120448
-498,$1930
-499,₱21089-136093
-500,N/A
+SalID , Salary ,CurrencyType?,rangeInfo
+1,$1121,currency unknown,??
+2,N/A,,monthly
+3,$1566,PHP,monthly
+4,N/A,?,annual
+5,php 67579 /month,?,??
+6,php 65429 /month,?,monthly
+7,₱ 57215 / month,PHP,varies
+8,₱ 41110 / month,PHP,monthly
+9,Php 64697 per mo,currency unknown,??
+10,N/A,,monthly
+11,N/A,,??
+12,php 45617 /month,USD,??
+13,41194,PHP,
+14,USD 1672,USD,monthly
+15,$1267,?,annual
+16,Php 66918 per mo,currency unknown,??
+17,$1481,?,varies
+18,Php 52533 per mo,USD,varies
+19,67977,PHP,
+20,Php 61715 per mo,currency unknown,
+21,php 48704 /month,currency unknown,??
+22,₱ 55408 / month,USD,annual
+23,Php 71242 per mo,?,varies
+24,₱ 36598 / month,PHP,monthly
+25,Php 49402 per mo,,??
+26,php 51996 /month,PHP,annual
+27,$3791,PHP,monthly
+28,N/A,PHP,annual
+29,82108,currency unknown,??
+30,php 30647 /month,currency unknown,annual
+31,Php 49758 per mo,currency unknown,monthly
+32,₱66763-93987,USD,varies
+33,USD 1554,currency unknown,varies
+34,N/A,USD,??
+35,Php 60303 per mo,?,??
+36,₱ 62674 / month,,varies
+37,₱ 40223 / month,,varies
+38,USD 3418,currency unknown,varies
+39,N/A,PHP,annual
+40,105978,currency unknown,
+41,51129,currency unknown,varies
+42,$3506,,monthly
+43,$2833,USD,monthly
+44,₱66500-107933,,monthly
+45,75297,,annual
+46,php 67881 /month,PHP,monthly
+47,php 36357 /month,?,monthly
+48,php 42613 /month,,annual
+49,N/A,,annual
+50,$1448,currency unknown,varies
+51,Php 50318 per mo,currency unknown,
+52,Php 60938 per mo,USD,varies
+53,N/A,currency unknown,annual
+54,php 69385 /month,USD,annual
+55,php 29348 /month,currency unknown,monthly
+56,$1091,?,??
+57,61149,,varies
+58,N/A,PHP,varies
+59,Php 34460 per mo,currency unknown,monthly
+60,53474,,??
+61,₱ 49671 / month,,varies
+62,82959,,varies
+63,₱58511-115952,PHP,annual
+64,N/A,?,
+65,Php 34019 per mo,,annual
+66,N/A,,??
+67,₱ 59870 / month,PHP,??
+68,php 38980 /month,,varies
+69,$2201,USD,
+70,Php 32940 per mo,currency unknown,annual
+71,$990,,monthly
+72,USD 1279,USD,varies
+73,php 47837 /month,currency unknown,
+74,php 27139 /month,,??
+75,$795,PHP,monthly
+76,php 34279 /month,currency unknown,varies
+77,N/A,PHP,annual
+78,77308,,varies
+79,₱ 56772 / month,?,monthly
+80,₱21330-98931,currency unknown,monthly
+81,Php 36431 per mo,,monthly
+82,USD 2020,USD,
+83,USD 3483,PHP,monthly
+84,N/A,?,
+85,$3951,PHP,
+86,Php 66019 per mo,,annual
+87,74884,currency unknown,annual
+88,php 53625 /month,currency unknown,monthly
+89,42501,?,varies
+90,N/A,PHP,
+91,USD 2775,USD,annual
+92,Php 42744 per mo,USD,??
+93,USD 1684,USD,??
+94,₱32353-81351,PHP,??
+95,$1173,,
+96,₱75491-147371,PHP,
+97,N/A,?,annual
+98,48214,currency unknown,??
+99,₱43387-110568,USD,annual
+100,USD 3786,USD,??
+101,N/A,,annual
+102,Php 88695 per mo,?,
+103,$3829,PHP,varies
+104,₱ 37024 / month,,varies
+105,php 58471 /month,USD,monthly
+106,N/A,USD,monthly
+107,php 25883 /month,currency unknown,monthly
+108,USD 1373,PHP,varies
+109,N/A,PHP,
+110,₱ 26615 / month,,??
+111,₱ 33643 / month,,monthly
+112,Php 44145 per mo,currency unknown,??
+113,N/A,PHP,annual
+114,₱ 58252 / month,?,??
+115,₱25465-123837,USD,annual
+116,113171,currency unknown,annual
+117,$2023,,
+118,$3918,?,monthly
+119,₱56693-139942,currency unknown,monthly
+120,Php 44370 per mo,,monthly
+121,Php 54551 per mo,PHP,monthly
+122,₱ 40432 / month,,??
+123,47371,?,??
+124,₱25616-88350,?,
+125,₱ 49758 / month,currency unknown,??
+126,₱ 54229 / month,USD,
+127,₱ 34274 / month,?,
+128,70466,PHP,
+129,Php 40205 per mo,,??
+130,Php 39174 per mo,USD,varies
+131,php 66392 /month,PHP,annual
+132,N/A,currency unknown,??
+133,113648,,varies
+134,Php 73427 per mo,PHP,
+135,php 33961 /month,?,??
+136,$1712,USD,??
+137,₱ 62423 / month,,varies
+138,₱ 60385 / month,USD,varies
+139,107762,USD,annual
+140,php 26170 /month,currency unknown,monthly
+141,₱22283-127804,?,varies
+142,Php 77394 per mo,currency unknown,varies
+143,₱24617-113954,USD,??
+144,₱ 28487 / month,USD,
+145,php 50156 /month,PHP,
+146,N/A,?,annual
+147,php 66081 /month,PHP,varies
+148,USD 2157,USD,??
+149,₱ 59366 / month,,annual
+150,₱ 57593 / month,,monthly
+151,₱42551-83069,currency unknown,monthly
+152,$2200,?,??
+153,N/A,?,??
+154,php 39902 /month,PHP,annual
+155,USD 2778,?,varies
+156,N/A,USD,varies
+157,119247,,monthly
+158,php 52740 /month,currency unknown,monthly
+159,Php 33075 per mo,PHP,
+160,php 59929 /month,currency unknown,monthly
+161,₱58731-97883,USD,varies
+162,116329,PHP,
+163,php 40620 /month,currency unknown,monthly
+164,₱ 34540 / month,USD,monthly
+165,Php 69866 per mo,currency unknown,varies
+166,Php 80789 per mo,PHP,annual
+167,N/A,USD,varies
+168,php 27766 /month,USD,
+169,php 62094 /month,PHP,annual
+170,N/A,,monthly
+171,$1580,USD,??
+172,php 65849 /month,?,??
+173,Php 40533 per mo,,varies
+174,php 30453 /month,currency unknown,??
+175,USD 3399,PHP,??
+176,₱ 30134 / month,?,??
+177,$3357,,
+178,php 51606 /month,,
+179,USD 1397,?,??
+180,₱68857-120228,USD,
+181,₱43393-135807,?,??
+182,N/A,,varies
+183,Php 32524 per mo,,
+184,N/A,USD,
+185,php 49861 /month,,annual
+186,₱67843-136412,,varies
+187,$3626,USD,varies
+188,72540,,varies
+189,₱78007-129394,currency unknown,monthly
+190,N/A,?,??
+191,₱57564-125008,USD,??
+192,php 52427 /month,currency unknown,??
+193,N/A,,annual
+194,USD 903,,
+195,87722,?,
+196,90962,USD,??
+197,Php 43081 per mo,PHP,??
+198,php 25465 /month,PHP,monthly
+199,USD 3244,PHP,??
+200,php 47936 /month,?,varies
+201,55889,,annual
+202,php 50120 /month,currency unknown,varies
+203,N/A,currency unknown,varies
+204,N/A,?,annual
+205,₱ 44226 / month,currency unknown,monthly
+206,php 25731 /month,currency unknown,
+207,USD 3468,USD,varies
+208,USD 3961,?,
+209,USD 1771,?,annual
+210,USD 2170,?,annual
+211,N/A,?,varies
+212,USD 3199,USD,annual
+213,USD 3155,USD,??
+214,N/A,PHP,??
+215,$3518,?,monthly
+216,₱45316-131843,currency unknown,??
+217,$653,?,monthly
+218,N/A,,
+219,N/A,currency unknown,??
+220,$3292,currency unknown,monthly
+221,php 38998 /month,?,monthly
+222,USD 1815,PHP,monthly
+223,N/A,?,monthly
+224,₱ 25231 / month,USD,monthly
+225,N/A,USD,annual
+226,₱76545-90617,USD,monthly
+227,$2073,,
+228,php 53883 /month,currency unknown,annual
+229,USD 3550,,monthly
+230,USD 1210,PHP,annual
+231,119002,?,
+232,USD 1694,?,monthly
+233,php 27726 /month,,
+234,Php 87698 per mo,USD,varies
+235,php 41319 /month,PHP,annual
+236,104912,PHP,??
+237,112755,?,
+238,₱37124-130725,PHP,??
+239,Php 32507 per mo,USD,monthly
+240,$3080,currency unknown,??
+241,php 47830 /month,,
+242,₱ 53105 / month,,varies
+243,60449,currency unknown,??
+244,₱67621-121957,?,
+245,Php 45764 per mo,USD,
+246,₱40464-134218,PHP,??
+247,92071,,varies
+248,USD 1082,USD,
+249,php 33153 /month,USD,annual
+250,Php 58697 per mo,currency unknown,varies
+251,₱ 56937 / month,?,
+252,Php 83080 per mo,USD,annual
+253,₱ 31099 / month,currency unknown,monthly
+254,71920,?,varies
+255,N/A,,annual
+256,109821,,monthly
+257,$842,USD,annual
+258,USD 2694,,
+259,109732,currency unknown,??
+260,USD 2804,PHP,monthly
+261,112813,?,varies
+262,N/A,,varies
+263,Php 69810 per mo,?,monthly
+264,Php 49664 per mo,USD,??
+265,php 27108 /month,PHP,varies
+266,Php 59054 per mo,currency unknown,annual
+267,$3565,USD,
+268,₱47161-133708,,??
+269,107121,,monthly
+270,₱ 66511 / month,currency unknown,annual
+271,Php 74682 per mo,?,monthly
+272,108241,?,varies
+273,₱ 57296 / month,?,??
+274,₱ 56423 / month,?,??
+275,php 36409 /month,?,annual
+276,N/A,,??
+277,$2244,,
+278,php 50634 /month,?,monthly
+279,php 65035 /month,PHP,??
+280,49154,PHP,
+281,₱ 34318 / month,?,??
+282,USD 1986,USD,annual
+283,$3194,?,
+284,Php 66636 per mo,?,
+285,81181,,monthly
+286,N/A,USD,varies
+287,N/A,currency unknown,
+288,$2564,USD,varies
+289,Php 56771 per mo,USD,varies
+290,₱47644-148156,currency unknown,varies
+291,$3136,?,annual
+292,php 52916 /month,PHP,annual
+293,$3476,USD,varies
+294,$3653,USD,annual
+295,87333,,annual
+296,php 49685 /month,USD,??
+297,68077,USD,monthly
+298,USD 3049,?,annual
+299,USD 3319,?,varies
+300,USD 1134,?,
+301,₱60407-128357,currency unknown,??
+302,$2733,,monthly
+303,php 66328 /month,,annual
+304,Php 68350 per mo,USD,
+305,$3256,?,varies
+306,USD 3266,PHP,monthly
+307,₱ 39350 / month,USD,??
+308,USD 1708,PHP,varies
+309,41843,USD,monthly
+310,Php 68618 per mo,?,
+311,₱ 68675 / month,,monthly
+312,52518,USD,
+313,$1383,USD,annual
+314,₱56048-117806,PHP,
+315,$1435,?,??
+316,N/A,currency unknown,monthly
+317,$2286,currency unknown,
+318,110919,currency unknown,
+319,php 26069 /month,?,
+320,₱ 40218 / month,?,??
+321,USD 2614,?,monthly
+322,₱ 50069 / month,PHP,
+323,USD 1475,PHP,monthly
+324,Php 69605 per mo,currency unknown,
+325,109961,currency unknown,annual
+326,N/A,PHP,monthly
+327,Php 73896 per mo,,varies
+328,$951,?,??
+329,Php 75607 per mo,PHP,??
+330,₱ 58207 / month,USD,monthly
+331,USD 2481,PHP,??
+332,₱52974-148665,PHP,monthly
+333,php 34343 /month,currency unknown,monthly
+334,php 34075 /month,USD,monthly
+335,N/A,,varies
+336,₱ 29103 / month,PHP,monthly
+337,₱33264-96508,USD,??
+338,Php 49798 per mo,currency unknown,varies
+339,N/A,,annual
+340,87393,?,varies
+341,USD 3213,?,annual
+342,45959,?,??
+343,N/A,currency unknown,varies
+344,N/A,currency unknown,??
+345,₱76814-132352,PHP,varies
+346,Php 84599 per mo,USD,varies
+347,Php 56310 per mo,USD,??
+348,USD 2174,currency unknown,
+349,N/A,,varies
+350,$962,USD,
+351,Php 55334 per mo,PHP,??
+352,53760,?,varies
+353,₱ 63465 / month,?,varies
+354,USD 1889,USD,annual
+355,Php 79164 per mo,PHP,monthly
+356,₱59458-141168,,
+357,Php 36220 per mo,currency unknown,??
+358,USD 3378,currency unknown,
+359,$1313,USD,varies
+360,php 49124 /month,USD,monthly
+361,Php 75043 per mo,currency unknown,varies
+362,N/A,PHP,annual
+363,$1041,USD,annual
+364,Php 43407 per mo,,
+365,₱ 50663 / month,USD,varies
+366,₱ 29764 / month,,
+367,₱ 65562 / month,USD,??
+368,php 68157 /month,?,??
+369,61544,,
+370,Php 72851 per mo,?,??
+371,USD 1856,PHP,??
+372,$2459,,??
+373,N/A,?,monthly
+374,₱ 56629 / month,,??
+375,USD 994,?,monthly
+376,Php 68545 per mo,,
+377,$2149,currency unknown,??
+378,$2503,,monthly
+379,54318,,annual
+380,php 68881 /month,,
+381,$3042,currency unknown,
+382,php 28946 /month,PHP,annual
+383,Php 77207 per mo,?,annual
+384,₱ 45556 / month,USD,annual
+385,USD 3549,USD,??
+386,$3188,,varies
+387,php 52634 /month,USD,
+388,Php 74608 per mo,currency unknown,
+389,109921,?,
+390,₱ 66626 / month,?,??
+391,$2270,USD,monthly
+392,₱27066-99107,USD,monthly
+393,php 33273 /month,PHP,varies
+394,USD 1320,currency unknown,annual
+395,Php 79856 per mo,?,??
+396,$2460,PHP,monthly
+397,87288,currency unknown,
+398,php 33117 /month,,??
+399,58538,?,
+400,php 55139 /month,,??
+401,php 28094 /month,,monthly
+402,₱54000-146595,?,
+403,119198,?,annual
+404,₱23863-131296,currency unknown,??
+405,N/A,?,
+406,₱27088-131610,?,annual
+407,php 36455 /month,currency unknown,annual
+408,Php 67952 per mo,currency unknown,
+409,₱ 26648 / month,,varies
+410,Php 82187 per mo,currency unknown,??
+411,Php 38463 per mo,USD,
+412,N/A,,varies
+413,php 41675 /month,,monthly
+414,₱55184-90034,?,annual
+415,php 65548 /month,,annual
+416,₱65000-89770,USD,monthly
+417,₱ 65218 / month,?,??
+418,₱ 38445 / month,PHP,monthly
+419,91416,currency unknown,
+420,php 25277 /month,currency unknown,annual
+421,₱60297-123419,,monthly
+422,$556,USD,annual
+423,USD 3616,,annual
+424,$3085,,monthly
+425,₱ 52711 / month,,varies
+426,Php 56770 per mo,PHP,varies
+427,Php 60633 per mo,,varies
+428,$2099,,
+429,Php 36904 per mo,currency unknown,annual
+430,php 51648 /month,USD,annual
+431,$3857,?,??
+432,Php 71478 per mo,USD,annual
+433,₱41616-132433,PHP,annual
+434,USD 3486,,annual
+435,₱ 25644 / month,?,
+436,php 60571 /month,,monthly
+437,₱ 46324 / month,,monthly
+438,₱ 41665 / month,?,
+439,USD 821,PHP,annual
+440,N/A,USD,
+441,N/A,USD,monthly
+442,$2607,USD,varies
+443,USD 3390,USD,
+444,$1922,,varies
+445,$3020,?,annual
+446,USD 1496,USD,??
+447,$4000,,
+448,USD 1888,currency unknown,
+449,₱63317-121407,PHP,annual
+450,103818,currency unknown,
+451,USD 1878,USD,varies
+452,N/A,USD,annual
+453,Php 76063 per mo,,
+454,N/A,PHP,monthly
+455,USD 641,currency unknown,??
+456,N/A,?,
+457,$3921,currency unknown,monthly
+458,49886,,??
+459,$759,?,
+460,Php 82588 per mo,?,??
+461,₱40164-103166,currency unknown,annual
+462,₱30650-149321,currency unknown,annual
+463,N/A,PHP,monthly
+464,₱ 62332 / month,?,varies
+465,php 53191 /month,currency unknown,monthly
+466,N/A,USD,varies
+467,USD 850,?,varies
+468,₱ 35953 / month,currency unknown,annual
+469,₱40062-147282,?,annual
+470,USD 3520,USD,
+471,$3008,PHP,varies
+472,USD 768,currency unknown,??
+473,Php 52215 per mo,USD,annual
+474,Php 43549 per mo,PHP,
+475,php 37604 /month,PHP,annual
+476,82793,PHP,varies
+477,$1177,?,??
+478,N/A,?,annual
+479,USD 3887,?,varies
+480,N/A,PHP,
+481,₱ 64766 / month,?,varies
+482,₱73744-91266,currency unknown,monthly
+483,119540,?,varies
+484,113710,USD,??
+485,99887,currency unknown,??
+486,Php 78426 per mo,?,
+487,$3802,currency unknown,annual
+488,Php 42838 per mo,currency unknown,monthly
+489,74783,currency unknown,??
+490,USD 590,?,
+491,₱45059-87030,,??
+492,Php 70886 per mo,USD,??
+493,Php 80329 per mo,?,varies
+494,php 39440 /month,USD,monthly
+495,₱ 29451 / month,?,annual
+496,$2666,?,varies
+497,109789,PHP,??
+498,₱20654-124419,,??
+499,$3075,USD,annual
+500,₱77573-84080,?,annual
