@@ -1,301 +1,501 @@
 job_id,title,company_id,location_id,salary_id,post_date
-1,Software Dev,44,29,1,2025-10-07
-2,Software Dev,37,24,2,07/10/2025
-3,ETL Specialist,25,14,3,2025/10/07
-4,Machine Learning Engr.,42,2,4,07/10/2025
-5,Data Engineer,12,5,5,"Oct 07, 2025"
-6,Fullstack Developer,1,5,6,"Oct 07, 2025"
-7,Fullstack Developer,11,3,7,2025-10-07
-8,Machine Learning Engr.,49,18,8,2025-10-07
-9,Data Engineer,26,5,9,07/10/2025
-10,AI ML Engineer,27,23,10,"Oct 07, 2025"
-11,ETL Specialist,29,22,11,2025/10/07
-12,Data Engineer,49,15,12,07/10/2025
-13,Cloud Data Engineer,23,3,13,2025-10-07
-14,Cloud Data Engineer,39,3,14,2025-10-07
-15,Machine Learning Engr.,41,17,15,07/10/2025
-16,Backend Engr,22,18,16,"Oct 07, 2025"
-17,Backend Engr,37,21,17,"Oct 07, 2025"
-18,Backend Engr,31,11,18,"Oct 07, 2025"
-19,AI ML Engineer,41,28,19,2025-10-07
-20,AI ML Engineer,10,23,20,07/10/2025
-21,Machine Learning Engr.,26,20,21,2025-10-07
-22,Backend Engr,10,14,22,2025-10-07
-23,Cloud Data Engineer,41,28,23,2025-10-07
-24,ETL Specialist,27,14,24,2025-10-07
-25,ETL Specialist,33,20,25,07/10/2025
-26,ETL Specialist,28,19,26,"Oct 07, 2025"
-27,Python Developer,5,4,27,2025/10/07
-28,Data Engineer,32,23,28,07/10/2025
-29,Data Engineer,33,9,29,2025-10-07
-30,Software Dev,20,15,30,2025/10/07
-31,Data Analyst,10,21,31,2025-10-07
-32,Software Dev,3,20,32,"Oct 07, 2025"
-33,Backend Engr,12,29,33,2025-10-07
-34,ETL Specialist,24,13,34,2025-10-07
-35,Data Analyst,8,26,35,"Oct 07, 2025"
-36,Data Engineer,26,18,36,2025-10-07
-37,ETL Specialist,28,3,37,2025/10/07
-38,Backend Engr,12,18,38,2025-10-07
-39,Fullstack Developer,13,22,39,2025-10-07
-40,Backend Engr,13,22,40,2025/10/07
-41,Software Dev,17,4,41,"Oct 07, 2025"
-42,Backend Engr,14,14,42,"Oct 07, 2025"
-43,ETL Specialist,19,2,43,2025-10-07
-44,Fullstack Developer,20,6,44,2025/10/07
-45,Backend Engr,45,28,45,2025/10/07
-46,Machine Learning Engr.,15,13,46,07/10/2025
-47,Python Developer,16,5,47,2025-10-07
-48,Fullstack Developer,2,14,48,"Oct 07, 2025"
-49,Data Analyst,40,5,49,2025-10-07
-50,Machine Learning Engr.,30,16,50,2025/10/07
-51,Backend Engr,25,1,51,2025-10-07
-52,Cloud Data Engineer,33,9,52,"Oct 07, 2025"
-53,Fullstack Developer,32,29,53,"Oct 07, 2025"
-54,Data Engineer,4,10,54,07/10/2025
-55,Python Developer,15,12,55,07/10/2025
-56,Data Analyst,36,26,56,2025-10-07
-57,Python Developer,1,16,57,2025-10-07
-58,Backend Engr,27,30,58,2025-10-07
-59,ETL Specialist,17,16,59,2025/10/07
-60,Machine Learning Engr.,7,20,60,07/10/2025
-61,Software Dev,25,27,61,2025/10/07
-62,Python Developer,14,6,62,2025/10/07
-63,Data Analyst,3,29,63,2025/10/07
-64,Fullstack Developer,45,4,64,"Oct 07, 2025"
-65,AI ML Engineer,1,27,65,"Oct 07, 2025"
-66,Software Dev,5,20,66,"Oct 07, 2025"
-67,Machine Learning Engr.,38,2,67,07/10/2025
-68,ETL Specialist,2,29,68,07/10/2025
-69,Data Engineer,45,1,69,"Oct 07, 2025"
-70,Cloud Data Engineer,14,16,70,2025-10-07
-71,Cloud Data Engineer,31,23,71,"Oct 07, 2025"
-72,ETL Specialist,39,11,72,07/10/2025
-73,ETL Specialist,27,24,73,"Oct 07, 2025"
-74,Backend Engr,34,21,74,2025/10/07
-75,AI ML Engineer,1,12,75,2025/10/07
-76,Cloud Data Engineer,30,18,76,07/10/2025
-77,Machine Learning Engr.,28,6,77,"Oct 07, 2025"
-78,Python Developer,38,22,78,"Oct 07, 2025"
-79,Machine Learning Engr.,34,14,79,07/10/2025
-80,Software Dev,8,4,80,2025-10-07
-81,Fullstack Developer,7,9,81,"Oct 07, 2025"
-82,Fullstack Developer,12,24,82,2025/10/07
-83,Data Engineer,20,11,83,"Oct 07, 2025"
-84,Python Developer,46,30,84,2025/10/07
-85,Data Engineer,32,8,85,"Oct 07, 2025"
-86,AI ML Engineer,3,27,86,2025/10/07
-87,Backend Engr,11,4,87,"Oct 07, 2025"
-88,Fullstack Developer,14,9,88,"Oct 07, 2025"
-89,Data Analyst,33,12,89,2025-10-07
-90,Software Dev,31,29,90,2025-10-07
-91,Data Analyst,8,10,91,2025/10/07
-92,Python Developer,45,30,92,2025/10/07
-93,Backend Engr,13,28,93,"Oct 07, 2025"
-94,Backend Engr,50,22,94,"Oct 07, 2025"
-95,Cloud Data Engineer,25,12,95,"Oct 07, 2025"
-96,Python Developer,10,23,96,2025-10-07
-97,Cloud Data Engineer,16,13,97,"Oct 07, 2025"
-98,Data Engineer,37,12,98,"Oct 07, 2025"
-99,Software Dev,16,29,99,2025/10/07
-100,Python Developer,15,12,100,07/10/2025
-101,Fullstack Developer,42,17,101,2025-10-07
-102,Data Analyst,46,16,102,07/10/2025
-103,Data Analyst,17,24,103,2025-10-07
-104,AI ML Engineer,15,6,104,2025-10-07
-105,Backend Engr,47,30,105,2025-10-07
-106,Python Developer,44,18,106,"Oct 07, 2025"
-107,Cloud Data Engineer,49,11,107,07/10/2025
-108,Python Developer,3,16,108,2025/10/07
-109,Fullstack Developer,45,20,109,2025/10/07
-110,Backend Engr,40,26,110,2025/10/07
-111,Data Engineer,13,17,111,2025/10/07
-112,ETL Specialist,35,14,112,"Oct 07, 2025"
-113,ETL Specialist,39,11,113,2025/10/07
-114,Machine Learning Engr.,45,1,114,07/10/2025
-115,Data Analyst,25,19,115,2025-10-07
-116,Data Analyst,28,18,116,2025-10-07
-117,ETL Specialist,16,25,117,2025/10/07
-118,Python Developer,3,10,118,07/10/2025
-119,Fullstack Developer,47,8,119,2025/10/07
-120,AI ML Engineer,1,4,120,2025-10-07
-121,Machine Learning Engr.,48,19,121,2025-10-07
-122,Fullstack Developer,4,24,122,"Oct 07, 2025"
-123,AI ML Engineer,28,3,123,07/10/2025
-124,Software Dev,21,27,124,2025/10/07
-125,ETL Specialist,27,3,125,2025-10-07
-126,Python Developer,36,5,126,2025-10-07
-127,Software Dev,50,20,127,2025/10/07
-128,Fullstack Developer,23,5,128,2025/10/07
-129,Machine Learning Engr.,24,9,129,2025-10-07
-130,Backend Engr,32,12,130,07/10/2025
-131,Data Analyst,40,30,131,2025/10/07
-132,Python Developer,40,23,132,2025/10/07
-133,Data Analyst,28,28,133,07/10/2025
-134,Cloud Data Engineer,25,15,134,07/10/2025
-135,Fullstack Developer,37,1,135,"Oct 07, 2025"
-136,Data Engineer,40,6,136,"Oct 07, 2025"
-137,Fullstack Developer,17,16,137,07/10/2025
-138,Data Analyst,32,10,138,2025-10-07
-139,ETL Specialist,12,10,139,2025/10/07
-140,Backend Engr,12,16,140,2025/10/07
-141,Machine Learning Engr.,7,24,141,07/10/2025
-142,Cloud Data Engineer,30,22,142,"Oct 07, 2025"
-143,AI ML Engineer,17,20,143,2025/10/07
-144,Machine Learning Engr.,12,23,144,2025-10-07
-145,Data Engineer,46,15,145,"Oct 07, 2025"
-146,Data Analyst,25,5,146,07/10/2025
-147,Software Dev,44,17,147,"Oct 07, 2025"
-148,Backend Engr,21,15,148,07/10/2025
-149,Machine Learning Engr.,15,12,149,2025-10-07
-150,Machine Learning Engr.,39,10,150,2025-10-07
-151,Data Analyst,27,27,151,2025/10/07
-152,Backend Engr,45,22,152,07/10/2025
-153,AI ML Engineer,10,24,153,2025/10/07
-154,Python Developer,39,6,154,2025-10-07
-155,Data Analyst,33,17,155,2025-10-07
-156,Data Analyst,33,9,156,"Oct 07, 2025"
-157,Machine Learning Engr.,18,18,157,2025-10-07
-158,Python Developer,46,13,158,"Oct 07, 2025"
-159,Python Developer,30,4,159,07/10/2025
-160,Fullstack Developer,30,22,160,"Oct 07, 2025"
-161,Fullstack Developer,47,28,161,"Oct 07, 2025"
-162,Data Analyst,16,15,162,07/10/2025
-163,Data Analyst,13,7,163,2025-10-07
-164,Software Dev,47,30,164,2025-10-07
-165,Backend Engr,25,4,165,2025-10-07
-166,AI ML Engineer,8,25,166,2025-10-07
-167,ETL Specialist,9,2,167,07/10/2025
-168,Backend Engr,2,4,168,07/10/2025
-169,Fullstack Developer,29,24,169,"Oct 07, 2025"
-170,Fullstack Developer,30,28,170,2025-10-07
-171,Data Analyst,4,8,171,2025-10-07
-172,Software Dev,35,25,172,07/10/2025
-173,Machine Learning Engr.,33,23,173,2025/10/07
-174,AI ML Engineer,30,28,174,"Oct 07, 2025"
-175,Data Analyst,2,6,175,2025/10/07
-176,Machine Learning Engr.,49,4,176,07/10/2025
-177,Fullstack Developer,38,16,177,"Oct 07, 2025"
-178,Data Engineer,30,20,178,07/10/2025
-179,Machine Learning Engr.,29,11,179,2025/10/07
-180,Data Analyst,45,16,180,07/10/2025
-181,Data Analyst,49,15,181,2025/10/07
-182,Machine Learning Engr.,20,21,182,07/10/2025
-183,Fullstack Developer,23,5,183,2025-10-07
-184,Data Engineer,4,20,184,2025/10/07
-185,Data Engineer,42,6,185,07/10/2025
-186,Backend Engr,11,4,186,2025/10/07
-187,Backend Engr,41,23,187,"Oct 07, 2025"
-188,Machine Learning Engr.,39,17,188,"Oct 07, 2025"
-189,Backend Engr,23,29,189,2025-10-07
-190,AI ML Engineer,27,20,190,07/10/2025
-191,Cloud Data Engineer,29,26,191,"Oct 07, 2025"
-192,Machine Learning Engr.,17,7,192,2025-10-07
-193,Python Developer,46,21,193,07/10/2025
-194,AI ML Engineer,44,4,194,2025/10/07
-195,AI ML Engineer,35,2,195,"Oct 07, 2025"
-196,AI ML Engineer,14,5,196,2025/10/07
-197,Machine Learning Engr.,35,24,197,2025/10/07
-198,Software Dev,15,1,198,"Oct 07, 2025"
-199,AI ML Engineer,8,22,199,"Oct 07, 2025"
-200,Software Dev,46,11,200,"Oct 07, 2025"
-201,Machine Learning Engr.,16,23,201,2025-10-07
-202,Cloud Data Engineer,19,25,202,07/10/2025
-203,Cloud Data Engineer,17,13,203,2025/10/07
-204,Software Dev,37,9,204,2025-10-07
-205,Cloud Data Engineer,39,17,205,2025/10/07
-206,Python Developer,22,24,206,2025-10-07
-207,AI ML Engineer,23,2,207,07/10/2025
-208,Data Engineer,46,17,208,2025-10-07
-209,Backend Engr,36,17,209,07/10/2025
-210,Cloud Data Engineer,26,16,210,2025/10/07
-211,Cloud Data Engineer,9,7,211,2025-10-07
-212,Python Developer,26,2,212,2025-10-07
-213,Fullstack Developer,49,8,213,"Oct 07, 2025"
-214,Backend Engr,2,18,214,"Oct 07, 2025"
-215,Machine Learning Engr.,23,7,215,07/10/2025
-216,Python Developer,47,3,216,"Oct 07, 2025"
-217,Data Engineer,1,17,217,2025-10-07
-218,Python Developer,17,3,218,"Oct 07, 2025"
-219,Software Dev,19,24,219,"Oct 07, 2025"
-220,Machine Learning Engr.,45,22,220,2025-10-07
-221,Python Developer,38,17,221,07/10/2025
-222,AI ML Engineer,44,21,222,07/10/2025
-223,Machine Learning Engr.,36,10,223,"Oct 07, 2025"
-224,Machine Learning Engr.,31,16,224,2025-10-07
-225,Cloud Data Engineer,23,7,225,07/10/2025
-226,ETL Specialist,50,24,226,2025/10/07
-227,ETL Specialist,1,14,227,2025-10-07
-228,AI ML Engineer,26,9,228,"Oct 07, 2025"
-229,Fullstack Developer,34,18,229,07/10/2025
-230,Fullstack Developer,43,15,230,"Oct 07, 2025"
-231,Data Analyst,25,8,231,2025-10-07
-232,Backend Engr,30,12,232,2025-10-07
-233,Cloud Data Engineer,37,2,233,"Oct 07, 2025"
-234,Cloud Data Engineer,47,23,234,07/10/2025
-235,Python Developer,45,10,235,2025-10-07
-236,Software Dev,22,21,236,07/10/2025
-237,Python Developer,7,20,237,2025-10-07
-238,Backend Engr,5,19,238,2025/10/07
-239,Machine Learning Engr.,35,22,239,2025/10/07
-240,Data Analyst,30,4,240,2025-10-07
-241,Machine Learning Engr.,46,27,241,2025/10/07
-242,Backend Engr,19,24,242,07/10/2025
-243,Machine Learning Engr.,45,27,243,07/10/2025
-244,Cloud Data Engineer,5,16,244,2025-10-07
-245,Machine Learning Engr.,39,17,245,07/10/2025
-246,Python Developer,30,2,246,2025/10/07
-247,AI ML Engineer,41,8,247,07/10/2025
-248,Python Developer,33,20,248,2025-10-07
-249,ETL Specialist,14,30,249,"Oct 07, 2025"
-250,Backend Engr,34,8,250,2025-10-07
-251,Data Engineer,43,3,251,2025-10-07
-252,Cloud Data Engineer,14,12,252,2025-10-07
-253,Machine Learning Engr.,10,14,253,2025/10/07
-254,Python Developer,43,14,254,2025/10/07
-255,ETL Specialist,41,17,255,2025/10/07
-256,Python Developer,3,19,256,2025-10-07
-257,Backend Engr,13,18,257,2025/10/07
-258,Data Engineer,34,1,258,2025/10/07
-259,Fullstack Developer,42,4,259,07/10/2025
-260,Cloud Data Engineer,33,24,260,"Oct 07, 2025"
-261,Cloud Data Engineer,14,7,261,2025-10-07
-262,Cloud Data Engineer,32,12,262,"Oct 07, 2025"
-263,Python Developer,12,11,263,"Oct 07, 2025"
-264,Python Developer,43,9,264,2025-10-07
-265,ETL Specialist,42,22,265,07/10/2025
-266,Backend Engr,29,12,266,07/10/2025
-267,Data Analyst,37,28,267,"Oct 07, 2025"
-268,AI ML Engineer,6,11,268,07/10/2025
-269,Software Dev,19,24,269,2025/10/07
-270,AI ML Engineer,13,10,270,07/10/2025
-271,Python Developer,2,20,271,07/10/2025
-272,Backend Engr,18,1,272,2025-10-07
-273,Software Dev,45,29,273,"Oct 07, 2025"
-274,Backend Engr,15,23,274,07/10/2025
-275,Backend Engr,20,29,275,2025/10/07
-276,ETL Specialist,8,16,276,"Oct 07, 2025"
-277,Backend Engr,35,14,277,2025-10-07
-278,Backend Engr,22,11,278,2025/10/07
-279,Data Engineer,20,20,279,"Oct 07, 2025"
-280,Machine Learning Engr.,50,17,280,"Oct 07, 2025"
-281,Fullstack Developer,27,1,281,2025/10/07
-282,Backend Engr,22,3,282,"Oct 07, 2025"
-283,Backend Engr,12,30,283,07/10/2025
-284,Python Developer,35,27,284,2025-10-07
-285,Python Developer,43,26,285,"Oct 07, 2025"
-286,Backend Engr,12,22,286,2025-10-07
-287,Software Dev,11,20,287,"Oct 07, 2025"
-288,Python Developer,36,15,288,07/10/2025
-289,Machine Learning Engr.,15,4,289,2025/10/07
-290,Python Developer,39,21,290,"Oct 07, 2025"
-291,Software Dev,6,8,291,07/10/2025
-292,Data Analyst,19,30,292,"Oct 07, 2025"
-293,Software Dev,35,3,293,2025/10/07
-294,Data Engineer,11,18,294,2025/10/07
-295,Backend Engr,3,27,295,2025-10-07
-296,ETL Specialist,31,11,296,"Oct 07, 2025"
-297,ETL Specialist,25,3,297,"Oct 07, 2025"
-298,Software Dev,23,22,298,2025-10-07
-299,AI ML Engineer,7,8,299,2025-10-07
-300,Machine Learning Engr.,49,19,300,2025/10/07
+1,Fullstack Develper,78,17,1,10-07-25
+2,etl spclist,32,39,2,"October 07, 2025"
+3,AI-ML Dev,31,60,3,Oct 07 2025
+4,python developer,109,44,4,10-07-25
+5,Machine Learning Engnieer,93,30,5,Oct 07 2025
+6,python developer,15,11,6,"October 07, 2025"
+7,DATA ENG.,20,20,7,10-07-25
+8,etl spclist,24,37,8,"October 07, 2025"
+9,data engineer,98,8,9,2025-10-07
+10,AI-ML Dev,51,11,10,
+11,AI-ML Dev,51,60,11,07/10/2025
+12,Data Analyst,116,27,12,"October 07, 2025"
+13,backend engr,58,18,13,2025-10-07
+14,Softwre Dev,50,17,14,07/10/2025
+15,python developer,73,46,15,10-07-25
+16,backend engr,71,18,16,2025-10-07
+17,python developer,79,47,17,2025-10-07
+18,backend engr,52,56,18,"October 07, 2025"
+19,Machine Learning Engnieer,116,49,19,"October 07, 2025"
+20,data engineer,20,37,20,2025/10/07
+21,DATA ENG.,84,43,21,
+22,data engineer,38,17,22,10-07-25
+23,Ai ml engineer,41,25,23,2025-10-07
+24,Fullstack Develper,35,51,24,10-07-25
+25,etl spclist,57,57,25,07/10/2025
+26,etl spclist,71,54,26,2025-10-07
+27,data engineer,101,20,27,"October 07, 2025"
+28,Fullstack Develper,21,25,28,Oct 07 2025
+29,DATA ENG.,104,7,29,07/10/2025
+30,Softwre Dev,26,27,30,"October 07, 2025"
+31,AI-ML Dev,23,34,31,"October 07, 2025"
+32,DATA ENG.,38,19,32,Oct 07 2025
+33,Fullstack Develper,44,42,33,"October 07, 2025"
+34,Ai ml engineer,6,13,34,07/10/2025
+35,Fullstack Develper,15,38,35,07/10/2025
+36,backend engr,85,16,36,10-07-25
+37,backend engr,46,21,37,2025/10/07
+38,Data Analyst,23,10,38,Oct 07 2025
+39,python developer,47,59,39,2025/10/07
+40,backend engr,92,26,40,2025-10-07
+41,DATA ENG.,46,15,41,07/10/2025
+42,Machine Learning Engnieer,90,55,42,
+43,etl spclist,26,34,43,2025/10/07
+44,Machine Learning Engnieer,76,7,44,2025-10-07
+45,python developer,116,37,45,07/10/2025
+46,etl spclist,42,6,46,"October 07, 2025"
+47,backend engr,20,33,47,2025-10-07
+48,Data Analyst,102,11,48,2025/10/07
+49,Machine Learning Engnieer,45,40,49,"October 07, 2025"
+50,Fullstack Develper,88,49,50,
+51,etl spclist,60,3,51,Oct 07 2025
+52,Softwre Dev,96,21,52,07/10/2025
+53,etl spclist,97,44,53,"October 07, 2025"
+54,Data Analyst,118,51,54,Oct 07 2025
+55,Ai ml engineer,60,21,55,2025/10/07
+56,Machine Learning Engnieer,69,26,56,10-07-25
+57,python developer,45,26,57,07/10/2025
+58,data engineer,59,23,58,2025/10/07
+59,backend engr,79,16,59,07/10/2025
+60,Ai ml engineer,49,9,60,2025-10-07
+61,python developer,47,32,61,"October 07, 2025"
+62,data engineer,8,11,62,"October 07, 2025"
+63,Data Analyst,116,44,63,2025-10-07
+64,python developer,30,43,64,"October 07, 2025"
+65,Machine Learning Engnieer,12,30,65,10-07-25
+66,Ai ml engineer,103,31,66,Oct 07 2025
+67,Machine Learning Engnieer,71,55,67,
+68,AI-ML Dev,23,36,68,2025-10-07
+69,Machine Learning Engnieer,79,2,69,2025-10-07
+70,python developer,114,24,70,10-07-25
+71,Data Analyst,24,24,71,2025-10-07
+72,Machine Learning Engnieer,15,18,72,"October 07, 2025"
+73,Softwre Dev,115,2,73,2025-10-07
+74,data engineer,24,19,74,2025/10/07
+75,etl spclist,108,16,75,
+76,Softwre Dev,117,11,76,07/10/2025
+77,python developer,52,26,77,"October 07, 2025"
+78,Machine Learning Engnieer,23,55,78,Oct 07 2025
+79,Ai ml engineer,63,23,79,"October 07, 2025"
+80,Machine Learning Engnieer,33,1,80,2025/10/07
+81,etl spclist,71,55,81,10-07-25
+82,DATA ENG.,39,55,82,2025-10-07
+83,AI-ML Dev,43,42,83,2025-10-07
+84,Ai ml engineer,104,23,84,2025/10/07
+85,Machine Learning Engnieer,6,16,85,07/10/2025
+86,DATA ENG.,115,11,86,2025/10/07
+87,Machine Learning Engnieer,75,18,87,Oct 07 2025
+88,python developer,50,17,88,Oct 07 2025
+89,Fullstack Develper,13,27,89,10-07-25
+90,Ai ml engineer,58,35,90,Oct 07 2025
+91,DATA ENG.,60,30,91,07/10/2025
+92,DATA ENG.,118,16,92,10-07-25
+93,Machine Learning Engnieer,19,37,93,
+94,DATA ENG.,36,2,94,2025/10/07
+95,DATA ENG.,54,14,95,10-07-25
+96,DATA ENG.,104,25,96,07/10/2025
+97,Machine Learning Engnieer,62,11,97,07/10/2025
+98,backend engr,111,3,98,10-07-25
+99,AI-ML Dev,1,28,99,"October 07, 2025"
+100,python developer,18,44,100,2025-10-07
+101,DATA ENG.,65,23,101,2025/10/07
+102,Data Analyst,12,28,102,2025-10-07
+103,Softwre Dev,53,7,103,
+104,python developer,113,37,104,07/10/2025
+105,Machine Learning Engnieer,28,60,105,10-07-25
+106,AI-ML Dev,79,51,106,"October 07, 2025"
+107,AI-ML Dev,25,58,107,Oct 07 2025
+108,data engineer,110,20,108,2025-10-07
+109,Ai ml engineer,82,9,109,07/10/2025
+110,backend engr,32,11,110,"October 07, 2025"
+111,DATA ENG.,96,11,111,2025-10-07
+112,Softwre Dev,96,39,112,2025/10/07
+113,Softwre Dev,49,41,113,2025/10/07
+114,backend engr,93,50,114,10-07-25
+115,Softwre Dev,99,10,115,10-07-25
+116,DATA ENG.,28,9,116,Oct 07 2025
+117,backend engr,61,39,117,10-07-25
+118,Data Analyst,120,52,118,"October 07, 2025"
+119,backend engr,90,7,119,Oct 07 2025
+120,Fullstack Develper,27,46,120,Oct 07 2025
+121,python developer,21,57,121,
+122,DATA ENG.,72,43,122,07/10/2025
+123,Machine Learning Engnieer,116,11,123,"October 07, 2025"
+124,Fullstack Develper,120,21,124,"October 07, 2025"
+125,Machine Learning Engnieer,3,31,125,2025-10-07
+126,Data Analyst,94,57,126,2025-10-07
+127,DATA ENG.,44,46,127,"October 07, 2025"
+128,Data Analyst,59,59,128,10-07-25
+129,DATA ENG.,21,18,129,2025/10/07
+130,Fullstack Develper,60,51,130,2025/10/07
+131,AI-ML Dev,82,10,131,Oct 07 2025
+132,etl spclist,61,32,132,Oct 07 2025
+133,Machine Learning Engnieer,36,29,133,10-07-25
+134,Machine Learning Engnieer,108,48,134,Oct 07 2025
+135,data engineer,49,40,135,2025/10/07
+136,etl spclist,38,50,136,Oct 07 2025
+137,Machine Learning Engnieer,85,47,137,2025-10-07
+138,AI-ML Dev,6,48,138,"October 07, 2025"
+139,Ai ml engineer,20,45,139,2025/10/07
+140,data engineer,38,28,140,2025-10-07
+141,Fullstack Develper,52,59,141,10-07-25
+142,Ai ml engineer,103,15,142,Oct 07 2025
+143,Data Analyst,36,3,143,2025-10-07
+144,Data Analyst,59,43,144,Oct 07 2025
+145,Softwre Dev,74,26,145,10-07-25
+146,DATA ENG.,41,19,146,07/10/2025
+147,Ai ml engineer,112,42,147,07/10/2025
+148,Ai ml engineer,70,52,148,10-07-25
+149,Softwre Dev,112,8,149,"October 07, 2025"
+150,Softwre Dev,36,31,150,07/10/2025
+151,etl spclist,103,10,151,Oct 07 2025
+152,Ai ml engineer,79,10,152,10-07-25
+153,AI-ML Dev,111,29,153,Oct 07 2025
+154,Fullstack Develper,106,26,154,2025-10-07
+155,Softwre Dev,25,14,155,07/10/2025
+156,AI-ML Dev,48,6,156,10-07-25
+157,Softwre Dev,114,2,157,2025/10/07
+158,Machine Learning Engnieer,80,2,158,2025/10/07
+159,AI-ML Dev,38,55,159,07/10/2025
+160,data engineer,60,17,160,07/10/2025
+161,Softwre Dev,43,52,161,Oct 07 2025
+162,Data Analyst,70,11,162,2025/10/07
+163,Fullstack Develper,20,60,163,2025/10/07
+164,Ai ml engineer,91,46,164,
+165,Data Analyst,51,33,165,2025-10-07
+166,AI-ML Dev,32,9,166,2025/10/07
+167,AI-ML Dev,92,28,167,"October 07, 2025"
+168,Fullstack Develper,86,41,168,Oct 07 2025
+169,data engineer,106,15,169,Oct 07 2025
+170,AI-ML Dev,30,19,170,10-07-25
+171,Fullstack Develper,86,42,171,10-07-25
+172,Data Analyst,66,3,172,10-07-25
+173,Fullstack Develper,60,57,173,Oct 07 2025
+174,backend engr,1,22,174,"October 07, 2025"
+175,Fullstack Develper,117,47,175,"October 07, 2025"
+176,AI-ML Dev,45,5,176,2025/10/07
+177,AI-ML Dev,81,44,177,"October 07, 2025"
+178,DATA ENG.,66,54,178,2025-10-07
+179,DATA ENG.,7,13,179,"October 07, 2025"
+180,Machine Learning Engnieer,21,1,180,Oct 07 2025
+181,data engineer,87,19,181,07/10/2025
+182,python developer,26,41,182,07/10/2025
+183,Data Analyst,5,49,183,10-07-25
+184,python developer,74,8,184,Oct 07 2025
+185,AI-ML Dev,10,40,185,10-07-25
+186,AI-ML Dev,93,26,186,2025/10/07
+187,etl spclist,93,53,187,10-07-25
+188,DATA ENG.,2,43,188,2025/10/07
+189,backend engr,68,13,189,"October 07, 2025"
+190,Fullstack Develper,18,46,190,07/10/2025
+191,python developer,39,15,191,2025/10/07
+192,Machine Learning Engnieer,102,35,192,07/10/2025
+193,Machine Learning Engnieer,30,59,193,10-07-25
+194,Fullstack Develper,20,54,194,Oct 07 2025
+195,Data Analyst,102,21,195,"October 07, 2025"
+196,python developer,114,27,196,07/10/2025
+197,Softwre Dev,34,14,197,10-07-25
+198,AI-ML Dev,20,10,198,Oct 07 2025
+199,Ai ml engineer,72,11,199,Oct 07 2025
+200,python developer,60,38,200,2025/10/07
+201,Ai ml engineer,79,44,201,10-07-25
+202,Data Analyst,67,24,202,07/10/2025
+203,Ai ml engineer,51,7,203,Oct 07 2025
+204,Softwre Dev,63,14,204,
+205,Machine Learning Engnieer,59,18,205,
+206,Data Analyst,86,16,206,
+207,python developer,75,34,207,2025/10/07
+208,data engineer,70,51,208,Oct 07 2025
+209,AI-ML Dev,23,30,209,2025/10/07
+210,backend engr,13,33,210,2025/10/07
+211,DATA ENG.,47,24,211,07/10/2025
+212,Data Analyst,102,2,212,Oct 07 2025
+213,DATA ENG.,114,35,213,"October 07, 2025"
+214,Ai ml engineer,106,22,214,Oct 07 2025
+215,backend engr,37,21,215,07/10/2025
+216,python developer,68,60,216,
+217,DATA ENG.,9,39,217,Oct 07 2025
+218,Machine Learning Engnieer,92,16,218,10-07-25
+219,Softwre Dev,86,60,219,Oct 07 2025
+220,AI-ML Dev,116,41,220,Oct 07 2025
+221,Softwre Dev,73,10,221,07/10/2025
+222,Machine Learning Engnieer,119,41,222,"October 07, 2025"
+223,AI-ML Dev,82,33,223,2025/10/07
+224,Softwre Dev,90,57,224,10-07-25
+225,Data Analyst,36,36,225,"October 07, 2025"
+226,DATA ENG.,33,36,226,2025-10-07
+227,Machine Learning Engnieer,3,20,227,Oct 07 2025
+228,DATA ENG.,29,59,228,Oct 07 2025
+229,python developer,56,38,229,2025/10/07
+230,DATA ENG.,90,28,230,10-07-25
+231,etl spclist,113,37,231,07/10/2025
+232,Softwre Dev,96,51,232,07/10/2025
+233,backend engr,47,45,233,Oct 07 2025
+234,Softwre Dev,42,2,234,"October 07, 2025"
+235,python developer,29,37,235,2025/10/07
+236,Softwre Dev,4,27,236,10-07-25
+237,etl spclist,65,10,237,2025/10/07
+238,python developer,13,43,238,2025/10/07
+239,backend engr,70,21,239,2025/10/07
+240,Softwre Dev,120,48,240,2025-10-07
+241,DATA ENG.,27,2,241,10-07-25
+242,Machine Learning Engnieer,54,36,242,10-07-25
+243,DATA ENG.,116,2,243,2025/10/07
+244,data engineer,77,36,244,2025/10/07
+245,etl spclist,86,47,245,10-07-25
+246,backend engr,80,8,246,07/10/2025
+247,Machine Learning Engnieer,69,27,247,2025/10/07
+248,python developer,14,43,248,07/10/2025
+249,Ai ml engineer,54,17,249,"October 07, 2025"
+250,DATA ENG.,6,13,250,2025-10-07
+251,Ai ml engineer,120,49,251,Oct 07 2025
+252,etl spclist,115,4,252,
+253,data engineer,52,46,253,07/10/2025
+254,data engineer,102,54,254,2025-10-07
+255,DATA ENG.,23,59,255,07/10/2025
+256,Ai ml engineer,85,25,256,10-07-25
+257,etl spclist,31,36,257,Oct 07 2025
+258,Fullstack Develper,64,5,258,2025/10/07
+259,data engineer,49,18,259,Oct 07 2025
+260,Ai ml engineer,8,45,260,10-07-25
+261,Softwre Dev,43,1,261,"October 07, 2025"
+262,backend engr,21,5,262,"October 07, 2025"
+263,Ai ml engineer,38,21,263,Oct 07 2025
+264,Data Analyst,42,8,264,2025-10-07
+265,Fullstack Develper,104,30,265,10-07-25
+266,data engineer,114,30,266,Oct 07 2025
+267,Fullstack Develper,32,12,267,07/10/2025
+268,Data Analyst,17,23,268,Oct 07 2025
+269,backend engr,75,23,269,2025/10/07
+270,Ai ml engineer,34,8,270,2025/10/07
+271,Ai ml engineer,53,22,271,"October 07, 2025"
+272,python developer,10,14,272,"October 07, 2025"
+273,data engineer,90,32,273,10-07-25
+274,etl spclist,60,52,274,2025-10-07
+275,Ai ml engineer,76,15,275,Oct 07 2025
+276,Machine Learning Engnieer,101,36,276,Oct 07 2025
+277,Data Analyst,69,58,277,"October 07, 2025"
+278,DATA ENG.,111,51,278,2025-10-07
+279,Ai ml engineer,57,21,279,2025/10/07
+280,data engineer,12,48,280,2025/10/07
+281,Fullstack Develper,57,26,281,10-07-25
+282,Data Analyst,84,24,282,10-07-25
+283,AI-ML Dev,86,8,283,
+284,data engineer,23,6,284,Oct 07 2025
+285,python developer,111,50,285,07/10/2025
+286,etl spclist,116,16,286,"October 07, 2025"
+287,backend engr,30,10,287,"October 07, 2025"
+288,Machine Learning Engnieer,12,26,288,
+289,data engineer,13,31,289,2025-10-07
+290,AI-ML Dev,21,35,290,
+291,python developer,43,10,291,"October 07, 2025"
+292,backend engr,13,37,292,"October 07, 2025"
+293,backend engr,88,35,293,2025/10/07
+294,Ai ml engineer,54,7,294,2025/10/07
+295,DATA ENG.,57,18,295,2025-10-07
+296,Machine Learning Engnieer,30,40,296,2025/10/07
+297,Fullstack Develper,6,42,297,Oct 07 2025
+298,AI-ML Dev,59,15,298,Oct 07 2025
+299,backend engr,69,58,299,07/10/2025
+300,data engineer,22,60,300,2025-10-07
+301,python developer,110,57,301,Oct 07 2025
+302,Fullstack Develper,80,8,302,2025/10/07
+303,AI-ML Dev,20,11,303,Oct 07 2025
+304,Machine Learning Engnieer,119,14,304,2025/10/07
+305,Machine Learning Engnieer,14,9,305,Oct 07 2025
+306,Softwre Dev,3,5,306,
+307,backend engr,96,22,307,"October 07, 2025"
+308,DATA ENG.,88,24,308,10-07-25
+309,data engineer,54,24,309,2025-10-07
+310,AI-ML Dev,110,44,310,2025/10/07
+311,Softwre Dev,107,54,311,10-07-25
+312,Fullstack Develper,87,11,312,07/10/2025
+313,python developer,111,7,313,"October 07, 2025"
+314,backend engr,16,33,314,07/10/2025
+315,Fullstack Develper,56,28,315,2025-10-07
+316,python developer,4,49,316,Oct 07 2025
+317,backend engr,27,1,317,10-07-25
+318,AI-ML Dev,105,25,318,Oct 07 2025
+319,Ai ml engineer,12,36,319,07/10/2025
+320,Softwre Dev,89,22,320,2025-10-07
+321,etl spclist,22,32,321,07/10/2025
+322,DATA ENG.,55,41,322,07/10/2025
+323,Ai ml engineer,100,50,323,"October 07, 2025"
+324,Softwre Dev,86,50,324,2025-10-07
+325,backend engr,75,59,325,07/10/2025
+326,Data Analyst,120,18,326,2025-10-07
+327,Machine Learning Engnieer,29,39,327,"October 07, 2025"
+328,Machine Learning Engnieer,42,29,328,2025/10/07
+329,DATA ENG.,91,24,329,2025-10-07
+330,backend engr,71,11,330,07/10/2025
+331,DATA ENG.,7,6,331,Oct 07 2025
+332,Machine Learning Engnieer,120,52,332,"October 07, 2025"
+333,python developer,60,4,333,"October 07, 2025"
+334,backend engr,78,46,334,Oct 07 2025
+335,Fullstack Develper,99,40,335,2025-10-07
+336,AI-ML Dev,4,17,336,07/10/2025
+337,Data Analyst,39,35,337,2025-10-07
+338,Fullstack Develper,88,18,338,07/10/2025
+339,Softwre Dev,46,40,339,07/10/2025
+340,python developer,10,1,340,2025/10/07
+341,Data Analyst,19,58,341,2025-10-07
+342,python developer,59,36,342,2025/10/07
+343,etl spclist,61,47,343,2025-10-07
+344,Data Analyst,4,6,344,"October 07, 2025"
+345,data engineer,42,33,345,Oct 07 2025
+346,Machine Learning Engnieer,49,35,346,10-07-25
+347,backend engr,30,29,347,2025-10-07
+348,Ai ml engineer,96,12,348,2025/10/07
+349,data engineer,13,34,349,2025-10-07
+350,DATA ENG.,6,18,350,Oct 07 2025
+351,python developer,56,17,351,2025/10/07
+352,Data Analyst,33,3,352,2025/10/07
+353,etl spclist,103,6,353,07/10/2025
+354,Fullstack Develper,39,39,354,2025-10-07
+355,etl spclist,21,28,355,"October 07, 2025"
+356,python developer,79,46,356,Oct 07 2025
+357,Ai ml engineer,31,4,357,"October 07, 2025"
+358,AI-ML Dev,105,36,358,10-07-25
+359,data engineer,66,4,359,2025/10/07
+360,Softwre Dev,94,59,360,2025/10/07
+361,backend engr,110,48,361,2025-10-07
+362,AI-ML Dev,46,37,362,10-07-25
+363,Fullstack Develper,94,10,363,2025/10/07
+364,data engineer,116,40,364,2025-10-07
+365,etl spclist,23,24,365,07/10/2025
+366,data engineer,54,47,366,07/10/2025
+367,backend engr,59,30,367,2025/10/07
+368,Ai ml engineer,27,4,368,Oct 07 2025
+369,Ai ml engineer,41,31,369,2025-10-07
+370,etl spclist,92,22,370,Oct 07 2025
+371,backend engr,7,31,371,"October 07, 2025"
+372,Fullstack Develper,65,25,372,
+373,Data Analyst,96,60,373,10-07-25
+374,Machine Learning Engnieer,114,57,374,Oct 07 2025
+375,Machine Learning Engnieer,10,34,375,
+376,DATA ENG.,80,36,376,2025/10/07
+377,etl spclist,72,30,377,Oct 07 2025
+378,Machine Learning Engnieer,1,23,378,
+379,Machine Learning Engnieer,10,34,379,2025-10-07
+380,etl spclist,42,3,380,2025-10-07
+381,Fullstack Develper,97,32,381,2025-10-07
+382,Fullstack Develper,60,1,382,2025-10-07
+383,AI-ML Dev,107,30,383,2025-10-07
+384,Fullstack Develper,80,41,384,07/10/2025
+385,Machine Learning Engnieer,112,49,385,07/10/2025
+386,backend engr,43,38,386,2025/10/07
+387,backend engr,58,40,387,10-07-25
+388,data engineer,80,15,388,2025-10-07
+389,Softwre Dev,97,6,389,10-07-25
+390,AI-ML Dev,25,60,390,10-07-25
+391,python developer,92,55,391,07/10/2025
+392,Machine Learning Engnieer,11,19,392,"October 07, 2025"
+393,backend engr,11,55,393,Oct 07 2025
+394,Data Analyst,58,36,394,"October 07, 2025"
+395,AI-ML Dev,116,58,395,07/10/2025
+396,Softwre Dev,78,38,396,2025-10-07
+397,Ai ml engineer,64,7,397,07/10/2025
+398,Machine Learning Engnieer,14,21,398,Oct 07 2025
+399,Data Analyst,11,39,399,2025-10-07
+400,Machine Learning Engnieer,66,53,400,07/10/2025
+401,Machine Learning Engnieer,102,15,401,10-07-25
+402,Machine Learning Engnieer,15,50,402,07/10/2025
+403,etl spclist,46,36,403,Oct 07 2025
+404,Fullstack Develper,23,36,404,"October 07, 2025"
+405,Softwre Dev,115,53,405,10-07-25
+406,python developer,4,40,406,10-07-25
+407,AI-ML Dev,43,22,407,2025-10-07
+408,Softwre Dev,4,37,408,10-07-25
+409,Data Analyst,112,24,409,2025-10-07
+410,Data Analyst,12,59,410,10-07-25
+411,DATA ENG.,86,4,411,2025-10-07
+412,python developer,25,36,412,10-07-25
+413,Data Analyst,40,41,413,2025-10-07
+414,data engineer,88,43,414,07/10/2025
+415,AI-ML Dev,22,2,415,2025-10-07
+416,Softwre Dev,89,34,416,Oct 07 2025
+417,python developer,63,5,417,10-07-25
+418,data engineer,23,28,418,07/10/2025
+419,etl spclist,7,8,419,2025-10-07
+420,python developer,2,18,420,07/10/2025
+421,DATA ENG.,13,23,421,2025-10-07
+422,backend engr,48,31,422,2025-10-07
+423,Data Analyst,15,19,423,2025/10/07
+424,AI-ML Dev,17,11,424,2025-10-07
+425,AI-ML Dev,72,27,425,07/10/2025
+426,Data Analyst,99,58,426,10-07-25
+427,AI-ML Dev,3,33,427,10-07-25
+428,Data Analyst,70,37,428,07/10/2025
+429,Fullstack Develper,1,13,429,2025/10/07
+430,Ai ml engineer,24,52,430,10-07-25
+431,Softwre Dev,10,53,431,
+432,etl spclist,70,4,432,10-07-25
+433,Data Analyst,21,60,433,2025/10/07
+434,Data Analyst,53,42,434,2025/10/07
+435,Ai ml engineer,45,42,435,"October 07, 2025"
+436,python developer,113,19,436,Oct 07 2025
+437,Softwre Dev,120,19,437,"October 07, 2025"
+438,Softwre Dev,54,48,438,2025/10/07
+439,Machine Learning Engnieer,14,42,439,07/10/2025
+440,backend engr,73,29,440,"October 07, 2025"
+441,etl spclist,44,15,441,2025-10-07
+442,backend engr,60,52,442,"October 07, 2025"
+443,data engineer,39,32,443,07/10/2025
+444,python developer,11,55,444,10-07-25
+445,Machine Learning Engnieer,30,6,445,"October 07, 2025"
+446,etl spclist,53,12,446,07/10/2025
+447,AI-ML Dev,7,55,447,10-07-25
+448,Data Analyst,113,41,448,10-07-25
+449,backend engr,81,30,449,07/10/2025
+450,python developer,6,3,450,07/10/2025
+451,AI-ML Dev,85,60,451,"October 07, 2025"
+452,python developer,37,49,452,2025-10-07
+453,etl spclist,71,29,453,2025-10-07
+454,Data Analyst,102,36,454,Oct 07 2025
+455,DATA ENG.,85,36,455,10-07-25
+456,Data Analyst,116,51,456,07/10/2025
+457,Softwre Dev,14,56,457,"October 07, 2025"
+458,Machine Learning Engnieer,114,19,458,Oct 07 2025
+459,data engineer,113,6,459,07/10/2025
+460,python developer,115,39,460,2025-10-07
+461,AI-ML Dev,29,33,461,"October 07, 2025"
+462,etl spclist,66,32,462,07/10/2025
+463,DATA ENG.,49,37,463,07/10/2025
+464,AI-ML Dev,13,17,464,07/10/2025
+465,Softwre Dev,58,12,465,10-07-25
+466,data engineer,41,7,466,Oct 07 2025
+467,Data Analyst,38,41,467,2025/10/07
+468,Softwre Dev,103,32,468,
+469,etl spclist,64,11,469,2025-10-07
+470,Ai ml engineer,65,60,470,10-07-25
+471,Ai ml engineer,85,37,471,Oct 07 2025
+472,Ai ml engineer,109,48,472,07/10/2025
+473,backend engr,45,45,473,Oct 07 2025
+474,Data Analyst,117,25,474,10-07-25
+475,Data Analyst,114,34,475,10-07-25
+476,Fullstack Develper,82,3,476,Oct 07 2025
+477,Data Analyst,110,27,477,
+478,Softwre Dev,83,15,478,2025/10/07
+479,AI-ML Dev,61,21,479,"October 07, 2025"
+480,data engineer,98,40,480,10-07-25
+481,data engineer,11,50,481,
+482,backend engr,26,49,482,Oct 07 2025
+483,Ai ml engineer,55,29,483,Oct 07 2025
+484,Softwre Dev,120,14,484,
+485,Fullstack Develper,29,13,485,"October 07, 2025"
+486,AI-ML Dev,64,33,486,2025-10-07
+487,Softwre Dev,15,31,487,2025/10/07
+488,backend engr,100,11,488,2025-10-07
+489,etl spclist,88,51,489,10-07-25
+490,Fullstack Develper,5,11,490,2025/10/07
+491,python developer,68,37,491,2025/10/07
+492,Fullstack Develper,80,55,492,2025-10-07
+493,Fullstack Develper,88,29,493,07/10/2025
+494,AI-ML Dev,110,16,494,10-07-25
+495,DATA ENG.,57,38,495,10-07-25
+496,AI-ML Dev,25,5,496,07/10/2025
+497,Softwre Dev,31,22,497,2025/10/07
+498,python developer,73,5,498,10-07-25
+499,python developer,19,31,499,2025-10-07
+500,Fullstack Develper,27,50,500,2025-10-07
