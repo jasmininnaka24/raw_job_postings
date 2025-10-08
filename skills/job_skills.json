@@ -1,0 +1,2702 @@
+[
+  {
+    "job_id": 1,
+    "skills": [
+      "Pandas",
+      "spark",
+      "aws",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 2,
+    "skills": [
+      "postgresql",
+      "snowflake",
+      "dbt",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 3,
+    "skills": [
+      "Spark",
+      "AWS",
+      "s3",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 4,
+    "skills": [
+      "scikit-learn",
+      "MLflow",
+      "PyTorch",
+      "TensorFlow"
+    ]
+  },
+  {
+    "job_id": 5,
+    "skills": [
+      "scikit-learn",
+      "MLflow",
+      "PyTorch",
+      "TensorFlow"
+    ]
+  },
+  {
+    "job_id": 6,
+    "skills": [
+      "AWS",
+      "Spark",
+      "Pandas",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 7,
+    "skills": [
+      "S3",
+      "pandas",
+      "Spark",
+      "AWS"
+    ]
+  },
+  {
+    "job_id": 8,
+    "skills": [
+      "PostgreSQL",
+      "dbt",
+      "databricks",
+      "Snowflake"
+    ]
+  },
+  {
+    "job_id": 9,
+    "skills": [
+      "pytorch",
+      "TensorFlow",
+      "Scikit-Learn",
+      "MLflow"
+    ]
+  },
+  {
+    "job_id": 10,
+    "skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-Learn",
+      "mlflow"
+    ]
+  },
+  {
+    "job_id": 11,
+    "skills": [
+      "S3",
+      "Pandas",
+      "Spark",
+      "AWS"
+    ]
+  },
+  {
+    "job_id": 12,
+    "skills": [
+      "docker",
+      "CI/CD",
+      "Kubernetes",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 13,
+    "skills": [
+      "docker",
+      "ci/cd",
+      "GitHub Actions",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 14,
+    "skills": [
+      "tensorflow",
+      "mlflow",
+      "Scikit-Learn",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 15,
+    "skills": [
+      "dbt",
+      "DataBricks",
+      "PostgreSQL",
+      "Snowflake"
+    ]
+  },
+  {
+    "job_id": 16,
+    "skills": [
+      "DataBricks",
+      "PostgreSQL",
+      "dbt",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 17,
+    "skills": [
+      "spark",
+      "s3",
+      "AWS",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 18,
+    "skills": [
+      "Pandas",
+      "aws",
+      "spark",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 19,
+    "skills": [
+      "Kubernetes",
+      "GitHub Actions",
+      "CI/CD",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 20,
+    "skills": [
+      "PyTorch",
+      "scikit-learn",
+      "mlflow",
+      "TensorFlow"
+    ]
+  },
+  {
+    "job_id": 21,
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "PostgreSQL",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 22,
+    "skills": [
+      "scikit-learn",
+      "mlflow",
+      "PyTorch",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 23,
+    "skills": [
+      "CI/CD",
+      "docker",
+      "Kubernetes",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "job_id": 24,
+    "skills": [
+      "etl",
+      "SQL",
+      "Airflow",
+      "Python"
+    ]
+  },
+  {
+    "job_id": 25,
+    "skills": [
+      "tensorflow",
+      "pytorch",
+      "scikit-learn",
+      "MLflow"
+    ]
+  },
+  {
+    "job_id": 26,
+    "skills": [
+      "postgresql",
+      "snowflake",
+      "dbt",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 27,
+    "skills": [
+      "SQL",
+      "python",
+      "Airflow",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 28,
+    "skills": [
+      "Kubernetes",
+      "ci/cd",
+      "GitHub Actions",
+      "Docker"
+    ]
+  },
+  {
+    "job_id": 29,
+    "skills": [
+      "aws",
+      "spark",
+      "Pandas",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 30,
+    "skills": [
+      "GitHub Actions",
+      "ci/cd",
+      "Docker",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 31,
+    "skills": [
+      "CI/CD",
+      "GitHub Actions",
+      "Kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 32,
+    "skills": [
+      "pytorch",
+      "tensorflow",
+      "MLflow",
+      "Scikit-Learn"
+    ]
+  },
+  {
+    "job_id": 33,
+    "skills": [
+      "ci/cd",
+      "Kubernetes",
+      "GitHub Actions",
+      "Docker"
+    ]
+  },
+  {
+    "job_id": 34,
+    "skills": [
+      "databricks",
+      "PostgreSQL",
+      "dbt",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 35,
+    "skills": [
+      "AWS",
+      "s3",
+      "pandas",
+      "Spark"
+    ]
+  },
+  {
+    "job_id": 36,
+    "skills": [
+      "SQL",
+      "airflow",
+      "Python",
+      "ETL"
+    ]
+  },
+  {
+    "job_id": 37,
+    "skills": [
+      "github actions",
+      "Docker",
+      "ci/cd",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 38,
+    "skills": [
+      "sql",
+      "python",
+      "Airflow",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 39,
+    "skills": [
+      "PostgreSQL",
+      "databricks",
+      "dbt",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 40,
+    "skills": [
+      "AWS",
+      "Pandas",
+      "S3",
+      "Spark"
+    ]
+  },
+  {
+    "job_id": 41,
+    "skills": [
+      "Scikit-Learn",
+      "MLflow",
+      "PyTorch",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 42,
+    "skills": [
+      "Python",
+      "etl",
+      "SQL",
+      "airflow"
+    ]
+  },
+  {
+    "job_id": 43,
+    "skills": [
+      "SQL",
+      "etl",
+      "Airflow",
+      "Python"
+    ]
+  },
+  {
+    "job_id": 44,
+    "skills": [
+      "github actions",
+      "docker",
+      "CI/CD",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 45,
+    "skills": [
+      "databricks",
+      "PostgreSQL",
+      "dbt",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 46,
+    "skills": [
+      "mlflow",
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 47,
+    "skills": [
+      "python",
+      "SQL",
+      "ETL",
+      "Airflow"
+    ]
+  },
+  {
+    "job_id": 48,
+    "skills": [
+      "postgresql",
+      "Snowflake",
+      "databricks",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 49,
+    "skills": [
+      "docker",
+      "Kubernetes",
+      "CI/CD",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "job_id": 50,
+    "skills": [
+      "s3",
+      "spark",
+      "AWS",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 51,
+    "skills": [
+      "ci/cd",
+      "kubernetes",
+      "GitHub Actions",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 52,
+    "skills": [
+      "postgresql",
+      "Snowflake",
+      "dbt",
+      "databricks"
+    ]
+  },
+  {
+    "job_id": 53,
+    "skills": [
+      "pandas",
+      "AWS",
+      "spark",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 54,
+    "skills": [
+      "databricks",
+      "dbt",
+      "Snowflake",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "job_id": 55,
+    "skills": [
+      "Docker",
+      "GitHub Actions",
+      "kubernetes",
+      "CI/CD"
+    ]
+  },
+  {
+    "job_id": 56,
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "PostgreSQL",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 57,
+    "skills": [
+      "scikit-learn",
+      "pytorch",
+      "TensorFlow",
+      "MLflow"
+    ]
+  },
+  {
+    "job_id": 58,
+    "skills": [
+      "github actions",
+      "Docker",
+      "ci/cd",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 59,
+    "skills": [
+      "AWS",
+      "s3",
+      "Pandas",
+      "spark"
+    ]
+  },
+  {
+    "job_id": 60,
+    "skills": [
+      "SQL",
+      "Python",
+      "Airflow",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 61,
+    "skills": [
+      "S3",
+      "AWS",
+      "pandas",
+      "spark"
+    ]
+  },
+  {
+    "job_id": 62,
+    "skills": [
+      "Scikit-Learn",
+      "tensorflow",
+      "mlflow",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 63,
+    "skills": [
+      "DataBricks",
+      "dbt",
+      "PostgreSQL",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 64,
+    "skills": [
+      "PostgreSQL",
+      "dbt",
+      "databricks",
+      "Snowflake"
+    ]
+  },
+  {
+    "job_id": 65,
+    "skills": [
+      "scikit-learn",
+      "tensorflow",
+      "MLflow",
+      "PyTorch"
+    ]
+  },
+  {
+    "job_id": 66,
+    "skills": [
+      "Airflow",
+      "SQL",
+      "ETL",
+      "Python"
+    ]
+  },
+  {
+    "job_id": 67,
+    "skills": [
+      "S3",
+      "spark",
+      "pandas",
+      "AWS"
+    ]
+  },
+  {
+    "job_id": 68,
+    "skills": [
+      "Kubernetes",
+      "github actions",
+      "Docker",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 69,
+    "skills": [
+      "postgresql",
+      "DataBricks",
+      "snowflake",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 70,
+    "skills": [
+      "MLflow",
+      "Scikit-Learn",
+      "PyTorch",
+      "TensorFlow"
+    ]
+  },
+  {
+    "job_id": 71,
+    "skills": [
+      "Kubernetes",
+      "docker",
+      "ci/cd",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "job_id": 72,
+    "skills": [
+      "airflow",
+      "Python",
+      "sql",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 73,
+    "skills": [
+      "aws",
+      "S3",
+      "Pandas",
+      "Spark"
+    ]
+  },
+  {
+    "job_id": 74,
+    "skills": [
+      "TensorFlow",
+      "scikit-learn",
+      "MLflow",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 75,
+    "skills": [
+      "Airflow",
+      "SQL",
+      "python",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 76,
+    "skills": [
+      "sql",
+      "ETL",
+      "Airflow",
+      "python"
+    ]
+  },
+  {
+    "job_id": 77,
+    "skills": [
+      "postgresql",
+      "DataBricks",
+      "dbt",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 78,
+    "skills": [
+      "scikit-learn",
+      "tensorflow",
+      "PyTorch",
+      "MLflow"
+    ]
+  },
+  {
+    "job_id": 79,
+    "skills": [
+      "PyTorch",
+      "MLflow",
+      "Scikit-Learn",
+      "TensorFlow"
+    ]
+  },
+  {
+    "job_id": 80,
+    "skills": [
+      "S3",
+      "spark",
+      "Pandas",
+      "AWS"
+    ]
+  },
+  {
+    "job_id": 81,
+    "skills": [
+      "s3",
+      "AWS",
+      "spark",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 82,
+    "skills": [
+      "ci/cd",
+      "Docker",
+      "Kubernetes",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 83,
+    "skills": [
+      "airflow",
+      "etl",
+      "SQL",
+      "Python"
+    ]
+  },
+  {
+    "job_id": 84,
+    "skills": [
+      "ETL",
+      "sql",
+      "airflow",
+      "Python"
+    ]
+  },
+  {
+    "job_id": 85,
+    "skills": [
+      "Docker",
+      "GitHub Actions",
+      "ci/cd",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 86,
+    "skills": [
+      "tensorflow",
+      "PyTorch",
+      "scikit-learn",
+      "mlflow"
+    ]
+  },
+  {
+    "job_id": 87,
+    "skills": [
+      "dbt",
+      "databricks",
+      "Snowflake",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 88,
+    "skills": [
+      "dbt",
+      "snowflake",
+      "DataBricks",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "job_id": 89,
+    "skills": [
+      "Spark",
+      "s3",
+      "aws",
+      "Pandas"
+    ]
+  },
+  {
+    "job_id": 90,
+    "skills": [
+      "TensorFlow",
+      "Scikit-Learn",
+      "MLflow",
+      "PyTorch"
+    ]
+  },
+  {
+    "job_id": 91,
+    "skills": [
+      "S3",
+      "spark",
+      "aws",
+      "Pandas"
+    ]
+  },
+  {
+    "job_id": 92,
+    "skills": [
+      "etl",
+      "SQL",
+      "airflow",
+      "Python"
+    ]
+  },
+  {
+    "job_id": 93,
+    "skills": [
+      "spark",
+      "pandas",
+      "AWS",
+      "s3"
+    ]
+  },
+  {
+    "job_id": 94,
+    "skills": [
+      "Docker",
+      "kubernetes",
+      "CI/CD",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "job_id": 95,
+    "skills": [
+      "tensorflow",
+      "Scikit-Learn",
+      "pytorch",
+      "MLflow"
+    ]
+  },
+  {
+    "job_id": 96,
+    "skills": [
+      "sql",
+      "airflow",
+      "Python",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 97,
+    "skills": [
+      "pandas",
+      "Spark",
+      "s3",
+      "AWS"
+    ]
+  },
+  {
+    "job_id": 98,
+    "skills": [
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-Learn",
+      "mlflow"
+    ]
+  },
+  {
+    "job_id": 99,
+    "skills": [
+      "pandas",
+      "s3",
+      "aws",
+      "spark"
+    ]
+  },
+  {
+    "job_id": 100,
+    "skills": [
+      "mlflow",
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 101,
+    "skills": [
+      "aws",
+      "Pandas",
+      "spark",
+      "s3"
+    ]
+  },
+  {
+    "job_id": 102,
+    "skills": [
+      "DataBricks",
+      "dbt",
+      "Snowflake",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 103,
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 104,
+    "skills": [
+      "python",
+      "sql",
+      "Airflow",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 105,
+    "skills": [
+      "github actions",
+      "CI/CD",
+      "Kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 106,
+    "skills": [
+      "pytorch",
+      "scikit-learn",
+      "MLflow",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 107,
+    "skills": [
+      "Spark",
+      "pandas",
+      "s3",
+      "AWS"
+    ]
+  },
+  {
+    "job_id": 108,
+    "skills": [
+      "docker",
+      "GitHub Actions",
+      "Kubernetes",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 109,
+    "skills": [
+      "GitHub Actions",
+      "docker",
+      "CI/CD",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 110,
+    "skills": [
+      "AWS",
+      "pandas",
+      "s3",
+      "Spark"
+    ]
+  },
+  {
+    "job_id": 111,
+    "skills": [
+      "Airflow",
+      "SQL",
+      "etl",
+      "Python"
+    ]
+  },
+  {
+    "job_id": 112,
+    "skills": [
+      "SQL",
+      "Airflow",
+      "Python",
+      "ETL"
+    ]
+  },
+  {
+    "job_id": 113,
+    "skills": [
+      "postgresql",
+      "databricks",
+      "snowflake",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 114,
+    "skills": [
+      "tensorflow",
+      "PyTorch",
+      "mlflow",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 115,
+    "skills": [
+      "github actions",
+      "Kubernetes",
+      "CI/CD",
+      "Docker"
+    ]
+  },
+  {
+    "job_id": 116,
+    "skills": [
+      "PostgreSQL",
+      "Snowflake",
+      "dbt",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 117,
+    "skills": [
+      "PostgreSQL",
+      "databricks",
+      "Snowflake",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 118,
+    "skills": [
+      "mlflow",
+      "Scikit-Learn",
+      "pytorch",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 119,
+    "skills": [
+      "CI/CD",
+      "Kubernetes",
+      "github actions",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 120,
+    "skills": [
+      "SQL",
+      "etl",
+      "airflow",
+      "Python"
+    ]
+  },
+  {
+    "job_id": 121,
+    "skills": [
+      "s3",
+      "pandas",
+      "aws",
+      "spark"
+    ]
+  },
+  {
+    "job_id": 122,
+    "skills": [
+      "dbt",
+      "PostgreSQL",
+      "Snowflake",
+      "databricks"
+    ]
+  },
+  {
+    "job_id": 123,
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "DataBricks",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "job_id": 124,
+    "skills": [
+      "Kubernetes",
+      "docker",
+      "GitHub Actions",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 125,
+    "skills": [
+      "PostgreSQL",
+      "databricks",
+      "dbt",
+      "Snowflake"
+    ]
+  },
+  {
+    "job_id": 126,
+    "skills": [
+      "docker",
+      "kubernetes",
+      "CI/CD",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 127,
+    "skills": [
+      "github actions",
+      "ci/cd",
+      "docker",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 128,
+    "skills": [
+      "ci/cd",
+      "Docker",
+      "Kubernetes",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 129,
+    "skills": [
+      "ci/cd",
+      "kubernetes",
+      "Docker",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "job_id": 130,
+    "skills": [
+      "python",
+      "etl",
+      "airflow",
+      "SQL"
+    ]
+  },
+  {
+    "job_id": 131,
+    "skills": [
+      "PostgreSQL",
+      "snowflake",
+      "dbt",
+      "databricks"
+    ]
+  },
+  {
+    "job_id": 132,
+    "skills": [
+      "python",
+      "etl",
+      "airflow",
+      "sql"
+    ]
+  },
+  {
+    "job_id": 133,
+    "skills": [
+      "scikit-learn",
+      "mlflow",
+      "TensorFlow",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 134,
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "postgresql",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 135,
+    "skills": [
+      "AWS",
+      "s3",
+      "spark",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 136,
+    "skills": [
+      "SQL",
+      "airflow",
+      "python",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 137,
+    "skills": [
+      "pandas",
+      "Spark",
+      "AWS",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 138,
+    "skills": [
+      "python",
+      "etl",
+      "sql",
+      "airflow"
+    ]
+  },
+  {
+    "job_id": 139,
+    "skills": [
+      "Airflow",
+      "sql",
+      "ETL",
+      "python"
+    ]
+  },
+  {
+    "job_id": 140,
+    "skills": [
+      "etl",
+      "python",
+      "SQL",
+      "airflow"
+    ]
+  },
+  {
+    "job_id": 141,
+    "skills": [
+      "Docker",
+      "kubernetes",
+      "github actions",
+      "CI/CD"
+    ]
+  },
+  {
+    "job_id": 142,
+    "skills": [
+      "ci/cd",
+      "docker",
+      "Kubernetes",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 143,
+    "skills": [
+      "SQL",
+      "airflow",
+      "Python",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 144,
+    "skills": [
+      "DataBricks",
+      "dbt",
+      "PostgreSQL",
+      "Snowflake"
+    ]
+  },
+  {
+    "job_id": 145,
+    "skills": [
+      "Docker",
+      "CI/CD",
+      "kubernetes",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "job_id": 146,
+    "skills": [
+      "S3",
+      "pandas",
+      "Spark",
+      "AWS"
+    ]
+  },
+  {
+    "job_id": 147,
+    "skills": [
+      "tensorflow",
+      "PyTorch",
+      "MLflow",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 148,
+    "skills": [
+      "Docker",
+      "GitHub Actions",
+      "Kubernetes",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 149,
+    "skills": [
+      "TensorFlow",
+      "mlflow",
+      "PyTorch",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 150,
+    "skills": [
+      "PostgreSQL",
+      "databricks",
+      "dbt",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 151,
+    "skills": [
+      "GitHub Actions",
+      "ci/cd",
+      "docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 152,
+    "skills": [
+      "Kubernetes",
+      "ci/cd",
+      "github actions",
+      "Docker"
+    ]
+  },
+  {
+    "job_id": 153,
+    "skills": [
+      "AWS",
+      "Spark",
+      "pandas",
+      "s3"
+    ]
+  },
+  {
+    "job_id": 154,
+    "skills": [
+      "snowflake",
+      "DataBricks",
+      "dbt",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 155,
+    "skills": [
+      "PostgreSQL",
+      "databricks",
+      "snowflake",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 156,
+    "skills": [
+      "airflow",
+      "etl",
+      "python",
+      "sql"
+    ]
+  },
+  {
+    "job_id": 157,
+    "skills": [
+      "Kubernetes",
+      "GitHub Actions",
+      "docker",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 158,
+    "skills": [
+      "ci/cd",
+      "Docker",
+      "github actions",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 159,
+    "skills": [
+      "airflow",
+      "SQL",
+      "Python",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 160,
+    "skills": [
+      "AWS",
+      "Spark",
+      "Pandas",
+      "s3"
+    ]
+  },
+  {
+    "job_id": 161,
+    "skills": [
+      "github actions",
+      "Kubernetes",
+      "CI/CD",
+      "Docker"
+    ]
+  },
+  {
+    "job_id": 162,
+    "skills": [
+      "aws",
+      "s3",
+      "spark",
+      "Pandas"
+    ]
+  },
+  {
+    "job_id": 163,
+    "skills": [
+      "snowflake",
+      "postgresql",
+      "dbt",
+      "databricks"
+    ]
+  },
+  {
+    "job_id": 164,
+    "skills": [
+      "dbt",
+      "snowflake",
+      "postgresql",
+      "databricks"
+    ]
+  },
+  {
+    "job_id": 165,
+    "skills": [
+      "aws",
+      "pandas",
+      "Spark",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 166,
+    "skills": [
+      "DataBricks",
+      "PostgreSQL",
+      "dbt",
+      "Snowflake"
+    ]
+  },
+  {
+    "job_id": 167,
+    "skills": [
+      "airflow",
+      "python",
+      "SQL",
+      "ETL"
+    ]
+  },
+  {
+    "job_id": 168,
+    "skills": [
+      "PostgreSQL",
+      "DataBricks",
+      "snowflake",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 169,
+    "skills": [
+      "sql",
+      "python",
+      "Airflow",
+      "ETL"
+    ]
+  },
+  {
+    "job_id": 170,
+    "skills": [
+      "etl",
+      "Airflow",
+      "SQL",
+      "python"
+    ]
+  },
+  {
+    "job_id": 171,
+    "skills": [
+      "PostgreSQL",
+      "snowflake",
+      "dbt",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 172,
+    "skills": [
+      "airflow",
+      "sql",
+      "Python",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 173,
+    "skills": [
+      "Scikit-Learn",
+      "pytorch",
+      "tensorflow",
+      "MLflow"
+    ]
+  },
+  {
+    "job_id": 174,
+    "skills": [
+      "snowflake",
+      "dbt",
+      "databricks",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "job_id": 175,
+    "skills": [
+      "kubernetes",
+      "Docker",
+      "github actions",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 176,
+    "skills": [
+      "Docker",
+      "ci/cd",
+      "github actions",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 177,
+    "skills": [
+      "AWS",
+      "Spark",
+      "Pandas",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 178,
+    "skills": [
+      "Spark",
+      "s3",
+      "pandas",
+      "AWS"
+    ]
+  },
+  {
+    "job_id": 179,
+    "skills": [
+      "scikit-learn",
+      "tensorflow",
+      "MLflow",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 180,
+    "skills": [
+      "spark",
+      "aws",
+      "Pandas",
+      "s3"
+    ]
+  },
+  {
+    "job_id": 181,
+    "skills": [
+      "pandas",
+      "Spark",
+      "aws",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 182,
+    "skills": [
+      "spark",
+      "Pandas",
+      "AWS",
+      "s3"
+    ]
+  },
+  {
+    "job_id": 183,
+    "skills": [
+      "ci/cd",
+      "Docker",
+      "GitHub Actions",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 184,
+    "skills": [
+      "Docker",
+      "GitHub Actions",
+      "Kubernetes",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 185,
+    "skills": [
+      "ci/cd",
+      "github actions",
+      "kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 186,
+    "skills": [
+      "etl",
+      "Python",
+      "airflow",
+      "SQL"
+    ]
+  },
+  {
+    "job_id": 187,
+    "skills": [
+      "CI/CD",
+      "GitHub Actions",
+      "Docker",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 188,
+    "skills": [
+      "aws",
+      "s3",
+      "Spark",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 189,
+    "skills": [
+      "databricks",
+      "snowflake",
+      "PostgreSQL",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 190,
+    "skills": [
+      "aws",
+      "s3",
+      "Spark",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 191,
+    "skills": [
+      "airflow",
+      "SQL",
+      "Python",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 192,
+    "skills": [
+      "PostgreSQL",
+      "dbt",
+      "DataBricks",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 193,
+    "skills": [
+      "ETL",
+      "python",
+      "SQL",
+      "Airflow"
+    ]
+  },
+  {
+    "job_id": 194,
+    "skills": [
+      "pytorch",
+      "scikit-learn",
+      "mlflow",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 195,
+    "skills": [
+      "dbt",
+      "PostgreSQL",
+      "databricks",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 196,
+    "skills": [
+      "Python",
+      "sql",
+      "airflow",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 197,
+    "skills": [
+      "s3",
+      "Spark",
+      "pandas",
+      "aws"
+    ]
+  },
+  {
+    "job_id": 198,
+    "skills": [
+      "Spark",
+      "pandas",
+      "AWS",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 199,
+    "skills": [
+      "ETL",
+      "Python",
+      "sql",
+      "airflow"
+    ]
+  },
+  {
+    "job_id": 200,
+    "skills": [
+      "MLflow",
+      "PyTorch",
+      "Scikit-Learn",
+      "TensorFlow"
+    ]
+  },
+  {
+    "job_id": 201,
+    "skills": [
+      "aws",
+      "S3",
+      "pandas",
+      "spark"
+    ]
+  },
+  {
+    "job_id": 202,
+    "skills": [
+      "pytorch",
+      "scikit-learn",
+      "MLflow",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 203,
+    "skills": [
+      "dbt",
+      "postgresql",
+      "Snowflake",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 204,
+    "skills": [
+      "spark",
+      "pandas",
+      "aws",
+      "s3"
+    ]
+  },
+  {
+    "job_id": 205,
+    "skills": [
+      "AWS",
+      "spark",
+      "s3",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 206,
+    "skills": [
+      "ETL",
+      "SQL",
+      "Python",
+      "Airflow"
+    ]
+  },
+  {
+    "job_id": 207,
+    "skills": [
+      "Docker",
+      "github actions",
+      "CI/CD",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 208,
+    "skills": [
+      "ci/cd",
+      "docker",
+      "github actions",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 209,
+    "skills": [
+      "snowflake",
+      "dbt",
+      "databricks",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 210,
+    "skills": [
+      "CI/CD",
+      "docker",
+      "GitHub Actions",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 211,
+    "skills": [
+      "Kubernetes",
+      "GitHub Actions",
+      "CI/CD",
+      "Docker"
+    ]
+  },
+  {
+    "job_id": 212,
+    "skills": [
+      "aws",
+      "s3",
+      "Spark",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 213,
+    "skills": [
+      "DataBricks",
+      "postgresql",
+      "snowflake",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 214,
+    "skills": [
+      "MLflow",
+      "tensorflow",
+      "Scikit-Learn",
+      "PyTorch"
+    ]
+  },
+  {
+    "job_id": 215,
+    "skills": [
+      "tensorflow",
+      "PyTorch",
+      "scikit-learn",
+      "mlflow"
+    ]
+  },
+  {
+    "job_id": 216,
+    "skills": [
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "MLflow"
+    ]
+  },
+  {
+    "job_id": 217,
+    "skills": [
+      "GitHub Actions",
+      "docker",
+      "Kubernetes",
+      "CI/CD"
+    ]
+  },
+  {
+    "job_id": 218,
+    "skills": [
+      "Docker",
+      "kubernetes",
+      "github actions",
+      "CI/CD"
+    ]
+  },
+  {
+    "job_id": 219,
+    "skills": [
+      "Scikit-Learn",
+      "tensorflow",
+      "MLflow",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 220,
+    "skills": [
+      "PostgreSQL",
+      "databricks",
+      "dbt",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 221,
+    "skills": [
+      "github actions",
+      "ci/cd",
+      "kubernetes",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 222,
+    "skills": [
+      "github actions",
+      "ci/cd",
+      "docker",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 223,
+    "skills": [
+      "SQL",
+      "airflow",
+      "python",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 224,
+    "skills": [
+      "snowflake",
+      "DataBricks",
+      "dbt",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "job_id": 225,
+    "skills": [
+      "etl",
+      "sql",
+      "Python",
+      "Airflow"
+    ]
+  },
+  {
+    "job_id": 226,
+    "skills": [
+      "snowflake",
+      "dbt",
+      "postgresql",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 227,
+    "skills": [
+      "kubernetes",
+      "ci/cd",
+      "docker",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 228,
+    "skills": [
+      "tensorflow",
+      "scikit-learn",
+      "PyTorch",
+      "mlflow"
+    ]
+  },
+  {
+    "job_id": 229,
+    "skills": [
+      "mlflow",
+      "scikit-learn",
+      "pytorch",
+      "TensorFlow"
+    ]
+  },
+  {
+    "job_id": 230,
+    "skills": [
+      "Pandas",
+      "spark",
+      "S3",
+      "AWS"
+    ]
+  },
+  {
+    "job_id": 231,
+    "skills": [
+      "pytorch",
+      "MLflow",
+      "TensorFlow",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 232,
+    "skills": [
+      "Snowflake",
+      "databricks",
+      "dbt",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 233,
+    "skills": [
+      "airflow",
+      "ETL",
+      "sql",
+      "python"
+    ]
+  },
+  {
+    "job_id": 234,
+    "skills": [
+      "mlflow",
+      "PyTorch",
+      "TensorFlow",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 235,
+    "skills": [
+      "tensorflow",
+      "MLflow",
+      "Scikit-Learn",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 236,
+    "skills": [
+      "PostgreSQL",
+      "databricks",
+      "Snowflake",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 237,
+    "skills": [
+      "pytorch",
+      "TensorFlow",
+      "Scikit-Learn",
+      "mlflow"
+    ]
+  },
+  {
+    "job_id": 238,
+    "skills": [
+      "SQL",
+      "Airflow",
+      "python",
+      "ETL"
+    ]
+  },
+  {
+    "job_id": 239,
+    "skills": [
+      "kubernetes",
+      "docker",
+      "ci/cd",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 240,
+    "skills": [
+      "pandas",
+      "S3",
+      "aws",
+      "spark"
+    ]
+  },
+  {
+    "job_id": 241,
+    "skills": [
+      "Kubernetes",
+      "github actions",
+      "ci/cd",
+      "Docker"
+    ]
+  },
+  {
+    "job_id": 242,
+    "skills": [
+      "dbt",
+      "databricks",
+      "PostgreSQL",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 243,
+    "skills": [
+      "docker",
+      "GitHub Actions",
+      "ci/cd",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 244,
+    "skills": [
+      "sql",
+      "etl",
+      "python",
+      "Airflow"
+    ]
+  },
+  {
+    "job_id": 245,
+    "skills": [
+      "etl",
+      "Python",
+      "SQL",
+      "Airflow"
+    ]
+  },
+  {
+    "job_id": 246,
+    "skills": [
+      "Snowflake",
+      "dbt",
+      "PostgreSQL",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 247,
+    "skills": [
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 248,
+    "skills": [
+      "PostgreSQL",
+      "databricks",
+      "snowflake",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 249,
+    "skills": [
+      "Kubernetes",
+      "github actions",
+      "CI/CD",
+      "Docker"
+    ]
+  },
+  {
+    "job_id": 250,
+    "skills": [
+      "DataBricks",
+      "dbt",
+      "Snowflake",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "job_id": 251,
+    "skills": [
+      "tensorflow",
+      "pytorch",
+      "MLflow",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 252,
+    "skills": [
+      "PostgreSQL",
+      "Snowflake",
+      "databricks",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 253,
+    "skills": [
+      "pytorch",
+      "mlflow",
+      "scikit-learn",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 254,
+    "skills": [
+      "spark",
+      "s3",
+      "AWS",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 255,
+    "skills": [
+      "S3",
+      "AWS",
+      "Pandas",
+      "Spark"
+    ]
+  },
+  {
+    "job_id": 256,
+    "skills": [
+      "Spark",
+      "s3",
+      "aws",
+      "Pandas"
+    ]
+  },
+  {
+    "job_id": 257,
+    "skills": [
+      "docker",
+      "github actions",
+      "ci/cd",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 258,
+    "skills": [
+      "aws",
+      "s3",
+      "pandas",
+      "Spark"
+    ]
+  },
+  {
+    "job_id": 259,
+    "skills": [
+      "docker",
+      "CI/CD",
+      "GitHub Actions",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 260,
+    "skills": [
+      "MLflow",
+      "tensorflow",
+      "PyTorch",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 261,
+    "skills": [
+      "databricks",
+      "PostgreSQL",
+      "Snowflake",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 262,
+    "skills": [
+      "ci/cd",
+      "Docker",
+      "GitHub Actions",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 263,
+    "skills": [
+      "Airflow",
+      "python",
+      "sql",
+      "ETL"
+    ]
+  },
+  {
+    "job_id": 264,
+    "skills": [
+      "snowflake",
+      "DataBricks",
+      "postgresql",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 265,
+    "skills": [
+      "github actions",
+      "Kubernetes",
+      "ci/cd",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 266,
+    "skills": [
+      "Kubernetes",
+      "ci/cd",
+      "Docker",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 267,
+    "skills": [
+      "etl",
+      "Airflow",
+      "python",
+      "SQL"
+    ]
+  },
+  {
+    "job_id": 268,
+    "skills": [
+      "pytorch",
+      "TensorFlow",
+      "Scikit-Learn",
+      "MLflow"
+    ]
+  },
+  {
+    "job_id": 269,
+    "skills": [
+      "snowflake",
+      "DataBricks",
+      "dbt",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 270,
+    "skills": [
+      "Docker",
+      "ci/cd",
+      "GitHub Actions",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 271,
+    "skills": [
+      "snowflake",
+      "databricks",
+      "dbt",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 272,
+    "skills": [
+      "sql",
+      "Airflow",
+      "python",
+      "ETL"
+    ]
+  },
+  {
+    "job_id": 273,
+    "skills": [
+      "dbt",
+      "PostgreSQL",
+      "databricks",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 274,
+    "skills": [
+      "Pandas",
+      "Spark",
+      "aws",
+      "s3"
+    ]
+  },
+  {
+    "job_id": 275,
+    "skills": [
+      "postgresql",
+      "dbt",
+      "snowflake",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 276,
+    "skills": [
+      "python",
+      "sql",
+      "ETL",
+      "Airflow"
+    ]
+  },
+  {
+    "job_id": 277,
+    "skills": [
+      "postgresql",
+      "dbt",
+      "databricks",
+      "Snowflake"
+    ]
+  },
+  {
+    "job_id": 278,
+    "skills": [
+      "ETL",
+      "sql",
+      "Python",
+      "Airflow"
+    ]
+  },
+  {
+    "job_id": 279,
+    "skills": [
+      "ci/cd",
+      "Kubernetes",
+      "docker",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 280,
+    "skills": [
+      "Scikit-Learn",
+      "TensorFlow",
+      "pytorch",
+      "mlflow"
+    ]
+  },
+  {
+    "job_id": 281,
+    "skills": [
+      "ETL",
+      "airflow",
+      "python",
+      "SQL"
+    ]
+  },
+  {
+    "job_id": 282,
+    "skills": [
+      "Airflow",
+      "etl",
+      "sql",
+      "python"
+    ]
+  },
+  {
+    "job_id": 283,
+    "skills": [
+      "docker",
+      "kubernetes",
+      "GitHub Actions",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 284,
+    "skills": [
+      "spark",
+      "pandas",
+      "aws",
+      "S3"
+    ]
+  },
+  {
+    "job_id": 285,
+    "skills": [
+      "SQL",
+      "etl",
+      "python",
+      "airflow"
+    ]
+  },
+  {
+    "job_id": 286,
+    "skills": [
+      "github actions",
+      "docker",
+      "kubernetes",
+      "CI/CD"
+    ]
+  },
+  {
+    "job_id": 287,
+    "skills": [
+      "ci/cd",
+      "github actions",
+      "docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "job_id": 288,
+    "skills": [
+      "mlflow",
+      "scikit-learn",
+      "TensorFlow",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 289,
+    "skills": [
+      "MLflow",
+      "tensorflow",
+      "Scikit-Learn",
+      "PyTorch"
+    ]
+  },
+  {
+    "job_id": 290,
+    "skills": [
+      "Pandas",
+      "S3",
+      "AWS",
+      "spark"
+    ]
+  },
+  {
+    "job_id": 291,
+    "skills": [
+      "airflow",
+      "python",
+      "SQL",
+      "ETL"
+    ]
+  },
+  {
+    "job_id": 292,
+    "skills": [
+      "scikit-learn",
+      "TensorFlow",
+      "MLflow",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 293,
+    "skills": [
+      "Scikit-Learn",
+      "PyTorch",
+      "MLflow",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 294,
+    "skills": [
+      "PyTorch",
+      "MLflow",
+      "Scikit-Learn",
+      "TensorFlow"
+    ]
+  },
+  {
+    "job_id": 295,
+    "skills": [
+      "dbt",
+      "PostgreSQL",
+      "Snowflake",
+      "DataBricks"
+    ]
+  },
+  {
+    "job_id": 296,
+    "skills": [
+      "PostgreSQL",
+      "dbt",
+      "DataBricks",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 297,
+    "skills": [
+      "PyTorch",
+      "Scikit-Learn",
+      "mlflow",
+      "TensorFlow"
+    ]
+  },
+  {
+    "job_id": 298,
+    "skills": [
+      "ETL",
+      "airflow",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "job_id": 299,
+    "skills": [
+      "python",
+      "ETL",
+      "sql",
+      "airflow"
+    ]
+  },
+  {
+    "job_id": 300,
+    "skills": [
+      "Docker",
+      "github actions",
+      "Kubernetes",
+      "CI/CD"
+    ]
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "company_id": 39,
+    "name": "Hill-White",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 5,
+    "name": "Johnson, Stewart and Powell",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 1995
+  },
+  {
+    "company_id": 13,
+    "name": "Contreras-Meadows",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 15,
+    "name": "Martin, Carroll and Middleton",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 2002
+  },
+  {
+    "company_id": 8,
+    "name": "Robertson PLC",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 1990
+  },
+  {
+    "company_id": 32,
+    "name": "Rose PLC",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2019
+  },
+  {
+    "company_id": 50,
+    "name": "Austin, Mccullough and Jones",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 19,
+    "name": "Santiago-Thomas",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 49,
+    "name": "Fox-Evans",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 32,
+    "name": "Smith, Stewart and Brown",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 35,
+    "name": "Owens Ltd",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 28,
+    "name": "Gonzalez, Burnett and Hall",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 2020
+  },
+  {
+    "company_id": 45,
+    "name": "Walker Group",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 1997
+  },
+  {
+    "company_id": 25,
+    "name": "Guerrero, Reed and Newton",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 30,
+    "name": "Horn LLC",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 1997
+  },
+  {
+    "company_id": 47,
+    "name": "Martin LLC",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 1999
+  },
+  {
+    "company_id": 23,
+    "name": "King-Shea",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 2014
+  },
+  {
+    "company_id": 33,
+    "name": "Moore PLC",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 15,
+    "name": "Lopez LLC",
+    "industry": "Healthcare",
+    "size": "50-200",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 46,
+    "name": "Lucero, Sanchez and Perez",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 50,
+    "name": "David LLC",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 1,
+    "name": "Fischer-Sullivan",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 1,
+    "name": "Martin Inc",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2011
+  },
+  {
+    "company_id": 40,
+    "name": "Moore, Jones and Christensen",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 1999
+  },
+  {
+    "company_id": 31,
+    "name": "Fischer-Herrera",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 25,
+    "name": "Dunlap-Mendoza",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 2007
+  },
+  {
+    "company_id": 13,
+    "name": "Morris-Cooper",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2020
+  },
+  {
+    "company_id": 7,
+    "name": "Best-Marshall",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2022
+  },
+  {
+    "company_id": 12,
+    "name": "Jones-Ortiz",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 2009
+  },
+  {
+    "company_id": 3,
+    "name": "Gibson PLC",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 2011
+  },
+  {
+    "company_id": 16,
+    "name": "Perkins, Brown and Ruiz",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 2015
+  },
+  {
+    "company_id": 32,
+    "name": "Douglas Inc",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 45,
+    "name": "Walker-Austin",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 2,
+    "name": "Archer, Conley and Stewart",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 45,
+    "name": "Davis, Terrell and Ponce",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 2020
+  },
+  {
+    "company_id": 26,
+    "name": "Williams, Bautista and Rodriguez",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2006
+  },
+  {
+    "company_id": 5,
+    "name": "Mckee-Rivera",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2000
+  },
+  {
+    "company_id": 17,
+    "name": "Foster-Lindsey",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 45,
+    "name": "Schneider-Hernandez",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 49,
+    "name": "Simmons Ltd",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 8,
+    "name": "Figueroa PLC",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 1996
+  },
+  {
+    "company_id": 23,
+    "name": "Ponce-Giles",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 7,
+    "name": "Green, Howard and Nelson",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2020
+  },
+  {
+    "company_id": 47,
+    "name": "Greene Inc",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 1990
+  },
+  {
+    "company_id": 23,
+    "name": "Garner, Nolan and Williams",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 1,
+    "name": "Rhodes-Johnson",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 33,
+    "name": "Rollins-Lopez",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 1999
+  },
+  {
+    "company_id": 2,
+    "name": "Mueller-Kaufman",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 3,
+    "name": "Contreras, Allen and Crawford",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 22,
+    "name": "Brooks Group",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2000
+  },
+  {
+    "company_id": 34,
+    "name": "Sutton, Hopkins and Barnes",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 16,
+    "name": "Davenport-Miles",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2009
+  },
+  {
+    "company_id": 13,
+    "name": "Watkins-Smith",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 11,
+    "name": "Morgan, Roberts and Davis",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 37,
+    "name": "Miller LLC",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 1991
+  },
+  {
+    "company_id": 3,
+    "name": "Parker-Ramos",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 12,
+    "name": "Bradshaw, Werner and Miller",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 47,
+    "name": "Murphy, Allen and Price",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2022
+  },
+  {
+    "company_id": 39,
+    "name": "Odonnell LLC",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 15,
+    "name": "Morales, Douglas and Ryan",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2015
+  },
+  {
+    "company_id": 22,
+    "name": "Campbell-Stewart",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 1990
+  },
+  {
+    "company_id": 49,
+    "name": "Patel LLC",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 34,
+    "name": "Odonnell and Sons",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 2006
+  },
+  {
+    "company_id": 45,
+    "name": "Mccormick, Reid and King",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 13,
+    "name": "Torres-Collins",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 17,
+    "name": "Morgan-Glover",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 30,
+    "name": "Smith Group",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 22,
+    "name": "Curry, Joseph and Allen",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 1990
+  },
+  {
+    "company_id": 35,
+    "name": "Hopkins, Fletcher and Arnold",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 22,
+    "name": "Medina, Thomas and Nunez",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 17,
+    "name": "Crawford, Shaw and Hernandez",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 1999
+  },
+  {
+    "company_id": 2,
+    "name": "Allison-Martinez",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 2015
+  },
+  {
+    "company_id": 12,
+    "name": "Lee-Young",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 26,
+    "name": "Nguyen, Kirk and Matthews",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 23,
+    "name": "Barnett, Mercer and Harris",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 50,
+    "name": "Preston-Campos",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 19,
+    "name": "Austin, Brooks and Maldonado",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2002
+  },
+  {
+    "company_id": 35,
+    "name": "Sherman-Jones",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 34,
+    "name": "Davis, Martin and Johnson",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 19,
+    "name": "Lawrence, Russo and Reed",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2019
+  },
+  {
+    "company_id": 35,
+    "name": "Garcia, Deleon and Williams",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 39,
+    "name": "Hart, Boyd and Smith",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 1999
+  },
+  {
+    "company_id": 40,
+    "name": "Macdonald-Lawson",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 2000
+  },
+  {
+    "company_id": 14,
+    "name": "Jones, Mccoy and Rowe",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 3,
+    "name": "Meza Ltd",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 3,
+    "name": "Miller, Cantrell and Gill",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 1991
+  },
+  {
+    "company_id": 14,
+    "name": "Yang Ltd",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2002
+  },
+  {
+    "company_id": 46,
+    "name": "Hansen Group",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 45,
+    "name": "Walker-Lewis",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2011
+  },
+  {
+    "company_id": 25,
+    "name": "Foster Inc",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 1996
+  },
+  {
+    "company_id": 7,
+    "name": "Jackson-Mccarthy",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 42,
+    "name": "Lewis and Sons",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 2002
+  },
+  {
+    "company_id": 2,
+    "name": "Martinez-Padilla",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 2009
+  },
+  {
+    "company_id": 10,
+    "name": "Williams-Abbott",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 1996
+  },
+  {
+    "company_id": 26,
+    "name": "Brown PLC",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 1996
+  },
+  {
+    "company_id": 4,
+    "name": "Hernandez PLC",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 20,
+    "name": "Pearson-Parks",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 1990
+  },
+  {
+    "company_id": 46,
+    "name": "Gallegos, Morton and Romero",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 4,
+    "name": "Underwood, Jimenez and Kent",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 42,
+    "name": "Watson-Thomas",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 38,
+    "name": "Wiggins Group",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 19,
+    "name": "Mckenzie-Carter",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 1996
+  },
+  {
+    "company_id": 43,
+    "name": "Mccullough, Cooper and Brown",
+    "industry": "Healthcare",
+    "size": "50-200",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 2,
+    "name": "Grant Group",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2019
+  },
+  {
+    "company_id": 11,
+    "name": "Bradley Group",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 16,
+    "name": "Ortiz, Lopez and Stewart",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2020
+  },
+  {
+    "company_id": 3,
+    "name": "Andrews-Johnson",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 47,
+    "name": "Evans-Guzman",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 18,
+    "name": "Parker-Casey",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 43,
+    "name": "Johnson-Russell",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 34,
+    "name": "Mitchell-Herrera",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 36,
+    "name": "Jackson LLC",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 46,
+    "name": "Henry, Todd and Lambert",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 36,
+    "name": "Jenkins, Nichols and Marshall",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 37,
+    "name": "Walker Group",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 8,
+    "name": "Baker Group",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 2014
+  },
+  {
+    "company_id": 45,
+    "name": "Curtis, Norman and Carroll",
+    "industry": "Healthcare",
+    "size": "50-200",
+    "founded_year": 1993
+  },
+  {
+    "company_id": 32,
+    "name": "Guerrero Ltd",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2015
+  },
+  {
+    "company_id": 33,
+    "name": "Olson-Davis",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 1993
+  },
+  {
+    "company_id": 15,
+    "name": "Wilson and Sons",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 33,
+    "name": "Johnson, Hanson and Gordon",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 1995
+  },
+  {
+    "company_id": 10,
+    "name": "Russell, Bentley and Williams",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 2019
+  },
+  {
+    "company_id": 29,
+    "name": "Smith, Lopez and Cox",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 1997
+  },
+  {
+    "company_id": 15,
+    "name": "Gross-Gray",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 26,
+    "name": "Bowen Ltd",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 2014
+  },
+  {
+    "company_id": 35,
+    "name": "Evans Group",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 14,
+    "name": "Romero, Brown and Powers",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 6,
+    "name": "Brown Group",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 31,
+    "name": "Berg, Moyer and Hale",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2002
+  },
+  {
+    "company_id": 17,
+    "name": "West LLC",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 1991
+  },
+  {
+    "company_id": 21,
+    "name": "Davis-Flores",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 1993
+  },
+  {
+    "company_id": 14,
+    "name": "Owens Group",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2015
+  },
+  {
+    "company_id": 22,
+    "name": "Tran-Hill",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 43,
+    "name": "Walters-Manning",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 1991
+  },
+  {
+    "company_id": 41,
+    "name": "Smith-Brown",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 25,
+    "name": "Gonzales Group",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2000
+  },
+  {
+    "company_id": 8,
+    "name": "Ryan, Wang and Levy",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2007
+  },
+  {
+    "company_id": 39,
+    "name": "Neal, Green and Potts",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2006
+  },
+  {
+    "company_id": 27,
+    "name": "Smith-Davis",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 40,
+    "name": "Doyle and Sons",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 44,
+    "name": "Smith-Tapia",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 47,
+    "name": "Jenkins-Carter",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2004
+  },
+  {
+    "company_id": 19,
+    "name": "Martinez-Ramsey",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 29,
+    "name": "Sampson-Carter",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2006
+  },
+  {
+    "company_id": 10,
+    "name": "Johnson, Gilbert and Carroll",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 2019
+  },
+  {
+    "company_id": 12,
+    "name": "Rowe, Mejia and Carter",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 2014
+  },
+  {
+    "company_id": 35,
+    "name": "Murray, Montgomery and Calderon",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 1,
+    "name": "Murphy-Roberts",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 1997
+  },
+  {
+    "company_id": 17,
+    "name": "Parker-Fox",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 45,
+    "name": "Newton, Crawford and Hancock",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 32,
+    "name": "Thomas-Gordon",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2014
+  },
+  {
+    "company_id": 26,
+    "name": "Cooper PLC",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2022
+  },
+  {
+    "company_id": 34,
+    "name": "Jones LLC",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 2002
+  },
+  {
+    "company_id": 20,
+    "name": "Wilson-Sanders",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 33,
+    "name": "Butler, Manning and Diaz",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 12,
+    "name": "Bell Inc",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 39,
+    "name": "Smith-Shaw",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2009
+  },
+  {
+    "company_id": 25,
+    "name": "Jones-Warner",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 5,
+    "name": "Smith PLC",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 10,
+    "name": "Archer, Diaz and Ryan",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 36,
+    "name": "Carlson, King and Howard",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2002
+  },
+  {
+    "company_id": 9,
+    "name": "Khan Inc",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 2002
+  },
+  {
+    "company_id": 31,
+    "name": "Walters and Sons",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 25,
+    "name": "Booker, Nelson and Rivera",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 4,
+    "name": "Mitchell, Wood and Valentine",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 31,
+    "name": "Mora PLC",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 12,
+    "name": "Reed-Lowery",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 1,
+    "name": "Miller-Flynn",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 1997
+  },
+  {
+    "company_id": 30,
+    "name": "Hall LLC",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 37,
+    "name": "Ewing Ltd",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 1995
+  },
+  {
+    "company_id": 49,
+    "name": "Parker Ltd",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 29,
+    "name": "Grant Inc",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 33,
+    "name": "Diaz, Duffy and White",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 1991
+  },
+  {
+    "company_id": 38,
+    "name": "Hughes Group",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 1996
+  },
+  {
+    "company_id": 12,
+    "name": "Irwin-Brown",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 1995
+  },
+  {
+    "company_id": 39,
+    "name": "Morgan Group",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2022
+  },
+  {
+    "company_id": 9,
+    "name": "Hester, Contreras and Manning",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 29,
+    "name": "Brooks-Morgan",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2022
+  },
+  {
+    "company_id": 30,
+    "name": "Delgado, Marquez and Smith",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 6,
+    "name": "Jones-Villarreal",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 25,
+    "name": "Frost, Parker and Smith",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2022
+  },
+  {
+    "company_id": 36,
+    "name": "Obrien Inc",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 18,
+    "name": "Wilcox-Burke",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2015
+  },
+  {
+    "company_id": 41,
+    "name": "Robinson LLC",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 1999
+  },
+  {
+    "company_id": 25,
+    "name": "Duran, Boyd and Taylor",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 23,
+    "name": "Johnson, Taylor and Beck",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 42,
+    "name": "Hughes and Sons",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 1995
+  },
+  {
+    "company_id": 49,
+    "name": "Contreras and Sons",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 16,
+    "name": "Wallace-Sanders",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 1995
+  },
+  {
+    "company_id": 28,
+    "name": "Martin-Wilson",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 46,
+    "name": "Watson-Mckinney",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2000
+  },
+  {
+    "company_id": 45,
+    "name": "Smith Inc",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2000
+  },
+  {
+    "company_id": 14,
+    "name": "Walter, Cooper and Moore",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 42,
+    "name": "Fuller, Berger and Peters",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2000
+  },
+  {
+    "company_id": 12,
+    "name": "Brown Group",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 37,
+    "name": "Jackson, Beltran and Cooper",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2009
+  },
+  {
+    "company_id": 21,
+    "name": "Sparks, Gonzalez and Taylor",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 19,
+    "name": "Ellis, West and Washington",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 37,
+    "name": "Powell-Meyers",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 15,
+    "name": "Wilson, Lawson and Woods",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2020
+  },
+  {
+    "company_id": 38,
+    "name": "Ball Group",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 30,
+    "name": "Chandler, Gardner and Gutierrez",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 1990
+  },
+  {
+    "company_id": 26,
+    "name": "Holland, Stone and Long",
+    "industry": "Healthcare",
+    "size": "50-200",
+    "founded_year": 2000
+  },
+  {
+    "company_id": 30,
+    "name": "James LLC",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 44,
+    "name": "Howell, Foster and Nguyen",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 2015
+  },
+  {
+    "company_id": 11,
+    "name": "Andrews Ltd",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 1993
+  },
+  {
+    "company_id": 37,
+    "name": "Hall, Bates and Hamilton",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2009
+  },
+  {
+    "company_id": 41,
+    "name": "Hopkins, Ward and Mullen",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 39,
+    "name": "Nguyen-Humphrey",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 2004
+  },
+  {
+    "company_id": 30,
+    "name": "Scott-Levine",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 13,
+    "name": "Nichols-Murphy",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 1997
+  },
+  {
+    "company_id": 13,
+    "name": "Smith-Williams",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2006
+  },
+  {
+    "company_id": 41,
+    "name": "Smith-Zavala",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 14,
+    "name": "Peterson LLC",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2001
+  },
+  {
+    "company_id": 38,
+    "name": "Davidson, Walter and Stuart",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 1995
+  },
+  {
+    "company_id": 23,
+    "name": "Jones-Martin",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 11,
+    "name": "Bishop, Mills and Middleton",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 1993
+  },
+  {
+    "company_id": 28,
+    "name": "Stone, Morris and Bailey",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 23,
+    "name": "Manning-Wall",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 39,
+    "name": "Myers Inc",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2019
+  },
+  {
+    "company_id": 31,
+    "name": "Hawkins Group",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 17,
+    "name": "Carroll, Parker and Willis",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 44,
+    "name": "Jimenez-Marshall",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 1,
+    "name": "Mays-Fields",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 37,
+    "name": "Larson-Carter",
+    "industry": "Healthcare",
+    "size": "50-200",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 16,
+    "name": "Wong, Burnett and Gonzales",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 45,
+    "name": "Johnson Inc",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 1990
+  },
+  {
+    "company_id": 27,
+    "name": "Jackson, Adams and Jones",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 2000
+  },
+  {
+    "company_id": 45,
+    "name": "Park PLC",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 1991
+  },
+  {
+    "company_id": 10,
+    "name": "Knox, Cole and Farrell",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 28,
+    "name": "Carroll, Dyer and Hutchinson",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 1990
+  },
+  {
+    "company_id": 16,
+    "name": "Harrison PLC",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2022
+  },
+  {
+    "company_id": 15,
+    "name": "Santos LLC",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2009
+  },
+  {
+    "company_id": 40,
+    "name": "Jordan PLC",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 7,
+    "name": "Porter Inc",
+    "industry": "Healthcare",
+    "size": "50-200",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 3,
+    "name": "Lewis-Ponce",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 1991
+  },
+  {
+    "company_id": 4,
+    "name": "Wilson PLC",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 8,
+    "name": "Taylor Ltd",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 14,
+    "name": "Martin, Guzman and Baker",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 1995
+  },
+  {
+    "company_id": 27,
+    "name": "Trujillo, Perry and Archer",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 27,
+    "name": "Ellis-Ayers",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 43,
+    "name": "Skinner, Walker and Chavez",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2022
+  },
+  {
+    "company_id": 41,
+    "name": "Gray-Thornton",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 28,
+    "name": "Obrien Inc",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 12,
+    "name": "Padilla-Brown",
+    "industry": "Education",
+    "size": "50-200",
+    "founded_year": 2007
+  },
+  {
+    "company_id": 44,
+    "name": "Mcfarland-Moore",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2022
+  },
+  {
+    "company_id": 14,
+    "name": "Harrington, Dunn and Moore",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 44,
+    "name": "Sanders-Cook",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 1991
+  },
+  {
+    "company_id": 1,
+    "name": "Reynolds and Sons",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 24,
+    "name": "Williams-Cobb",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 20,
+    "name": "Wagner-Barron",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2006
+  },
+  {
+    "company_id": 46,
+    "name": "Sullivan, Roberts and Hansen",
+    "industry": "E-commerce",
+    "size": "1000+",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 35,
+    "name": "Taylor, Jordan and Newman",
+    "industry": "E-commerce",
+    "size": "200-500",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 36,
+    "name": "Woods-Richards",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 2004
+  },
+  {
+    "company_id": 28,
+    "name": "Fry, Freeman and Russell",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 1997
+  },
+  {
+    "company_id": 33,
+    "name": "Rowe-Higgins",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 1999
+  },
+  {
+    "company_id": 32,
+    "name": "Lee, Hall and Ramos",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 1991
+  },
+  {
+    "company_id": 30,
+    "name": "Gentry PLC",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 13,
+    "name": "Ramirez, Alvarez and Wells",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 1994
+  },
+  {
+    "company_id": 25,
+    "name": "Patel-Cunningham",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2011
+  },
+  {
+    "company_id": 30,
+    "name": "Webb LLC",
+    "industry": "Tech",
+    "size": "500-1000",
+    "founded_year": 2015
+  },
+  {
+    "company_id": 17,
+    "name": "Holt-Barrera",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2006
+  },
+  {
+    "company_id": 8,
+    "name": "Smith-Brown",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2019
+  },
+  {
+    "company_id": 17,
+    "name": "David-Gonzalez",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 27,
+    "name": "Valencia, Whitehead and Weaver",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2016
+  },
+  {
+    "company_id": 20,
+    "name": "Hughes Group",
+    "industry": "Healthcare",
+    "size": "50-200",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 33,
+    "name": "Young-Campbell",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 7,
+    "name": "Moore LLC",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2006
+  },
+  {
+    "company_id": 49,
+    "name": "Carr, Mckinney and Rogers",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 1995
+  },
+  {
+    "company_id": 27,
+    "name": "Adams-Snyder",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 35,
+    "name": "Shepard-Stevens",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 27,
+    "name": "Neal, Adams and Avila",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 11,
+    "name": "Meyers, Hernandez and Hernandez",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 2011
+  },
+  {
+    "company_id": 42,
+    "name": "Davis, Nolan and Morrow",
+    "industry": "Healthcare",
+    "size": "1000+",
+    "founded_year": 2012
+  },
+  {
+    "company_id": 41,
+    "name": "Pacheco and Sons",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 48,
+    "name": "Garcia Group",
+    "industry": "Healthcare",
+    "size": "50-200",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 46,
+    "name": "Moreno LLC",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 1997
+  },
+  {
+    "company_id": 29,
+    "name": "Molina Inc",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 49,
+    "name": "Henderson-Davidson",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 1996
+  },
+  {
+    "company_id": 43,
+    "name": "Gonzalez, May and Palmer",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2018
+  },
+  {
+    "company_id": 20,
+    "name": "Leon-Duffy",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2011
+  },
+  {
+    "company_id": 24,
+    "name": "Clarke-Hughes",
+    "industry": "Tech",
+    "size": "200-500",
+    "founded_year": 2021
+  },
+  {
+    "company_id": 30,
+    "name": "Burke and Sons",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 23,
+    "name": "Stewart PLC",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2008
+  },
+  {
+    "company_id": 50,
+    "name": "Morgan, Hernandez and Gibson",
+    "industry": "E-commerce",
+    "size": "500-1000",
+    "founded_year": 2011
+  },
+  {
+    "company_id": 2,
+    "name": "Johnson-Smith",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2010
+  },
+  {
+    "company_id": 45,
+    "name": "Medina, Gray and Brown",
+    "industry": "Finance",
+    "size": "500-1000",
+    "founded_year": 1997
+  },
+  {
+    "company_id": 20,
+    "name": "Edwards Ltd",
+    "industry": "Education",
+    "size": "200-500",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 5,
+    "name": "Morrison Inc",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 47,
+    "name": "Fowler Group",
+    "industry": "Finance",
+    "size": "1000+",
+    "founded_year": 2017
+  },
+  {
+    "company_id": 39,
+    "name": "Andrews, Douglas and Porter",
+    "industry": "Education",
+    "size": "1000+",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 33,
+    "name": "Johnson and Sons",
+    "industry": "Healthcare",
+    "size": "500-1000",
+    "founded_year": 2003
+  },
+  {
+    "company_id": 10,
+    "name": "Anthony-Lindsey",
+    "industry": "E-commerce",
+    "size": "50-200",
+    "founded_year": 2013
+  },
+  {
+    "company_id": 30,
+    "name": "Henry-Harrington",
+    "industry": "Healthcare",
+    "size": "200-500",
+    "founded_year": 2019
+  },
+  {
+    "company_id": 40,
+    "name": "Garcia LLC",
+    "industry": "Tech",
+    "size": "50-200",
+    "founded_year": 2007
+  },
+  {
+    "company_id": 46,
+    "name": "Wilson, Branch and Lopez",
+    "industry": "Finance",
+    "size": "200-500",
+    "founded_year": 1998
+  },
+  {
+    "company_id": 27,
+    "name": "Mcneil Ltd",
+    "industry": "Tech",
+    "size": "1000+",
+    "founded_year": 2015
+  },
+  {
+    "company_id": 15,
+    "name": "Fernandez, Mosley and Rivera",
+    "industry": "Education",
+    "size": "500-1000",
+    "founded_year": 1992
+  },
+  {
+    "company_id": 25,
+    "name": "Green-Conner",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 2005
+  },
+  {
+    "company_id": 12,
+    "name": "Love, Thompson and Murray",
+    "industry": "Finance",
+    "size": "50-200",
+    "founded_year": 1993
+  }
+]
